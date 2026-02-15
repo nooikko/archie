@@ -1,0 +1,35 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#0a0a0a"/>
+
+  <!-- Archipelago-inspired geometric design: connected nodes -->
+  <!-- Main central node -->
+  <circle cx="256" cy="256" r="40" fill="#ffffff"/>
+
+  <!-- Surrounding nodes representing connected games -->
+  <circle cx="170" cy="170" r="28" fill="#ffffff" opacity="0.9"/>
+  <circle cx="342" cy="170" r="28" fill="#ffffff" opacity="0.9"/>
+  <circle cx="170" cy="342" r="28" fill="#ffffff" opacity="0.9"/>
+  <circle cx="342" cy="342" r="28" fill="#ffffff" opacity="0.9"/>
+
+  <!-- Connection lines -->
+  <line x1="256" y1="256" x2="170" y2="170" stroke="#ffffff" stroke-width="3" opacity="0.5"/>
+  <line x1="256" y1="256" x2="342" y2="170" stroke="#ffffff" stroke-width="3" opacity="0.5"/>
+  <line x1="256" y1="256" x2="170" y2="342" stroke="#ffffff" stroke-width="3" opacity="0.5"/>
+  <line x1="256" y1="256" x2="342" y2="342" stroke="#ffffff" stroke-width="3" opacity="0.5"/>
+
+  <!-- Outer accent nodes -->
+  <circle cx="256" cy="120" r="18" fill="#ffffff" opacity="0.7"/>
+  <circle cx="392" cy="256" r="18" fill="#ffffff" opacity="0.7"/>
+  <circle cx="256" cy="392" r="18" fill="#ffffff" opacity="0.7"/>
+  <circle cx="120" cy="256" r="18" fill="#ffffff" opacity="0.7"/>
+
+  <!-- Connection lines to outer nodes -->
+  <line x1="256" y1="256" x2="256" y2="120" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <line x1="256" y1="256" x2="392" y2="256" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <line x1="256" y1="256" x2="256" y2="392" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <line x1="256" y1="256" x2="120" y2="256" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+
+  <!-- Subtle "A" letterform integrated into design -->
+  <path d="M 256 216 L 276 296 L 236 296 Z" fill="#0a0a0a" opacity="0.8"/>
+</svg>
