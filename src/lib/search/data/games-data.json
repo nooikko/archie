@@ -6,7 +6,11 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Arcade", "Action"],
+      "Genres": [
+        "Strategy",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -26,7 +30,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -36,7 +43,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -46,7 +56,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -56,7 +69,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -66,7 +82,11 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": false
     },
@@ -76,7 +96,10 @@
       "Platform": "Atari 2600",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Puzzle"],
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 1978,
       "IsMultiplayer": false
     },
@@ -86,7 +109,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -96,7 +122,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": true
     },
@@ -106,7 +134,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Adventure", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Simulation"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -116,7 +148,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -126,7 +161,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -136,7 +175,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Arcade", "Indie"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Arcade",
+        "Indie"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": false
     },
@@ -146,7 +191,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -156,7 +205,9 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -166,7 +217,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -176,7 +230,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 1988,
       "IsMultiplayer": false
     },
@@ -186,7 +242,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -206,7 +266,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Indie", "Puzzle"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -216,7 +280,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Indie", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -226,7 +294,12 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Adventure", "Action", "Simulation"],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -236,7 +309,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -256,7 +332,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -266,7 +347,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -276,7 +361,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -286,7 +375,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": true
     },
@@ -296,7 +389,10 @@
       "Platform": "PC (VR)",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -306,7 +402,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -316,7 +414,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -326,7 +426,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -336,7 +438,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -346,7 +451,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -356,7 +466,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -376,7 +491,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action"],
+      "Genres": [
+        "Strategy",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -386,7 +504,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -396,7 +518,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -406,7 +530,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action", "Puzzle"],
+      "Genres": [
+        "Strategy",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": true
     },
@@ -416,7 +544,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -426,7 +557,9 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": true
     },
@@ -436,7 +569,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action", "RPG"],
+      "Genres": [
+        "Shooter",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": true
     },
@@ -446,7 +583,10 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -456,7 +596,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Action", "RPG"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -466,7 +611,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -476,7 +626,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -486,7 +638,9 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": false
     },
@@ -496,7 +650,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG"],
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -506,7 +663,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -516,7 +676,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -526,7 +688,11 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action", "RPG"],
+      "Genres": [
+        "Platformer",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -536,7 +702,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -546,7 +715,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -556,7 +729,10 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": false
     },
@@ -566,7 +742,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -576,7 +754,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -586,7 +769,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -596,7 +784,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -606,7 +799,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -616,7 +814,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie"],
+      "Genres": [
+        "Platformer",
+        "Indie"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -626,7 +827,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie"],
+      "Genres": [
+        "Platformer",
+        "Indie"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -636,7 +840,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "RPG", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -646,7 +855,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG"],
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -666,7 +878,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": true
     },
@@ -676,7 +890,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -686,7 +904,9 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -696,7 +916,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": true
     },
@@ -706,7 +928,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Indie", "Massively Multiplayer"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -716,7 +944,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": true
     },
@@ -726,7 +956,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -736,7 +969,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -756,7 +991,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Arcade", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -766,7 +1006,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie"],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -776,7 +1019,9 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -786,7 +1031,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -796,7 +1045,12 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": false
     },
@@ -806,7 +1060,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -826,7 +1084,9 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": false
     },
@@ -836,7 +1096,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG", "Puzzle"],
+      "Genres": [
+        "Action",
+        "RPG",
+        "Puzzle"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -846,7 +1110,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2008,
       "IsMultiplayer": false
     },
@@ -856,7 +1122,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": true
     },
@@ -866,7 +1136,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": true
     },
@@ -876,7 +1151,10 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": false
     },
@@ -886,7 +1164,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -896,7 +1178,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Fighting"],
+      "Genres": [
+        "Action",
+        "Fighting"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": true
     },
@@ -906,7 +1191,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -916,7 +1204,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -926,7 +1217,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2014,
       "IsMultiplayer": true
     },
@@ -936,7 +1230,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -946,7 +1243,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -956,7 +1256,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -966,7 +1270,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": true
     },
@@ -986,7 +1293,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -996,7 +1306,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -1006,7 +1319,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -1016,7 +1333,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing"],
+      "Genres": [
+        "Racing"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -1026,7 +1345,9 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -1036,7 +1357,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -1046,7 +1369,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -1056,7 +1382,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -1066,7 +1396,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -1076,7 +1408,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": true
     },
@@ -1086,7 +1420,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": false
     },
@@ -1096,7 +1432,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -1106,7 +1444,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1116,7 +1458,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter"],
+      "Genres": [
+        "Shooter"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -1126,7 +1470,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1136,7 +1483,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -1146,7 +1496,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Action", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -1156,7 +1510,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -1166,7 +1524,9 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1176,7 +1536,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1186,7 +1550,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -1196,7 +1563,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": true
     },
@@ -1206,7 +1576,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG", "Casual", "Strategy", "Simulation"],
+      "Genres": [
+        "Action",
+        "RPG",
+        "Casual",
+        "Strategy",
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -1216,7 +1592,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1226,7 +1606,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": false
     },
@@ -1236,7 +1618,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Racing", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Racing",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": true
     },
@@ -1246,7 +1633,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -1266,7 +1657,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action", "RPG"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1276,7 +1672,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Indie", "Action"],
+      "Genres": [
+        "Shooter",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1286,7 +1686,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -1296,7 +1701,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": true
     },
@@ -1306,7 +1716,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1316,7 +1729,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1326,7 +1743,10 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1987,
       "IsMultiplayer": false
     },
@@ -1336,7 +1756,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "Puzzle", "Indie", "Platformer"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Indie",
+        "Platformer"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": false
     },
@@ -1346,7 +1772,9 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1987,
       "IsMultiplayer": false
     },
@@ -1356,7 +1784,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -1366,7 +1797,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -1376,7 +1809,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1991,
       "IsMultiplayer": true
     },
@@ -1386,7 +1821,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1992,
       "IsMultiplayer": false
     },
@@ -1396,7 +1833,10 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "RPG"],
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2008,
       "IsMultiplayer": false
     },
@@ -1406,7 +1846,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "RPG"],
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -1416,7 +1859,11 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG", "Simulation"],
+      "Genres": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -1426,7 +1873,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "RPG"],
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -1436,7 +1886,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "RPG"],
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -1446,7 +1899,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -1456,7 +1911,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": true
     },
@@ -1466,7 +1923,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -1476,7 +1936,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -1486,7 +1948,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1496,7 +1963,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1506,7 +1976,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -1526,7 +2000,11 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": true
     },
@@ -1536,7 +2014,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing"],
+      "Genres": [
+        "Racing"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": true
     },
@@ -1546,7 +2026,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -1556,7 +2040,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1576,7 +2062,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Simulation"],
+      "Genres": [
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1586,7 +2075,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -1596,7 +2087,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -1606,7 +2099,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -1616,7 +2111,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1626,7 +2125,10 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Arcade"],
+      "Genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -1636,7 +2138,11 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1988,
       "IsMultiplayer": false
     },
@@ -1646,7 +2152,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "Genres": [
+        "Massively Multiplayer",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": true
     },
@@ -1656,7 +2166,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -1666,7 +2179,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": true
     },
@@ -1676,7 +2192,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -1686,7 +2207,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": true
     },
@@ -1696,7 +2222,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Action"],
+      "Genres": [
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -1706,7 +2235,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -1716,7 +2249,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade"],
+      "Genres": [
+        "Arcade"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": true
     },
@@ -1726,7 +2261,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1736,7 +2275,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -1746,7 +2288,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -1756,7 +2302,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2014,
       "IsMultiplayer": false
     },
@@ -1766,7 +2316,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -1776,7 +2329,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action", "Simulation"],
+      "Genres": [
+        "Shooter",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -1786,7 +2343,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1796,7 +2357,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -1806,7 +2371,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter"],
+      "Genres": [
+        "Shooter"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -1816,7 +2383,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual"],
+      "Genres": [
+        "Casual"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -1826,7 +2395,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -1836,7 +2408,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "Genres": [
+        "RPG",
+        "Puzzle",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -1846,7 +2424,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "Genres": [
+        "RPG",
+        "Puzzle",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1856,7 +2440,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -1866,7 +2453,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Educational", "Indie", "RPG", "Puzzle"],
+      "Genres": [
+        "Educational",
+        "Indie",
+        "RPG",
+        "Puzzle"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": true
     },
@@ -1876,7 +2468,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card", "Indie", "RPG", "Simulation"],
+      "Genres": [
+        "Card",
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -1886,7 +2483,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter"],
+      "Genres": [
+        "Shooter"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1896,7 +2495,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade"],
+      "Genres": [
+        "Arcade"
+      ],
       "ReleaseYear": 2008,
       "IsMultiplayer": false
     },
@@ -1906,7 +2507,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Strategy", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Strategy",
+        "Adventure"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -1916,7 +2521,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -1926,7 +2535,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -1946,7 +2558,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -1956,7 +2571,13 @@
       "Platform": "PC (VR)",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing", "Adventure", "Casual", "Simulation", "Sports"],
+      "Genres": [
+        "Racing",
+        "Adventure",
+        "Casual",
+        "Simulation",
+        "Sports"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": true
     },
@@ -1966,7 +2587,11 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Strategy", "Indie"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -1976,7 +2601,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -1986,7 +2613,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": true
     },
@@ -1996,7 +2627,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Simulation",
+        "Puzzle"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": true
     },
@@ -2006,7 +2641,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie"],
+      "Genres": [
+        "Casual",
+        "Indie"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -2016,7 +2654,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -2026,7 +2667,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -2036,7 +2680,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -2046,7 +2693,9 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": false
     },
@@ -2056,7 +2705,11 @@
       "Platform": "3DS",
       "Emulator": "Citra",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": false
     },
@@ -2066,7 +2719,10 @@
       "Platform": "PSP",
       "Emulator": "PPSSPP",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -2076,7 +2732,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": true
     },
@@ -2086,7 +2744,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -2096,7 +2757,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG", "Strategy", "Simulation", "Indie"],
+      "Genres": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -2106,7 +2773,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": true
     },
@@ -2116,7 +2786,9 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing"],
+      "Genres": [
+        "Racing"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -2126,7 +2798,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": true
     },
@@ -2136,7 +2811,11 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -2146,7 +2825,9 @@
       "Platform": "PSP",
       "Emulator": "PPSSPP",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade"],
+      "Genres": [
+        "Arcade"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -2156,7 +2837,11 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1992,
       "IsMultiplayer": false
     },
@@ -2166,7 +2851,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": true
     },
@@ -2176,7 +2865,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": true
     },
@@ -2186,7 +2878,9 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -2196,7 +2890,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -2206,7 +2902,11 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1986,
       "IsMultiplayer": false
     },
@@ -2216,7 +2916,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 1989,
       "IsMultiplayer": false
     },
@@ -2226,7 +2929,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": true
     },
@@ -2236,7 +2942,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -2246,7 +2956,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -2256,7 +2970,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -2266,7 +2983,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -2276,7 +2998,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -2286,7 +3010,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": true
     },
@@ -2296,7 +3023,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -2306,7 +3036,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -2316,7 +3049,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -2326,7 +3063,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": false
     },
@@ -2336,7 +3075,10 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -2346,7 +3088,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG"],
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": false
     },
@@ -2356,7 +3101,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Educational"],
+      "Genres": [
+        "Educational"
+      ],
       "ReleaseYear": 1991,
       "IsMultiplayer": false
     },
@@ -2366,7 +3113,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing"],
+      "Genres": [
+        "Racing"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": true
     },
@@ -2376,7 +3125,9 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing"],
+      "Genres": [
+        "Racing"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -2386,7 +3137,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -2406,7 +3159,9 @@
       "Platform": "Wii",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Sports"],
+      "Genres": [
+        "Sports"
+      ],
       "ReleaseYear": 2008,
       "IsMultiplayer": false
     },
@@ -2416,7 +3171,11 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -2426,7 +3185,10 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -2436,7 +3198,12 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "Genres": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": true
     },
@@ -2446,7 +3213,11 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Arcade", "Action"],
+      "Genres": [
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 1988,
       "IsMultiplayer": true
     },
@@ -2456,7 +3227,9 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": false
     },
@@ -2466,7 +3239,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -2476,7 +3252,12 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "Genres": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": true
     },
@@ -2486,7 +3267,9 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -2496,7 +3279,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": false
     },
@@ -2506,7 +3292,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": false
     },
@@ -2516,7 +3304,9 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -2526,7 +3316,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -2536,7 +3329,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -2546,7 +3341,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -2556,7 +3354,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -2566,7 +3368,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Indie", "Platformer"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Indie",
+        "Platformer"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -2576,7 +3384,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -2586,7 +3396,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -2596,7 +3409,11 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -2606,7 +3423,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -2616,7 +3436,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action"],
+      "Genres": [
+        "Strategy",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -2626,7 +3449,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "Genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": true
     },
@@ -2636,7 +3465,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "Genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": true
     },
@@ -2646,7 +3481,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "Genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": true
     },
@@ -2656,7 +3497,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Casual",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -2666,7 +3512,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -2676,7 +3526,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -2686,7 +3541,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -2696,7 +3555,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -2706,7 +3569,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -2716,7 +3584,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -2736,7 +3608,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -2746,7 +3623,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -2756,7 +3638,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation",
+        "Indie"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -2766,7 +3654,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation",
+        "Indie"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -2776,7 +3670,11 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Indie", "Puzzle"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -2796,7 +3694,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -2806,7 +3708,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "Genres": [
+        "Massively Multiplayer",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -2816,7 +3722,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -2826,7 +3735,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -2836,7 +3748,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -2846,7 +3762,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Arcade"],
+      "Genres": [
+        "Indie",
+        "Arcade"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": false
     },
@@ -2856,7 +3775,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG", "Casual", "Strategy", "Indie"],
+      "Genres": [
+        "Adventure",
+        "RPG",
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -2866,7 +3791,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -2876,7 +3805,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -2886,7 +3819,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -2906,7 +3843,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -2916,7 +3855,9 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -2926,7 +3867,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -2936,7 +3881,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -2956,7 +3904,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Massively Multiplayer", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": true
     },
@@ -2966,7 +3919,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -2976,7 +3931,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -2986,7 +3945,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual"],
+      "Genres": [
+        "Casual"
+      ],
       "ReleaseYear": 2008,
       "IsMultiplayer": false
     },
@@ -2996,7 +3957,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -3006,7 +3970,10 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 1989,
       "IsMultiplayer": false
     },
@@ -3016,7 +3983,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Puzzle", "Indie"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle",
+        "Indie"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -3026,7 +3999,9 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -3036,7 +4011,10 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Puzzle"],
+      "Genres": [
+        "Strategy",
+        "Puzzle"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": true
     },
@@ -3046,7 +4024,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Simulation"],
+      "Genres": [
+        "Arcade",
+        "Simulation"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -3056,7 +4037,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG"],
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -3066,7 +4050,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -3076,7 +4063,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Simulation"],
+      "Genres": [
+        "Simulation"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3086,7 +4075,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3096,7 +4087,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -3106,7 +4099,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": true
     },
@@ -3116,7 +4111,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie", "Action"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": true
     },
@@ -3126,7 +4126,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual"],
+      "Genres": [
+        "Casual"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -3136,7 +4138,10 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2011,
       "IsMultiplayer": false
     },
@@ -3146,7 +4151,9 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -3156,7 +4163,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": true
     },
@@ -3166,7 +4176,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -3176,7 +4188,11 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": false
     },
@@ -3186,7 +4202,9 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -3196,7 +4214,10 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": false
     },
@@ -3206,7 +4227,11 @@
       "Platform": "GB",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": true
     },
@@ -3216,7 +4241,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -3226,7 +4253,10 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card", "Board Games"],
+      "Genres": [
+        "Card",
+        "Board Games"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": true
     },
@@ -3236,7 +4266,11 @@
       "Platform": "Wii",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Family", "Adventure", "Action"],
+      "Genres": [
+        "Family",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -3246,7 +4280,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Puzzle"],
+      "Genres": [
+        "Shooter",
+        "Puzzle"
+      ],
       "ReleaseYear": 2011,
       "IsMultiplayer": true
     },
@@ -3256,7 +4293,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3266,7 +4307,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -3276,7 +4321,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -3286,7 +4336,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -3296,7 +4349,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": true
     },
@@ -3306,7 +4362,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -3316,7 +4377,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -3326,7 +4392,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": true
     },
@@ -3336,7 +4404,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -3346,7 +4419,10 @@
       "Platform": "PS3",
       "Emulator": "RPCS3",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Action"],
+      "Genres": [
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2012,
       "IsMultiplayer": false
     },
@@ -3356,7 +4432,12 @@
       "Platform": "PS3",
       "Emulator": "RPCS3",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Platformer", "Action", "RPG"],
+      "Genres": [
+        "Shooter",
+        "Platformer",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": false
     },
@@ -3366,7 +4447,10 @@
       "Platform": "PS3",
       "Emulator": "RPCS3",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -3376,7 +4460,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -3386,7 +4474,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -3396,7 +4488,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": true
     },
@@ -3406,7 +4500,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -3416,7 +4514,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG", "Puzzle"],
+      "Genres": [
+        "Adventure",
+        "RPG",
+        "Puzzle"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -3426,7 +4528,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -3436,7 +4542,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -3446,7 +4555,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -3456,7 +4569,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -3466,7 +4583,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -3476,7 +4597,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -3486,7 +4611,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": true
     },
@@ -3496,7 +4625,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Arcade", "Action"],
+      "Genres": [
+        "Shooter",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": true
     },
@@ -3506,7 +4639,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -3516,7 +4651,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action", "RPG"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": false
     },
@@ -3526,7 +4666,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Shooter", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Shooter",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -3536,7 +4681,10 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Adventure", "Puzzle"],
+      "Genres": [
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -3546,7 +4694,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Strategy", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -3556,7 +4709,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -3566,7 +4721,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": true
     },
@@ -3576,7 +4736,11 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -3596,7 +4760,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": false
     },
@@ -3616,7 +4782,9 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Simulation"],
+      "Genres": [
+        "Simulation"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -3636,7 +4804,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -3656,7 +4826,12 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": true
     },
@@ -3676,7 +4851,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -3686,7 +4863,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -3696,7 +4878,9 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1991,
       "IsMultiplayer": false
     },
@@ -3706,7 +4890,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": false
     },
@@ -3716,7 +4902,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -3726,7 +4917,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3736,7 +4931,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -3746,7 +4944,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": false
     },
@@ -3756,7 +4958,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing", "Action"],
+      "Genres": [
+        "Racing",
+        "Action"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -3766,7 +4971,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Strategy", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Simulation"
+      ],
       "ReleaseYear": 2014,
       "IsMultiplayer": true
     },
@@ -3776,7 +4985,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card", "Strategy", "Indie", "RPG"],
+      "Genres": [
+        "Card",
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -3786,7 +5000,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -3796,7 +5015,11 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -3806,7 +5029,10 @@
       "Platform": "PS2",
       "Emulator": "PCSX2",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -3816,7 +5042,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -3826,7 +5057,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3836,7 +5070,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": true
     },
@@ -3846,7 +5082,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -3856,7 +5095,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Family", "Platformer"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Family",
+        "Platformer"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": true
     },
@@ -3866,7 +5111,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Fighting"],
+      "Genres": [
+        "Adventure",
+        "Fighting"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -3876,7 +5124,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -3886,7 +5138,9 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -3896,7 +5150,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Arcade", "Action"],
+      "Genres": [
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": true
     },
@@ -3906,7 +5164,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing", "Arcade"],
+      "Genres": [
+        "Racing",
+        "Arcade"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": true
     },
@@ -3916,7 +5177,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -3926,7 +5189,11 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2005,
       "IsMultiplayer": false
     },
@@ -3936,7 +5203,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter"],
+      "Genres": [
+        "Shooter"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -3946,7 +5215,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": true
     },
@@ -3956,7 +5230,10 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 1985,
       "IsMultiplayer": false
     },
@@ -3966,7 +5243,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": true
     },
@@ -3976,7 +5257,11 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Simulation", "Sports"],
+      "Genres": [
+        "Casual",
+        "Simulation",
+        "Sports"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -3986,7 +5271,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Adventure", "RPG"],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -3996,7 +5285,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": false
     },
@@ -4006,7 +5297,12 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Arcade",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -4016,7 +5312,11 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -4026,7 +5326,11 @@
       "Platform": "PS1",
       "Emulator": "DuckStation",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -4036,7 +5340,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -4046,7 +5354,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": true
     },
@@ -4056,7 +5367,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing", "Arcade", "Action"],
+      "Genres": [
+        "Racing",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -4066,7 +5381,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": false
     },
@@ -4076,7 +5393,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG", "Simulation"],
+      "Genres": [
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -4086,7 +5407,10 @@
       "Platform": "Browser",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2014,
       "IsMultiplayer": false
     },
@@ -4096,7 +5420,10 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Action"],
+      "Genres": [
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 1991,
       "IsMultiplayer": true
     },
@@ -4106,7 +5433,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -4116,7 +5446,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": false
     },
@@ -4126,7 +5459,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie"],
+      "Genres": [
+        "Platformer",
+        "Indie"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -4136,7 +5472,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Arcade", "Action", "Fighting"],
+      "Genres": [
+        "Arcade",
+        "Action",
+        "Fighting"
+      ],
       "ReleaseYear": 2014,
       "IsMultiplayer": true
     },
@@ -4146,7 +5486,12 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -4156,7 +5501,9 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer"],
+      "Genres": [
+        "Platformer"
+      ],
       "ReleaseYear": 1996,
       "IsMultiplayer": false
     },
@@ -4176,7 +5523,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -4186,7 +5536,11 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -4196,7 +5550,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -4206,7 +5563,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Arcade"],
+      "Genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": true
     },
@@ -4216,7 +5576,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Arcade"],
+      "Genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "ReleaseYear": 1990,
       "IsMultiplayer": true
     },
@@ -4226,7 +5589,12 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "Genres": [
+        "Platformer",
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": false
     },
@@ -4236,7 +5604,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 1986,
       "IsMultiplayer": false
     },
@@ -4246,7 +5617,10 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "Fighting"],
+      "Genres": [
+        "Action",
+        "Fighting"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": true
     },
@@ -4256,7 +5630,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -4266,7 +5645,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action", "RPG"],
+      "Genres": [
+        "Shooter",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": true
     },
@@ -4276,7 +5659,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Simulation"],
+      "Genres": [
+        "Simulation"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": false
     },
@@ -4286,7 +5671,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Indie", "Action"],
+      "Genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2011,
       "IsMultiplayer": true
     },
@@ -4296,7 +5685,9 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 1995,
       "IsMultiplayer": true
     },
@@ -4306,7 +5697,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -4316,7 +5712,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -4326,7 +5727,10 @@
       "Platform": "Genesis",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1992,
       "IsMultiplayer": true
     },
@@ -4336,7 +5740,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -4346,7 +5754,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action"],
+      "Genres": [
+        "Strategy",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": true
     },
@@ -4356,7 +5767,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Action"],
+      "Genres": [
+        "Strategy",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": true
     },
@@ -4366,7 +5780,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -4376,7 +5794,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -4386,7 +5807,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -4396,7 +5820,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie"],
+      "Genres": [
+        "Indie"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": false
     },
@@ -4406,7 +5832,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Racing", "Arcade"],
+      "Genres": [
+        "Racing",
+        "Arcade"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": true
     },
@@ -4416,7 +5845,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -4426,7 +5859,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -4436,7 +5874,10 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Arcade", "Action"],
+      "Genres": [
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -4446,7 +5887,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -4456,7 +5901,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": true
     },
@@ -4466,7 +5915,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": false
     },
@@ -4476,7 +5927,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Shooter", "Action"],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
       "ReleaseYear": 1999,
       "IsMultiplayer": false
     },
@@ -4486,7 +5940,13 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Strategy", "Indie"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -4496,7 +5956,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action"],
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -4506,7 +5969,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -4516,7 +5981,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "RPG"],
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -4526,7 +5994,10 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Indie"],
+      "Genres": [
+        "Casual",
+        "Indie"
+      ],
       "ReleaseYear": 2025,
       "IsMultiplayer": false
     },
@@ -4536,7 +6007,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Family", "Action", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Family",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -4546,7 +6022,12 @@
       "Platform": "PC (VR)",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG", "Simulation"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -4556,7 +6037,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -4566,7 +6051,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Action", "RPG"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -4576,7 +6066,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "RPG"],
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": false
     },
@@ -4586,7 +6079,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Action", "Simulation"],
+      "Genres": [
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": false
     },
@@ -4596,7 +6093,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2022,
       "IsMultiplayer": false
     },
@@ -4606,7 +6105,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -4616,7 +6119,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": false
     },
@@ -4626,7 +6131,15 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "Puzzle", "Casual", "Arcade", "Indie", "Platformer"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Casual",
+        "Arcade",
+        "Indie",
+        "Platformer"
+      ],
       "ReleaseYear": 2010,
       "IsMultiplayer": true
     },
@@ -4636,7 +6149,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "Indie"],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
       "ReleaseYear": 2019,
       "IsMultiplayer": true
     },
@@ -4646,7 +6162,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy", "RPG"],
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": true
     },
@@ -4666,7 +6185,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Action"],
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -4676,7 +6198,11 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Strategy", "Arcade", "Action"],
+      "Genres": [
+        "Strategy",
+        "Arcade",
+        "Action"
+      ],
       "ReleaseYear": 1994,
       "IsMultiplayer": true
     },
@@ -4686,7 +6212,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Casual", "Indie", "Massively Multiplayer"],
+      "Genres": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "ReleaseYear": 2024,
       "IsMultiplayer": true
     },
@@ -4696,7 +6226,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "RPG"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": false
     },
@@ -4706,7 +6240,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "Genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2016,
       "IsMultiplayer": true
     },
@@ -4716,7 +6254,11 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Educational", "Adventure", "Puzzle"],
+      "Genres": [
+        "Educational",
+        "Adventure",
+        "Puzzle"
+      ],
       "ReleaseYear": 2020,
       "IsMultiplayer": false
     },
@@ -4736,7 +6278,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Strategy"],
+      "Genres": [
+        "Strategy"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -4746,7 +6290,11 @@
       "Platform": "Wii U",
       "Emulator": "Cemu",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2015,
       "IsMultiplayer": false
     },
@@ -4756,7 +6304,12 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "Genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "ReleaseYear": 2021,
       "IsMultiplayer": true
     },
@@ -4766,7 +6319,9 @@
       "Platform": "Built-in",
       "Emulator": "",
       "IsArchipelagoTool": "true",
-      "Genres": ["Casual"],
+      "Genres": [
+        "Casual"
+      ],
       "ReleaseYear": null,
       "IsMultiplayer": true
     },
@@ -4776,7 +6331,9 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Puzzle"],
+      "Genres": [
+        "Puzzle"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -4786,7 +6343,10 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Adventure"],
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
       "ReleaseYear": 2018,
       "IsMultiplayer": false
     },
@@ -4796,7 +6356,12 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "Genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -4806,7 +6371,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Platformer", "Adventure"],
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "ReleaseYear": 2023,
       "IsMultiplayer": false
     },
@@ -4816,7 +6384,11 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card", "Strategy", "RPG"],
+      "Genres": [
+        "Card",
+        "Strategy",
+        "RPG"
+      ],
       "ReleaseYear": 2017,
       "IsMultiplayer": true
     },
@@ -4826,7 +6398,10 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card", "Strategy"],
+      "Genres": [
+        "Card",
+        "Strategy"
+      ],
       "ReleaseYear": 2003,
       "IsMultiplayer": false
     },
@@ -4846,7 +6421,9 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Card"],
+      "Genres": [
+        "Card"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -4856,7 +6433,9 @@
       "Platform": "NES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["RPG"],
+      "Genres": [
+        "RPG"
+      ],
       "ReleaseYear": 1987,
       "IsMultiplayer": false
     },
@@ -4866,7 +6445,9 @@
       "Platform": "3DS",
       "Emulator": "Citra",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2013,
       "IsMultiplayer": false
     },
@@ -4876,7 +6457,10 @@
       "Platform": "SNES",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1991,
       "IsMultiplayer": false
     },
@@ -4886,7 +6470,10 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1993,
       "IsMultiplayer": false
     },
@@ -4896,7 +6483,10 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1993,
       "IsMultiplayer": false
     },
@@ -4906,7 +6496,10 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2000,
       "IsMultiplayer": false
     },
@@ -4916,7 +6509,11 @@
       "Platform": "GBA",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2004,
       "IsMultiplayer": false
     },
@@ -4926,7 +6523,11 @@
       "Platform": "N64",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -4936,7 +6537,11 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "RPG"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 1998,
       "IsMultiplayer": false
     },
@@ -4946,7 +6551,10 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -4956,7 +6564,10 @@
       "Platform": "GBC",
       "Emulator": "BizHawk",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2001,
       "IsMultiplayer": false
     },
@@ -4966,7 +6577,11 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action", "Puzzle"],
+      "Genres": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "ReleaseYear": 2007,
       "IsMultiplayer": true
     },
@@ -4976,7 +6591,9 @@
       "Platform": "Wii",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure"],
+      "Genres": [
+        "Adventure"
+      ],
       "ReleaseYear": 2011,
       "IsMultiplayer": false
     },
@@ -4986,7 +6603,10 @@
       "Platform": "DS",
       "Emulator": "melonDS",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 2009,
       "IsMultiplayer": false
     },
@@ -4996,7 +6616,10 @@
       "Platform": "Wii",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action", "RPG"],
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
       "ReleaseYear": 2006,
       "IsMultiplayer": false
     },
@@ -5006,7 +6629,9 @@
       "Platform": "GameCube",
       "Emulator": "Dolphin",
       "IsArchipelagoTool": "false",
-      "Genres": ["Action"],
+      "Genres": [
+        "Action"
+      ],
       "ReleaseYear": 2002,
       "IsMultiplayer": true
     },
@@ -5026,14 +6651,18 @@
       "Platform": "PC",
       "Emulator": "",
       "IsArchipelagoTool": "false",
-      "Genres": ["Adventure", "Action"],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
       "ReleaseYear": 1997,
       "IsMultiplayer": false
     }
   ],
   "metadata": {
     "count": 503,
-    "generatedAt": "2026-02-15T21:05:31.594Z",
-    "version": "1.0.0"
+    "generatedAt": "2026-02-15",
+    "version": "1.0.0",
+    "csvHash": "cc279cf367186c84c9277cf748d63a4e"
   }
 }

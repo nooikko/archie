@@ -5,6 +5,7 @@
  * Enriches game data with genres from RAWG API (with caching)
  */
 
+import * as crypto from 'node:crypto';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { parse } from 'papaparse';
@@ -180,18 +181,47 @@ const enrichGames = async (games: readonly Game[]): Promise<Game[]> => {
 };
 
 /**
+ * Calculate MD5 hash of a file
+ */
+const calculateFileHash = (filePath: string): string => {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  return crypto.createHash('md5').update(content).digest('hex');
+};
+
+/**
+ * Load existing games data metadata
+ */
+const loadGamesMetadata = (gamesPath: string): { csvHash?: string } | null => {
+  if (!fs.existsSync(gamesPath)) {
+    return null;
+  }
+
+  try {
+    const content = fs.readFileSync(gamesPath, 'utf-8');
+    const data = JSON.parse(content);
+    return data.metadata || null;
+  } catch {
+    return null;
+  }
+};
+
+/**
  * Save games data to disk
  */
-const saveGamesData = (games: ReadonlyArray<Game>, gamesPath: string): void => {
+const saveGamesData = (games: ReadonlyArray<Game>, gamesPath: string, csvHash: string): void => {
   console.log(`[Build] Saving games data to: ${gamesPath}`);
 
   try {
+    // Use date-only format to avoid rebuilds on same day
+    const today = new Date().toISOString().split('T')[0];
+
     const gamesData = {
       games: games,
       metadata: {
         count: games.length,
-        generatedAt: new Date().toISOString(),
+        generatedAt: today,
         version: '1.0.0',
+        csvHash: csvHash,
       },
     };
 
@@ -222,6 +252,24 @@ const main = async (): Promise<void> => {
   try {
     ensureOutputDirectory(OUTPUT_DIR);
 
+    // Calculate CSV hash
+    const currentCsvHash = calculateFileHash(CSV_PATH);
+    console.log(`[Build] CSV hash: ${currentCsvHash}`);
+
+    // Check if we need to regenerate
+    const existingMetadata = loadGamesMetadata(GAMES_OUTPUT);
+    if (existingMetadata && existingMetadata.csvHash === currentCsvHash) {
+      console.log('[Build] ✓ CSV unchanged, skipping regeneration');
+      console.log(`[Build]   - Use existing data: ${GAMES_OUTPUT}`);
+      process.exit(0);
+    }
+
+    if (existingMetadata) {
+      console.log('[Build] CSV changed, regenerating games data...');
+    } else {
+      console.log('[Build] No existing games data, generating...');
+    }
+
     const { games, errors } = parseCSV(CSV_PATH);
 
     if (games.length === 0) {
@@ -231,7 +279,7 @@ const main = async (): Promise<void> => {
     console.log('\n[Build] Starting RAWG enrichment...');
     const enrichedGames = await enrichGames(games);
 
-    saveGamesData(enrichedGames, GAMES_OUTPUT);
+    saveGamesData(enrichedGames, GAMES_OUTPUT, currentCsvHash);
 
     const gamesWithGenres = enrichedGames.filter((g) => g.Genres && g.Genres.length > 0).length;
     const gamesSize = fs.statSync(GAMES_OUTPUT).size;
