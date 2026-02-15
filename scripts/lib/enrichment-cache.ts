@@ -68,12 +68,15 @@ export const loadCache = (cachePath: string): Map<string, CacheValue> => {
  * Save enrichment cache to disk
  */
 export const saveCache = (cachePath: string, cacheMap: Map<string, CacheValue>): void => {
+  // Use date-only format to avoid daily timestamp changes
+  const today = new Date().toISOString().split('T')[0];
+
   const entries: EnrichmentCacheEntry[] = Array.from(cacheMap.entries()).map(([gameName, value]) => ({
     gameName,
     genres: value.genres,
     releaseYear: value.releaseYear,
     isMultiplayer: value.isMultiplayer,
-    fetchedAt: new Date().toISOString(),
+    fetchedAt: today,
   }));
 
   const cache: EnrichmentCache = {

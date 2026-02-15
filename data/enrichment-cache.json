@@ -2,3566 +2,5194 @@
   "entries": [
     {
       "gameName": "A Bug's Life",
-      "genres": ["Strategy", "Arcade", "Action"],
+      "genres": [
+        "Strategy",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Dance Of Fire And Ice",
       "genres": [],
       "releaseYear": 2014,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Difficult Game About Climbing",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Hat in Time",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Robot Named Fight!",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Short Hike",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ActRaiser",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Adventure",
-      "genres": ["Action", "Puzzle"],
+      "genres": [
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 1978,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Against the Storm",
-      "genres": ["Strategy", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Age of Empires II: Definite Edition",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Air Delivery",
-      "genres": ["Strategy", "Adventure", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Adventure",
+        "Simulation"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "An Untitled Story",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ANIMAL WELL",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Anodyne",
-      "genres": ["Adventure", "Action", "RPG", "Arcade", "Indie"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Arcade",
+        "Indie"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Another Crab's Treasure",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ape Escape",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ape Escape 3",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "APQuest",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 1988,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Aquaria",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Archipelacode",
       "genres": [],
       "releaseYear": 1988,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Archipeladoku (Sudoku)",
-      "genres": ["Casual", "Indie", "Puzzle"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Archipela-Go!",
-      "genres": ["Casual", "Indie", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Armored Core (PSX)",
-      "genres": ["Shooter", "Adventure", "Action", "Simulation"],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Astalon: Tears of the Earth",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Autopelago",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Axiom Verge",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Balatro",
-      "genres": ["Casual", "Strategy", "Indie"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Baldur's Gate 3",
-      "genres": ["Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Banjo-Tooie",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Beat Saber",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Binding of Isaac: Repentance",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Binding of Isaac: Repentance (Progression Lock)",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bits & Bops",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Black Market of Bulletphilia ~ 100th Black Market (Touhou 18.5)",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Blasphemous",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Blasphemous 2",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Blockupelago",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bloons Tower Defense 6",
-      "genres": ["Strategy", "Action"],
+      "genres": [
+        "Strategy",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bomb Rush Cyberfunk",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bomberman 64",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bomberman 64: The Second Attack",
-      "genres": ["Strategy", "Action", "Puzzle"],
+      "genres": [
+        "Strategy",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bomberman Hero",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bomberman Quest",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Borderlands 2",
-      "genres": ["Shooter", "Action", "RPG"],
+      "genres": [
+        "Shooter",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Brave Fencer Musashi",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Brotato",
-      "genres": ["Casual", "Indie", "Action", "RPG"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Buckshot Roulette",
-      "genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Bumper Stickers",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Candy Box 2",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cassette Beasts",
-      "genres": ["Indie", "RPG"],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania 64",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania - Circle of the Moon",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania: Dawn of Sorrow",
-      "genres": ["Platformer", "Action", "RPG"],
+      "genres": [
+        "Platformer",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania: Harmony of Dissonance",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania: Legacy of Darkness",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Castlevania: Symphony of the Night",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Casualties: Unknown (Scav Prototype Demo)",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cat Quest",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cave Story",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cavern of Dreams",
-      "genres": ["Casual", "Indie", "Adventure", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Caves of Qud",
-      "genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Celeste",
-      "genres": ["Platformer", "Indie"],
+      "genres": [
+        "Platformer",
+        "Indie"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Celeste 64",
-      "genres": ["Platformer", "Indie"],
+      "genres": [
+        "Platformer",
+        "Indie"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Celeste (Open World)",
-      "genres": ["Indie", "Adventure", "RPG", "Simulation"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Chained Echoes",
-      "genres": ["Indie", "RPG"],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ChecksFinder",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ChecksMate (Chess)",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Choo Choo Charles",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Christmas Delivery",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Chrono Trigger: Jets of Time",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Citadel (Luanti)",
-      "genres": ["Adventure", "Action", "RPG", "Indie", "Massively Multiplayer"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Civilization V",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Civilization VI",
-      "genres": ["Strategy", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Clair Obscur Expedition 33",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Clique",
       "genres": [],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ClusterTruck",
-      "genres": ["Indie", "Platformer", "Arcade", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cobalt Core",
-      "genres": ["Strategy", "Indie"],
+      "genres": [
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Codeforces",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Conbunn Cardboard",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cookie Clicker",
-      "genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "CornKidz64",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "corru.observer",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Crash Bandicoot 2: Cortex Strikes Back",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "CrossCode",
-      "genres": ["Action", "RPG", "Puzzle"],
+      "genres": [
+        "Action",
+        "RPG",
+        "Puzzle"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "CrosswordAP",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2008,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Crypt of the NecroDancer",
-      "genres": ["Indie", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Crystal Project",
-      "genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Crystalis",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Cuphead",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Custom Robo",
-      "genres": ["Action", "Fighting"],
+      "genres": [
+        "Action",
+        "Fighting"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dark Cloud 1",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dark Cloud 2",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dark Souls II",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2014,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dark Souls III",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dark Souls Remastered",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Death's Door",
-      "genres": ["Indie", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Deep Rock Galactic",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Delivering Hope",
       "genres": [],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "DELTARUNE",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Devil May Cry 3 (Special Edition)",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dicey Dungeons",
-      "genres": ["Strategy", "Indie", "RPG"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Diddy Kong Racing",
-      "genres": ["Racing"],
+      "genres": [
+        "Racing"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Digimon World 1",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "DLCQuest",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dome Keeper",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Donkey Kong 64",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Donkey Kong Country",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Donkey Kong Country 2: Diddy's Kong Quest",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Donkey Kong Country 3",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Donkey Kong Country (Mirrored)",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Don't Starve Together",
-      "genres": ["Indie", "Action", "Simulation"],
+      "genres": [
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "DOOM 1993",
-      "genres": ["Shooter"],
+      "genres": [
+        "Shooter"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Doom 404",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "DOOM II",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "DORONKO WANKO",
-      "genres": ["Casual", "Action", "Simulation"],
+      "genres": [
+        "Casual",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dracomino",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dragon Warrior",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dream Dazia",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dredge",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Duke Nukem 3D",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dungeon Clawler",
-      "genres": ["Action", "RPG", "Casual", "Strategy", "Simulation"],
+      "genres": [
+        "Action",
+        "RPG",
+        "Casual",
+        "Strategy",
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Dyson Sphere Program",
-      "genres": ["Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Earthbound",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Easy Delivery Co.",
-      "genres": ["Casual", "Racing", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Racing",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Elder Scrolls IV: Oblivion Remastered",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Elementipelago",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ender Lilies: Quietus of the Knights",
-      "genres": ["Platformer", "Indie", "Action", "RPG"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Enter the Gungeon",
-      "genres": ["Shooter", "Indie", "Action"],
+      "genres": [
+        "Shooter",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Everhood 2",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Factorio",
-      "genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Factorio - Space Age Without Space",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Factorio w/ Bob's Mods",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Faxanadu",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1987,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Fez",
-      "genres": ["Adventure", "Action", "Puzzle", "Indie", "Platformer"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Indie",
+        "Platformer"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1987,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy 1: Pixel Remaster",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy 6 Worlds Collide",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy IV: Free Enterprise",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1991,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy Mystic Quest",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1992,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy Tactics A2: Grimoire of the Rift",
-      "genres": ["Strategy", "RPG"],
+      "genres": [
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2008,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy Tactics Advance",
-      "genres": ["Strategy", "RPG"],
+      "genres": [
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy Tactics: Ivalice Island",
-      "genres": ["Adventure", "RPG", "Simulation"],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy XII: Open World",
-      "genres": ["Strategy", "RPG"],
+      "genres": [
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy XII: Trial Mode",
-      "genres": ["Strategy", "RPG"],
+      "genres": [
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Final Fantasy XIII - Lightning Returns",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Fire Emblem: The Sacred Stones",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Flipwitch",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "FNAF World",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Forged Curse",
-      "genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Freddy Fazbear's Pizzeria Simulator",
-      "genres": ["Indie", "Simulation"],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Freedom Planet 2",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Friday Night Funkin'",
       "genres": [],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Frogmonster",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": null,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Garfield Kart: Furious Racing",
-      "genres": ["Racing"],
+      "genres": [
+        "Racing"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Gato Roboto",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Gato Roboto B-Side",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Gauntlet Legends",
       "genres": [],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Getting Over It with Bennett Foddy",
-      "genres": ["Action", "Simulation"],
+      "genres": [
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Glover",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "GLYPHS",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Golden Sun: The Lost Age",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.590Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Grim Dawn",
-      "genres": ["Indie", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Grinch",
-      "genres": ["Platformer", "Arcade"],
+      "genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Guardian Legend",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1988,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Guild Wars 2",
-      "genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "genres": [
+        "Massively Multiplayer",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "GZDoom",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hacknet",
-      "genres": ["Indie", "Simulation"],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hades",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hammerwatch",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Haste",
-      "genres": ["Arcade", "Action"],
+      "genres": [
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "HASTE: Broken Worlds",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hatsune Miku: Project Diva Megamix+",
-      "genres": ["Arcade"],
+      "genres": [
+        "Arcade"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Here Comes Niko!",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Heretic",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hero Core",
-      "genres": ["Shooter", "Adventure", "Action"],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hexcells Infinite",
-      "genres": ["Casual", "Strategy", "Indie"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2014,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hi-Fi Rush",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "HITMAN: World of Assassination",
-      "genres": ["Shooter", "Action", "Simulation"],
+      "genres": [
+        "Shooter",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hollow Knight",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hollow Knight - Beta APWorld",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "holo8",
-      "genres": ["Shooter"],
+      "genres": [
+        "Shooter"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hololive Treasure Mountain",
-      "genres": ["Casual"],
+      "genres": [
+        "Casual"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Huniecam Studio",
-      "genres": ["Indie", "Simulation"],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Huniepop",
-      "genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "genres": [
+        "RPG",
+        "Puzzle",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Huniepop 2: Double Date",
-      "genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "genres": [
+        "RPG",
+        "Puzzle",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Hylics 2",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "HyperRogue",
-      "genres": ["Educational", "Indie", "RPG", "Puzzle"],
+      "genres": [
+        "Educational",
+        "Indie",
+        "RPG",
+        "Puzzle"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "I Was A Teenage Exocolonist",
-      "genres": ["Card", "Indie", "RPG", "Simulation"],
+      "genres": [
+        "Card",
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ICEwall",
-      "genres": ["Shooter"],
+      "genres": [
+        "Shooter"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Iji",
-      "genres": ["Arcade"],
+      "genres": [
+        "Arcade"
+      ],
       "releaseYear": 2008,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Inscryption",
-      "genres": ["Indie", "Strategy", "Adventure"],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Adventure"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Into the Breach",
-      "genres": ["Strategy", "Indie", "RPG"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Isles of Sea and Sky",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ittle Dew 2+",
       "genres": [],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Jak and Daxter: The Precursor Legacy",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Jet Island",
-      "genres": ["Racing", "Adventure", "Casual", "Simulation", "Sports"],
+      "genres": [
+        "Racing",
+        "Adventure",
+        "Casual",
+        "Simulation",
+        "Sports"
+      ],
       "releaseYear": null,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Jigsaw Puzzle for Archipelago",
-      "genres": ["Casual", "Strategy", "Indie"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Junko",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kabuto Park (Demo)",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Keep Talking and Nobody Explodes",
-      "genres": ["Indie", "Simulation", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Simulation",
+        "Puzzle"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "KeyWe",
-      "genres": ["Casual", "Indie"],
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kindergarten 2",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts 2",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts 358/2 Days",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts Dream Drop Distance",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts: Birth by Sleep Final Mix",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts: Chain of Memories (GBA)",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Hearts: RE Chain of Memories",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kingdom Two Crowns",
-      "genres": ["Adventure", "RPG", "Strategy", "Simulation", "Indie"],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Simulation",
+        "Indie"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kirby 64 - The Crystal Shards",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kirby Air Ride",
-      "genres": ["Racing"],
+      "genres": [
+        "Racing"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kirby Super Star",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Kirby's Dream Land 3",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "K-On! After School Live!!",
-      "genres": ["Arcade"],
+      "genres": [
+        "Arcade"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Landstalker - The Treasures of King Nole",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1992,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "League of Legends",
-      "genres": ["Strategy", "Action", "RPG"],
+      "genres": [
+        "Strategy",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Left 4 Dead 2",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Dragoon",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Heroes: Trails in the Sky the 3rd",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1986,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lego Batman: The Video Game",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 1989,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lego Star Wars: The Complete Saga",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lethal Company",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Library of Ruina",
-      "genres": ["Strategy", "Indie", "RPG"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lies of P",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lil Gator Game",
-      "genres": ["Casual", "Indie", "Adventure", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lingo",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lingo 2",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Little Witch Nobeta",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lobotomy Corporation",
-      "genres": ["Indie", "Simulation"],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Loonyland: Halloween Hill",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lufia II Ancient Cave",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Luigi's Mansion",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Lunacid",
-      "genres": ["Indie", "RPG"],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario is Missing (SNES)",
       "genres": [],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario Kart 64",
-      "genres": ["Racing"],
+      "genres": [
+        "Racing"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario Kart: Double Dash",
-      "genres": ["Racing"],
+      "genres": [
+        "Racing"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario & Luigi Superstar Saga",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario Party Advance",
       "genres": [],
       "releaseYear": 2005,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario Super Sluggers",
-      "genres": ["Sports"],
+      "genres": [
+        "Sports"
+      ],
       "releaseYear": 2008,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "MediEvil (1998)",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "MediEvil 2",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man 1",
-      "genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "genres": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man 2",
-      "genres": ["Platformer", "Arcade", "Action"],
+      "genres": [
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 1988,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man 3",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man Battle Network 6",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man X",
-      "genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "genres": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man X Command Mission",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man X2",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man X3",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man X4",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mega Man Zero 3",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "MegaMan Battle Network 3",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mercenaries: Playground of Destruction",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Meritous",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Messenger",
-      "genres": ["Adventure", "Action", "RPG", "Indie", "Platformer"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Indie",
+        "Platformer"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "MetroCUBEvania",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Metroid Fusion",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Metroid Prime",
-      "genres": ["Shooter", "Adventure", "Action"],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Metroid: Zero Mission",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mindustry",
-      "genres": ["Strategy", "Action"],
+      "genres": [
+        "Strategy",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Minecraft",
-      "genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Minecraft Dig",
-      "genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Minecraft Fabric",
-      "genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "genres": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Minishoot Adventures",
-      "genres": ["Casual", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Casual",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Minit",
-      "genres": ["Indie", "Adventure", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Momodora 4 - Reverie Under the Moonlight",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Momodora: Moonlit Farewell",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Monster Hunter World",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Monster Sanctuary",
-      "genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Muse Dash",
-      "genres": ["Casual", "Indie", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Musipelago",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Nine Sols",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Nodebuster",
-      "genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Noita",
-      "genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation",
+        "Indie"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Noita - Enemysanity",
-      "genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation",
+        "Indie"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Nonograhmm",
-      "genres": ["Casual", "Indie", "Puzzle"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Nonopelagram",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ocarina of Time but it's just Master Quest Water Temple",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Old School Runescape",
-      "genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "genres": [
+        "Massively Multiplayer",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "OpenRCT2",
-      "genres": ["Strategy", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ori and the Blind Forest",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ori and the Will of the Wisps",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "osu!",
-      "genres": ["Indie", "Arcade"],
+      "genres": [
+        "Indie",
+        "Arcade"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Our Ascent",
-      "genres": ["Adventure", "RPG", "Casual", "Strategy", "Indie"],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Casual",
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Outer Wilds",
-      "genres": ["Indie", "Adventure", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Overcooked! 2",
-      "genres": ["Casual", "Indie", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Oxygen Not Included",
-      "genres": ["Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Paint",
       "genres": [],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Paper Mario 64",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Paper Mario: The Thousand Year Door",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Paquerette Down the Bunburrows",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Parkitect",
-      "genres": ["Indie", "Simulation"],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Password Game",
       "genres": [],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Path of Exile",
-      "genres": ["Indie", "Massively Multiplayer", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "PEAK",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Peaks of Yore",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Peggle Nights",
-      "genres": ["Casual"],
+      "genres": [
+        "Casual"
+      ],
       "releaseYear": 2008,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Persona 5 Royal",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Phantasy Star II",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 1989,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Phoenotopia: Awakening",
-      "genres": ["Adventure", "Action", "RPG", "Puzzle", "Indie"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle",
+        "Indie"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pikmin 1",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pikmin 2",
-      "genres": ["Strategy", "Puzzle"],
+      "genres": [
+        "Strategy",
+        "Puzzle"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pinball FX3",
-      "genres": ["Arcade", "Simulation"],
+      "genres": [
+        "Arcade",
+        "Simulation"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Piranesi Restoration Project (Luanti)",
-      "genres": ["Indie", "RPG"],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pizza Tower",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Placid Plastic Duck Simulator",
-      "genres": ["Simulation"],
+      "genres": [
+        "Simulation"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Planet Crafter",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Plants vs. Zombies: GOTY",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Plants vs. Zombies: Replanted",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Plateup!",
-      "genres": ["Casual", "Strategy", "Indie", "Action"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Plok",
       "genres": [],
       "releaseYear": 1993,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Black and White",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2011,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Crystal",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Emerald",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Fire Red and Leaf Green",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Mystery Dungeon: Explorers of Sky",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Pinball",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Platinum",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Red and Blue",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Stadium",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pokémon Trading Card Game (GameBoy)",
-      "genres": ["Card", "Board Games"],
+      "genres": [
+        "Card",
+        "Board Games"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "PokéPark Wii: Pikachu's Adventure",
-      "genres": ["Family", "Adventure", "Action"],
+      "genres": [
+        "Family",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Portal 2",
-      "genres": ["Shooter", "Puzzle"],
+      "genres": [
+        "Shooter",
+        "Puzzle"
+      ],
       "releaseYear": 2011,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "PowerWash Simulator",
-      "genres": ["Casual", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Prodigal",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Pseudoregalia",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Psychonauts",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Quake",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rabbit and Steel",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rabi-Ribi",
-      "genres": ["Casual", "Indie", "Adventure", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Raft",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rain World",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ratchet & Clank",
-      "genres": ["Arcade", "Action"],
+      "genres": [
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2012,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ratchet & Clank 2: Going Commando",
-      "genres": ["Shooter", "Platformer", "Action", "RPG"],
+      "genres": [
+        "Shooter",
+        "Platformer",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ratchet & Clank 3: Up Your Arsenal",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rayman 2: The Great Escape",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Refunct",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "R.E.P.O",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": null,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Resident Evil 2 Remake",
-      "genres": ["Shooter", "Adventure", "Action"],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Resident Evil 3 Remake",
-      "genres": ["Adventure", "RPG", "Puzzle"],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Puzzle"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Resident Evil 7",
-      "genres": ["Shooter", "Adventure", "Action"],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Return of the Obra Dinn",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Reventure",
-      "genres": ["Indie", "Adventure", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rift of the Necrodancer",
-      "genres": ["Indie", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rift Wizard",
-      "genres": ["Strategy", "Indie", "RPG"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rimworld",
-      "genres": ["Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Risk of Rain",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Risk of Rain 2",
-      "genres": ["Shooter", "Arcade", "Action"],
+      "genres": [
+        "Shooter",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Risk of Rain Returns",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rogue Legacy",
-      "genres": ["Platformer", "Indie", "Action", "RPG"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Rusted Moss",
-      "genres": ["Platformer", "Shooter", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Shooter",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Santa Needs YOU!",
-      "genres": ["Adventure", "Puzzle"],
+      "genres": [
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Satisfactory",
-      "genres": ["Indie", "Strategy", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Saving Princess",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Schedule I",
-      "genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Scooby-Doo! Night of 100 Frights",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sea of Thieves",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Secret of Evermore",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Secret of Mana",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Seedling",
-      "genres": ["Simulation"],
+      "genres": [
+        "Simulation"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sentinels of the Multiverse",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Settlers: Heritage of Kings",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Severed Soul",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Shadow the Hedgehog",
-      "genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Shadowgate 64: Trials of the Four Towers",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "shapez",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "shapez 2",
-      "genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Shining in the Darkness",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1991,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Shivers",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Shovel Knight Pocket Dungeon",
-      "genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Signalis",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Silver Daze",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Simon Tatham's Portable Puzzle Collection",
-      "genres": ["Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Simpsons: Hit & Run",
-      "genres": ["Racing", "Action"],
+      "genres": [
+        "Racing",
+        "Action"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Sims 4",
-      "genres": ["Casual", "Strategy", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Simulation"
+      ],
       "releaseYear": 2014,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Slay the Spire",
-      "genres": ["Card", "Strategy", "Indie", "RPG"],
+      "genres": [
+        "Card",
+        "Strategy",
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Slime Rancher",
-      "genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sly 2: Band of Thieves",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sly Cooper and the Thievius Raccoonus",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Smushi Come Home",
-      "genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "SMZ3",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Advance 2",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Adventure 2 Battle",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Adventure DX",
-      "genres": ["Adventure", "Action", "RPG", "Family", "Platformer"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Family",
+        "Platformer"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Battle",
-      "genres": ["Adventure", "Fighting"],
+      "genres": [
+        "Adventure",
+        "Fighting"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Frontiers",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic the Hedgehog",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Heroes",
-      "genres": ["Platformer", "Arcade", "Action"],
+      "genres": [
+        "Platformer",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Riders",
-      "genres": ["Racing", "Arcade"],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Robo Blast 2",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Sonic Rush",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2005,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "SoulBlazer",
-      "genres": ["Shooter"],
+      "genres": [
+        "Shooter"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Space Engineers",
-      "genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spelunker",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 1985,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spelunky 2",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spinball",
-      "genres": ["Casual", "Simulation", "Sports"],
+      "genres": [
+        "Casual",
+        "Simulation",
+        "Sports"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spirit Valley",
-      "genres": ["Strategy", "Adventure", "RPG"],
+      "genres": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spongebob Squarepants: Battle for Bikini Bottom",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spyro 2: Ripto's Rage",
-      "genres": ["Arcade", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Arcade",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spyro 3: Year of the Dragon",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Spyro the Dragon",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Stacklands",
-      "genres": ["Casual", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Star Fox 64",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Star Wars: Episode 1 Racer",
-      "genres": ["Racing", "Arcade", "Action"],
+      "genres": [
+        "Racing",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Starcraft 2",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Stardew Valley",
-      "genres": ["Indie", "RPG", "Simulation"],
+      "genres": [
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Stick Ranger",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2014,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Streets of Rage",
-      "genres": ["Arcade", "Action"],
+      "genres": [
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 1991,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Subnautica",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Adventure Island II",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Cat Planet",
-      "genres": ["Platformer", "Indie"],
+      "genres": [
+        "Platformer",
+        "Indie"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Chipflake Ü: Quest for the Uncooked Schnitzel",
-      "genres": ["Arcade", "Action", "Fighting"],
+      "genres": [
+        "Arcade",
+        "Action",
+        "Fighting"
+      ],
       "releaseYear": 2014,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Junkoid",
-      "genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario 64",
-      "genres": ["Platformer"],
+      "genres": [
+        "Platformer"
+      ],
       "releaseYear": 1996,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario Land 2: The Golden Coins",
       "genres": [],
       "releaseYear": 1992,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario RPG",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario Sunshine",
-      "genres": ["Platformer", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario Sunshine Arcade 2",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario World",
-      "genres": ["Platformer", "Arcade"],
+      "genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario World: Spicy Mycena Waffles",
-      "genres": ["Platformer", "Arcade"],
+      "genres": [
+        "Platformer",
+        "Arcade"
+      ],
       "releaseYear": 1990,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Metroid",
-      "genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "genres": [
+        "Platformer",
+        "Shooter",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.591Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Metroid Map Rando",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 1986,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Smash Bros. Melee",
-      "genres": ["Action", "Fighting"],
+      "genres": [
+        "Action",
+        "Fighting"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Supraland",
-      "genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "System Shock 2",
-      "genres": ["Shooter", "Action", "RPG"],
+      "genres": [
+        "Shooter",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "TCG Card Shop Simulator",
-      "genres": ["Simulation"],
+      "genres": [
+        "Simulation"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Terraria",
-      "genres": ["Platformer", "Indie", "Action"],
+      "genres": [
+        "Platformer",
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2011,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Tetris Attack",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 1995,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Tevi",
-      "genres": ["Casual", "Indie", "Adventure", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Timespinner",
-      "genres": ["Indie", "Adventure", "Action", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Toejam & Earl",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1992,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "TOEM: A Photo Adventure",
-      "genres": ["Casual", "Indie", "Adventure"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Total War: Warhammer III",
-      "genres": ["Strategy", "Action"],
+      "genres": [
+        "Strategy",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Total War: Warhammer III Alternative",
-      "genres": ["Strategy", "Action"],
+      "genres": [
+        "Strategy",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Totally Accurate Battle Simulator (TABS)",
-      "genres": ["Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Touhou Eiyashou ~ Imperishable Night",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Touhou Koumakyou: The Embodiment of Scarlet Devil",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Touhou Youyoumu ~ Perfect Cherry Blossom",
-      "genres": ["Indie"],
+      "genres": [
+        "Indie"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Trackmania",
-      "genres": ["Racing", "Arcade"],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "TUNIC",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Turnip Boy Commits Tax Evasion",
-      "genres": ["Casual", "Indie", "Adventure", "Action"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Twisty Cube",
-      "genres": ["Arcade", "Action"],
+      "genres": [
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ty The Tasmanian Tiger 2",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ty the Tasmanian Tiger 3",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Ty The Tasmanian Tiger HD Remaster (PC)",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Tyrian / Tyrian 2000",
-      "genres": ["Shooter", "Action"],
+      "genres": [
+        "Shooter",
+        "Action"
+      ],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "UFO 50",
-      "genres": ["Adventure", "Action", "RPG", "Strategy", "Indie"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "ULTRAKILL",
-      "genres": ["Indie", "Action"],
+      "genres": [
+        "Indie",
+        "Action"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "UNBEATABLE",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Undertale",
-      "genres": ["Indie", "RPG"],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Unfair Flips",
-      "genres": ["Casual", "Indie"],
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
       "releaseYear": 2025,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Untitled Goose Game",
-      "genres": ["Indie", "Family", "Action", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Family",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Vacation Simulator",
-      "genres": ["Adventure", "Action", "RPG", "Simulation"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Simulation"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Valheim",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Vampire Survivors",
-      "genres": ["Casual", "Indie", "Action", "RPG"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Vespadian",
-      "genres": ["Adventure", "RPG"],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Vintage Story",
-      "genres": ["Indie", "Action", "Simulation"],
+      "genres": [
+        "Indie",
+        "Action",
+        "Simulation"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Void Sols",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2022,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Void Stranger",
-      "genres": ["Indie", "Adventure", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Voltorb Flip (from Pokémon HG & SS)",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "VVVVVV",
-      "genres": ["Adventure", "Action", "Puzzle", "Casual", "Arcade", "Indie", "Platformer"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Casual",
+        "Arcade",
+        "Indie",
+        "Platformer"
+      ],
       "releaseYear": 2010,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wargroove",
-      "genres": ["Strategy", "Indie"],
+      "genres": [
+        "Strategy",
+        "Indie"
+      ],
       "releaseYear": 2019,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wargroove 2",
-      "genres": ["Strategy", "RPG"],
+      "genres": [
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wario Land 1",
       "genres": [],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wario Land 4",
-      "genres": ["Platformer", "Action"],
+      "genres": [
+        "Platformer",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Watery Words",
-      "genres": ["Strategy", "Arcade", "Action"],
+      "genres": [
+        "Strategy",
+        "Arcade",
+        "Action"
+      ],
       "releaseYear": 1994,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "WEBFISHING",
-      "genres": ["Casual", "Indie", "Massively Multiplayer"],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+      ],
       "releaseYear": 2024,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "West of Loathing",
-      "genres": ["Indie", "Adventure", "RPG"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "RPG"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Witness",
-      "genres": ["Indie", "Adventure", "Puzzle"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2016,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Word Search",
-      "genres": ["Educational", "Adventure", "Puzzle"],
+      "genres": [
+        "Educational",
+        "Adventure",
+        "Puzzle"
+      ],
       "releaseYear": 2020,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wordipelago",
       "genres": [],
       "releaseYear": null,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "XCOM 2: War of the Chosen",
-      "genres": ["Strategy"],
+      "genres": [
+        "Strategy"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Xenoblade Chronicles X",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2015,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yacht Dice",
-      "genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Indie",
+        "Simulation"
+      ],
       "releaseYear": 2021,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yacht Dice Bliss",
-      "genres": ["Casual"],
+      "genres": [
+        "Casual"
+      ],
       "releaseYear": null,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yet Another Rhythm Game (YARG)",
-      "genres": ["Puzzle"],
+      "genres": [
+        "Puzzle"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yoku's Island Express",
-      "genres": ["Indie", "Adventure"],
+      "genres": [
+        "Indie",
+        "Adventure"
+      ],
       "releaseYear": 2018,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yooka-Laylee",
-      "genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Platformer",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yoshi's Island",
-      "genres": ["Platformer", "Adventure"],
+      "genres": [
+        "Platformer",
+        "Adventure"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yu-Gi-Oh! 2006",
-      "genres": ["Card", "Strategy", "RPG"],
+      "genres": [
+        "Card",
+        "Strategy",
+        "RPG"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yu-Gi-Oh! Dungeon Dice Monsters",
-      "genres": ["Card", "Strategy"],
+      "genres": [
+        "Card",
+        "Strategy"
+      ],
       "releaseYear": 2003,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yu-Gi-Oh! Forbidden Memories",
       "genres": [],
       "releaseYear": 1999,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Yu-Gi-Oh! GX - Duel Academy (GBA)",
-      "genres": ["Card"],
+      "genres": [
+        "Card"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Zelda 2: The Adventure of Link",
-      "genres": ["RPG"],
+      "genres": [
+        "RPG"
+      ],
       "releaseYear": 1987,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: A Link Between Worlds",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2013,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: A Link to the Past",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1991,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Link's Awakening DX",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1993,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Link's Awakening DX Beta",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1993,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Majora's Mask",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2000,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: The Minish Cap",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2004,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Ocarina of Time",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Ocarina of Time - Ship of Harkinian",
-      "genres": ["Adventure", "Action", "RPG"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 1998,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Oracle of Ages",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Oracle of Seasons",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2001,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Phantom Hourglass",
-      "genres": ["Adventure", "Action", "Puzzle"],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
       "releaseYear": 2007,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Skyward Sword",
-      "genres": ["Adventure"],
+      "genres": [
+        "Adventure"
+      ],
       "releaseYear": 2011,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Spirit Tracks",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2009,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: Twilight Princess",
-      "genres": ["Action", "RPG"],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
       "releaseYear": 2006,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "The Legend of Zelda: The Wind Waker",
-      "genres": ["Action"],
+      "genres": [
+        "Action"
+      ],
       "releaseYear": 2002,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Zillion",
       "genres": [],
       "releaseYear": 2021,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Zork: Grand Inquisitor",
-      "genres": ["Adventure", "Action"],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 1997,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "A Dance of Fire and Ice",
       "genres": [],
       "releaseYear": 2014,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Corn Kidz 64",
-      "genres": ["Indie", "Adventure", "Action"],
+      "genres": [
+        "Indie",
+        "Adventure",
+        "Action"
+      ],
       "releaseYear": 2023,
       "isMultiplayer": true,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Mario is Missing!",
-      "genres": ["Educational"],
+      "genres": [
+        "Educational"
+      ],
       "releaseYear": 1991,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Plok!",
-      "genres": ["Casual"],
+      "genres": [
+        "Casual"
+      ],
       "releaseYear": 2017,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Super Mario Land 2: 6 Golden Coins",
       "genres": [],
       "releaseYear": 1992,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     },
     {
       "gameName": "Wario Land: Super Mario Land 3",
       "genres": [],
       "releaseYear": 1994,
       "isMultiplayer": false,
-      "fetchedAt": "2026-02-15T21:05:31.592Z"
+      "fetchedAt": "2026-02-15"
     }
   ],
   "version": "1.0.0"
