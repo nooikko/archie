@@ -37,6 +37,7 @@
     "@types/react-dom": "^19",
     "@vitejs/plugin-react": "^5.1.4",
     "@vitest/ui": "^4.0.18",
+    "babel-plugin-react-compiler": "^1.0.0",
     "husky": "^9.1.7",
     "jsdom": "^28.1.0",
     "shadcn": "^3.8.4",
