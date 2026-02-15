@@ -1,0 +1,5 @@
+# Run build to ensure it succeeds
+echo "Running build..."
+pnpm build || exit 1
+
+echo "Pre-push build check passed!"
