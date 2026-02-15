@@ -71,9 +71,7 @@ const HomePage = () => {
                 Xetaas APWorlds List
               </a>
             </p>
-            <p className='font-mono text-[10px] text-muted-foreground/50 tracking-wider'>
-              Enriched with genre and release data from RAWG
-            </p>
+            <p className='font-mono text-[10px] text-muted-foreground/50 tracking-wider'>Enriched with genre and release data from RAWG</p>
           </div>
         </footer>
       </div>
