@@ -8,6 +8,7 @@ const mockGame: Game = {
   Status: 'Stable',
   Platform: 'PC',
   Emulator: '',
+  IsArchipelagoTool: 'false',
 };
 
 describe('GameCard', () => {

@@ -4,3024 +4,5036 @@
       "Game": "A Bug's Life",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Arcade", "Action"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
-      "Game": "A Dance Of Fire And Ice",
+      "Game": "A Dance of Fire and Ice",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": false
     },
     {
       "Game": "A Difficult Game About Climbing",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "A Hat in Time",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "A Robot Named Fight!",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "A Short Hike",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "ActRaiser",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": false
     },
     {
       "Game": "Adventure",
       "Status": "Official",
       "Platform": "Atari 2600",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Puzzle"],
+      "ReleaseYear": 1978,
+      "IsMultiplayer": false
     },
     {
       "Game": "Against the Storm",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Simulation"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Age of Empires II: Definite Edition",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": true
     },
     {
       "Game": "Air Delivery",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Adventure", "Simulation"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "An Untitled Story",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "ANIMAL WELL",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Anodyne",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Arcade", "Indie"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": false
     },
     {
       "Game": "Another Crab's Treasure",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ape Escape",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ape Escape 3",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "APQuest",
       "Status": "Official",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 1988,
+      "IsMultiplayer": false
     },
     {
       "Game": "Aquaria",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "Archipelacode",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": 1988,
+      "IsMultiplayer": false
     },
     {
       "Game": "Archipeladoku (Sudoku)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Indie", "Puzzle"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Archipela-Go!",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Indie", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Armored Core (PSX)",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Adventure", "Action", "Simulation"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "Astalon: Tears of the Earth",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Autopelago",
       "Status": "In Review",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Axiom Verge",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Balatro",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Baldur's Gate 3",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Banjo-Tooie",
       "Status": "In Review",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": true
     },
     {
       "Game": "Beat Saber",
       "Status": "Unstable",
       "Platform": "PC (VR)",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Binding of Isaac: Repentance",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Binding of Isaac: Repentance (Progression Lock)",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Bits & Bops",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Black Market of Bulletphilia ~ 100th Black Market (Touhou 18.5)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Blasphemous",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Blasphemous 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Blockupelago",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Bloons Tower Defense 6",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Bomb Rush Cyberfunk",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Bomberman 64",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "Bomberman 64: The Second Attack",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action", "Puzzle"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": true
     },
     {
       "Game": "Bomberman Hero",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "Bomberman Quest",
       "Status": "Unstable",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": true
     },
     {
       "Game": "Borderlands 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action", "RPG"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": true
     },
     {
       "Game": "Brave Fencer Musashi",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "Brotato",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Action", "RPG"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Buckshot Roulette",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Bumper Stickers",
       "Status": "Official",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Candy Box 2",
       "Status": "In Review",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cassette Beasts",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Castlevania 64",
       "Status": "Official",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "Castlevania - Circle of the Moon",
       "Status": "Official",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Castlevania: Dawn of Sorrow",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action", "RPG"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "Castlevania: Harmony of Dissonance",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Castlevania: Legacy of Darkness",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Castlevania: Symphony of the Night",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": false
     },
     {
       "Game": "Casualties: Unknown (Scav Prototype Demo)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cat Quest",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cave Story",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cavern of Dreams",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Caves of Qud",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Celeste",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Celeste 64",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Celeste (Open World)",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "RPG", "Simulation"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Chained Echoes",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "ChecksFinder",
       "Status": "Official",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "ChecksMate (Chess)",
       "Status": "In Review",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": true
     },
     {
       "Game": "Choo Choo Charles",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Christmas Delivery",
       "Status": "Broken on Main",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Chrono Trigger: Jets of Time",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": true
     },
     {
       "Game": "Citadel (Luanti)",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Indie", "Massively Multiplayer"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Civilization V",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": true
     },
     {
       "Game": "Civilization VI",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Clair Obscur Expedition 33",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Clique",
       "Status": "APWorld Only",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "ClusterTruck",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Arcade", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Cobalt Core",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Codeforces",
       "Status": "Unstable",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Conbunn Cardboard",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cookie Clicker",
       "Status": "Unstable",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": false
     },
     {
-      "Game": "CornKidz64",
+      "Game": "Corn Kidz 64",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "corru.observer",
       "Status": "Unstable",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Crash Bandicoot 2: Cortex Strikes Back",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": false
     },
     {
       "Game": "CrossCode",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG", "Puzzle"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "CrosswordAP",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2008,
+      "IsMultiplayer": false
     },
     {
       "Game": "Crypt of the NecroDancer",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "RPG"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": true
     },
     {
       "Game": "Crystal Project",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": true
     },
     {
       "Game": "Crystalis",
       "Status": "Stable",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": false
     },
     {
       "Game": "Cuphead",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Custom Robo",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Fighting"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": true
     },
     {
       "Game": "Dark Cloud 1",
       "Status": "Unstable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dark Cloud 2",
       "Status": "Unstable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dark Souls II",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": true
     },
     {
       "Game": "Dark Souls III",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Dark Souls Remastered",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Death's Door",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "RPG"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Deep Rock Galactic",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": true
     },
     {
       "Game": "Delivering Hope",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "DELTARUNE",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Devil May Cry 3 (Special Edition)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dicey Dungeons",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "RPG"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Diddy Kong Racing",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "Digimon World 1",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "DLCQuest",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dome Keeper",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Donkey Kong 64",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "Donkey Kong Country",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": true
     },
     {
       "Game": "Donkey Kong Country 3",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": false
     },
     {
       "Game": "Donkey Kong Country (Mirrored)",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "Don't Starve Together",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "DOOM 1993",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Doom 404",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "DOOM II",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "DORONKO WANKO",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Action", "Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dracomino",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dragon Warrior",
       "Status": "APWorld Only",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dream Dazia",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dredge",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Duke Nukem 3D",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": true
     },
     {
       "Game": "Dungeon Clawler",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG", "Casual", "Strategy", "Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Dyson Sphere Program",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Earthbound",
       "Status": "Merged",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": false
     },
     {
       "Game": "Easy Delivery Co.",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Racing", "Indie", "Simulation"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Elder Scrolls IV: Oblivion Remastered",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Elementipelago",
       "Status": "Stable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ender Lilies: Quietus of the Knights",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action", "RPG"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Enter the Gungeon",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Indie", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Everhood 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Factorio",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": true
     },
     {
       "Game": "Factorio - Space Age Without Space",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Factorio w/ Bob's Mods",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Faxanadu",
       "Status": "Official",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 1987,
+      "IsMultiplayer": false
     },
     {
       "Game": "Fez",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "Puzzle", "Indie", "Platformer"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy",
       "Status": "Official",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1987,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy 1: Pixel Remaster",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy 6 Worlds Collide",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "Final Fantasy IV: Free Enterprise",
       "Status": "In Review",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1991,
+      "IsMultiplayer": true
     },
     {
       "Game": "Final Fantasy Mystic Quest",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1992,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy Tactics A2: Grimoire of the Rift",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "RPG"],
+      "ReleaseYear": 2008,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy Tactics Advance",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "RPG"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Final Fantasy Tactics: Ivalice Island",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG", "Simulation"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "Final Fantasy XII: Open World",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "RPG"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy XII: Trial Mode",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "RPG"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "Final Fantasy XIII - Lightning Returns",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Fire Emblem: The Sacred Stones",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": true
     },
     {
       "Game": "Flipwitch",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "FNAF World",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Forged Curse",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Freddy Fazbear's Pizzeria Simulator",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Freedom Planet 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Friday Night Funkin'",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Frogmonster",
       "Status": "Stable",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": null,
+      "IsMultiplayer": true
     },
     {
       "Game": "Garfield Kart: Furious Racing",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": true
     },
     {
       "Game": "Gato Roboto",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Gato Roboto B-Side",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Gauntlet Legends",
       "Status": "In Review",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Getting Over It with Bennett Foddy",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Simulation"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Glover",
       "Status": "In Review",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "GLYPHS",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Golden Sun: The Lost Age",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Grim Dawn",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "RPG"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Grinch",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Arcade"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Guardian Legend",
       "Status": "APWorld Only",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1988,
+      "IsMultiplayer": false
     },
     {
       "Game": "Guild Wars 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": true
     },
     {
       "Game": "GZDoom",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Hacknet",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": true
     },
     {
       "Game": "Hades",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hammerwatch",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": true
     },
     {
       "Game": "Haste",
       "Status": "Index Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Action"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "HASTE: Broken Worlds",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hatsune Miku: Project Diva Megamix+",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": true
     },
     {
       "Game": "Here Comes Niko!",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Heretic",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "Hero Core",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Adventure", "Action"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hexcells Infinite",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie"],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hi-Fi Rush",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "HITMAN: World of Assassination",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hollow Knight",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hollow Knight - Beta APWorld",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "holo8",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hololive Treasure Mountain",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Huniecam Studio",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Huniepop",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Huniepop 2: Double Date",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG", "Puzzle", "Strategy", "Simulation", "Indie"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Hylics 2",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "HyperRogue",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Educational", "Indie", "RPG", "Puzzle"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": true
     },
     {
       "Game": "I Was A Teenage Exocolonist",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card", "Indie", "RPG", "Simulation"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "ICEwall",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Iji",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade"],
+      "ReleaseYear": 2008,
+      "IsMultiplayer": false
     },
     {
       "Game": "Inscryption",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Strategy", "Adventure"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Into the Breach",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Isles of Sea and Sky",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ittle Dew 2+",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Jak and Daxter: The Precursor Legacy",
       "Status": "Official",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Jet Island",
       "Status": "Unstable",
       "Platform": "PC (VR)",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing", "Adventure", "Casual", "Simulation", "Sports"],
+      "ReleaseYear": null,
+      "IsMultiplayer": true
     },
     {
       "Game": "Jigsaw Puzzle for Archipelago",
       "Status": "Stable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Strategy", "Indie"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Junko",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kabuto Park (Demo)",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": true
     },
     {
       "Game": "Keep Talking and Nobody Explodes",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation", "Puzzle"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": true
     },
     {
       "Game": "KeyWe",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kindergarten 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts 2",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts 358/2 Days",
       "Status": "Unstable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts Dream Drop Distance",
       "Status": "Unstable",
       "Platform": "3DS",
-      "Emulator": "Citra"
+      "Emulator": "Citra",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts: Birth by Sleep Final Mix",
       "Status": "Stable",
       "Platform": "PSP",
-      "Emulator": "PPSSPP"
+      "Emulator": "PPSSPP",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Hearts: Chain of Memories (GBA)",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kingdom Hearts: RE Chain of Memories",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "Kingdom Two Crowns",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG", "Strategy", "Simulation", "Indie"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kirby 64 - The Crystal Shards",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kirby Air Ride",
       "Status": "Unstable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kirby Super Star",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": true
     },
     {
       "Game": "Kirby's Dream Land 3",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "K-On! After School Live!!",
       "Status": "Stable",
       "Platform": "PSP",
-      "Emulator": "PPSSPP"
+      "Emulator": "PPSSPP",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Landstalker - The Treasures of King Nole",
       "Status": "Official",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1992,
+      "IsMultiplayer": false
     },
     {
       "Game": "League of Legends",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action", "RPG"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": true
     },
     {
       "Game": "Left 4 Dead 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Legend of Dragoon",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Heroes: Trails in the Sky the 3rd",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda",
       "Status": "Official",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1986,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lego Batman: The Video Game",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 1989,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lego Star Wars: The Complete Saga",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": true
     },
     {
       "Game": "Lethal Company",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Library of Ruina",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "RPG"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lies of P",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lil Gator Game",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lingo",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Lingo 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": true
     },
     {
       "Game": "Little Witch Nobeta",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lobotomy Corporation",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Loonyland: Halloween Hill",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lufia II Ancient Cave",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": false
     },
     {
       "Game": "Luigi's Mansion",
       "Status": "Stable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Lunacid",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG"],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
-      "Game": "Mario is Missing (SNES)",
+      "Game": "Mario is Missing!",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Educational"],
+      "ReleaseYear": 1991,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mario Kart 64",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mario Kart: Double Dash",
       "Status": "Unstable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mario & Luigi Superstar Saga",
       "Status": "Official",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mario Party Advance",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mario Super Sluggers",
       "Status": "Unstable",
       "Platform": "Wii",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Sports"],
+      "ReleaseYear": 2008,
+      "IsMultiplayer": false
     },
     {
       "Game": "MediEvil (1998)",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "MediEvil 2",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man 1",
       "Status": "Unstable",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mega Man 2",
       "Status": "Official",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Arcade", "Action"],
+      "ReleaseYear": 1988,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mega Man 3",
       "Status": "In Review",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man Battle Network 6",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man X",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Adventure", "Action", "Puzzle"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mega Man X Command Mission",
       "Status": "Unstable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man X2",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man X3",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mega Man X4",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mega Man Zero 3",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "MegaMan Battle Network 3",
       "Status": "Official",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Mercenaries: Playground of Destruction",
       "Status": "Unstable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "Meritous",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Messenger",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Indie", "Platformer"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "MetroCUBEvania",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Metroid Fusion",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Metroid Prime",
       "Status": "In Review",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Adventure", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Metroid: Zero Mission",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Mindustry",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Minecraft",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": true
     },
     {
       "Game": "Minecraft Dig",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": true
     },
     {
       "Game": "Minecraft Fabric",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Arcade", "Simulation", "Indie", "Massively Multiplayer"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": true
     },
     {
       "Game": "Minishoot Adventures",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Minit",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Momodora 4 - Reverie Under the Moonlight",
       "Status": "Broken on Main",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Momodora: Moonlit Farewell",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Monster Hunter World",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Monster Sanctuary",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Muse Dash",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Musipelago",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Nine Sols",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Nodebuster",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Noita",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Noita - Enemysanity",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Simulation", "Indie"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Nonograhmm",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Indie", "Puzzle"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Nonopelagram",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ocarina of Time but it's just Master Quest Water Temple",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "Old School Runescape",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Massively Multiplayer", "Adventure", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "OpenRCT2",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ori and the Blind Forest",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ori and the Will of the Wisps",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "osu!",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Arcade"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": false
     },
     {
       "Game": "Our Ascent",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG", "Casual", "Strategy", "Indie"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Outer Wilds",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Overcooked! 2",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Oxygen Not Included",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Paint",
       "Status": "Official",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Paper Mario 64",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "Paper Mario: The Thousand Year Door",
       "Status": "Stable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Paquerette Down the Bunburrows",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Parkitect",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Password Game",
       "Status": "Broken on Main",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Path of Exile",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Massively Multiplayer", "Action", "RPG"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": true
     },
     {
       "Game": "PEAK",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Peaks of Yore",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Peggle Nights",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual"],
+      "ReleaseYear": 2008,
+      "IsMultiplayer": false
     },
     {
       "Game": "Persona 5 Royal",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Phantasy Star II",
       "Status": "Unstable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 1989,
+      "IsMultiplayer": false
     },
     {
       "Game": "Phoenotopia: Awakening",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Puzzle", "Indie"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pikmin 1",
       "Status": "Unstable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pikmin 2",
       "Status": "Unstable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Puzzle"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": true
     },
     {
       "Game": "Pinball FX3",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Simulation"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Piranesi Restoration Project (Luanti)",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pizza Tower",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Placid Plastic Duck Simulator",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Simulation"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Planet Crafter",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Plants vs. Zombies: GOTY",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Plants vs. Zombies: Replanted",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": true
     },
     {
       "Game": "Plateup!",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": true
     },
     {
-      "Game": "Plok",
+      "Game": "Plok!",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Black and White",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2011,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Crystal",
       "Status": "APWorld Only",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Emerald",
       "Status": "Official",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": true
     },
     {
       "Game": "Pokémon Fire Red and Leaf Green",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Pinball",
       "Status": "Unstable",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Platinum",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pokémon Red and Blue",
       "Status": "Official",
       "Platform": "GB",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": true
     },
     {
       "Game": "Pokémon Stadium",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "Pokémon Trading Card Game (GameBoy)",
       "Status": "Unstable",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card", "Board Games"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": true
     },
     {
       "Game": "PokéPark Wii: Pikachu's Adventure",
       "Status": "Unstable",
       "Platform": "Wii",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Family", "Adventure", "Action"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Portal 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Puzzle"],
+      "ReleaseYear": 2011,
+      "IsMultiplayer": true
     },
     {
       "Game": "PowerWash Simulator",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Simulation"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Prodigal",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Pseudoregalia",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Psychonauts",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "Quake",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": true
     },
     {
       "Game": "Rabbit and Steel",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Rabi-Ribi",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Raft",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": true
     },
     {
       "Game": "Rain World",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ratchet & Clank",
       "Status": "Unstable",
       "Platform": "PS3",
-      "Emulator": "RPCS3"
+      "Emulator": "RPCS3",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Action"],
+      "ReleaseYear": 2012,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ratchet & Clank 2: Going Commando",
       "Status": "Stable",
       "Platform": "PS3",
-      "Emulator": "RPCS3"
+      "Emulator": "RPCS3",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Platformer", "Action", "RPG"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ratchet & Clank 3: Up Your Arsenal",
       "Status": "Stable",
       "Platform": "PS3",
-      "Emulator": "RPCS3"
+      "Emulator": "RPCS3",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Rayman 2: The Great Escape",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Refunct",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "R.E.P.O",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": null,
+      "IsMultiplayer": true
     },
     {
       "Game": "Resident Evil 2 Remake",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Adventure", "Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Resident Evil 3 Remake",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG", "Puzzle"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Resident Evil 7",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Return of the Obra Dinn",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Reventure",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Rift of the Necrodancer",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "RPG"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Rift Wizard",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "RPG"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Rimworld",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Risk of Rain",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": true
     },
     {
       "Game": "Risk of Rain 2",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Arcade", "Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": true
     },
     {
       "Game": "Risk of Rain Returns",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
       "Game": "Rogue Legacy",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action", "RPG"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": false
     },
     {
       "Game": "Rusted Moss",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Shooter", "Indie", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Santa Needs YOU!",
       "Status": "Broken on Main",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Adventure", "Puzzle"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Satisfactory",
       "Status": "Merged",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Strategy", "Adventure", "Action"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "Saving Princess",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Schedule I",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": true
     },
     {
       "Game": "Scooby-Doo! Night of 100 Frights",
       "Status": "In Review",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sea of Thieves",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Secret of Evermore",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": false
     },
     {
       "Game": "Secret of Mana",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Seedling",
       "Status": "Broken on Main",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Simulation"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sentinels of the Multiverse",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Settlers: Heritage of Kings",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Severed Soul",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "Shadow the Hedgehog",
       "Status": "Stable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": true
     },
     {
       "Game": "Shadowgate 64: Trials of the Four Towers",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "shapez",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "shapez 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Shining in the Darkness",
       "Status": "Unstable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1991,
+      "IsMultiplayer": false
     },
     {
       "Game": "Shivers",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": false
     },
     {
       "Game": "Shovel Knight Pocket Dungeon",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Signalis",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Silver Daze",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Simon Tatham's Portable Puzzle Collection",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Simpsons: Hit & Run",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing", "Action"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Sims 4",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Strategy", "Simulation"],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": true
     },
     {
       "Game": "Slay the Spire",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card", "Strategy", "Indie", "RPG"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Slime Rancher",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sly 2: Band of Thieves",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sly Cooper and the Thievius Raccoonus",
       "Status": "Stable",
       "Platform": "PS2",
-      "Emulator": "PCSX2"
+      "Emulator": "PCSX2",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Smushi Come Home",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "SMZ3",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sonic Advance 2",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sonic Adventure 2 Battle",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sonic Adventure DX",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Family", "Platformer"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sonic Battle",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Fighting"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sonic Frontiers",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sonic the Hedgehog",
       "Status": "Stable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sonic Heroes",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Arcade", "Action"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sonic Riders",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing", "Arcade"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": true
     },
     {
       "Game": "Sonic Robo Blast 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Sonic Rush",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2005,
+      "IsMultiplayer": false
     },
     {
       "Game": "SoulBlazer",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Space Engineers",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Action", "Simulation"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": true
     },
     {
       "Game": "Spelunker",
       "Status": "Stable",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 1985,
+      "IsMultiplayer": false
     },
     {
       "Game": "Spelunky 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": true
     },
     {
       "Game": "Spinball",
       "Status": "Stable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Simulation", "Sports"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Spirit Valley",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Adventure", "RPG"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Spongebob Squarepants: Battle for Bikini Bottom",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": false
     },
     {
       "Game": "Spyro 2: Ripto's Rage",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Spyro 3: Year of the Dragon",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "Spyro the Dragon",
       "Status": "Unstable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "Stacklands",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Simulation"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Star Fox 64",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": true
     },
     {
       "Game": "Star Wars: Episode 1 Racer",
       "Status": "Unstable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing", "Arcade", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "Starcraft 2",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": false
     },
     {
       "Game": "Stardew Valley",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Stick Ranger",
       "Status": "In Review",
       "Platform": "Browser",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": false
     },
     {
       "Game": "Streets of Rage",
       "Status": "Unstable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Action"],
+      "ReleaseYear": 1991,
+      "IsMultiplayer": true
     },
     {
       "Game": "Subnautica",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Super Adventure Island II",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Cat Planet",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Super Chipflake Ü: Quest for the Uncooked Schnitzel",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Arcade", "Action", "Fighting"],
+      "ReleaseYear": 2014,
+      "IsMultiplayer": true
     },
     {
       "Game": "Super Junkoid",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Mario 64",
       "Status": "Official",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer"],
+      "ReleaseYear": 1996,
+      "IsMultiplayer": false
     },
     {
-      "Game": "Super Mario Land 2: The Golden Coins",
+      "Game": "Super Mario Land 2: 6 Golden Coins",
       "Status": "Official",
       "Platform": "GB",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 1992,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Mario RPG",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Mario Sunshine",
       "Status": "Unstable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Mario Sunshine Arcade 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Mario World",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Arcade"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": true
     },
     {
       "Game": "Super Mario World: Spicy Mycena Waffles",
       "Status": "APWorld Only",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Arcade"],
+      "ReleaseYear": 1990,
+      "IsMultiplayer": true
     },
     {
       "Game": "Super Metroid",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Shooter", "Adventure", "Action"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Metroid Map Rando",
       "Status": "Unstable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 1986,
+      "IsMultiplayer": false
     },
     {
       "Game": "Super Smash Bros. Melee",
       "Status": "Stable",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "Fighting"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": true
     },
     {
       "Game": "Supraland",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "System Shock 2",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action", "RPG"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": true
     },
     {
       "Game": "TCG Card Shop Simulator",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Simulation"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": false
     },
     {
       "Game": "Terraria",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Indie", "Action"],
+      "ReleaseYear": 2011,
+      "IsMultiplayer": true
     },
     {
       "Game": "Tetris Attack",
       "Status": "Stable",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 1995,
+      "IsMultiplayer": true
     },
     {
       "Game": "Tevi",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Timespinner",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action", "RPG"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Toejam & Earl",
       "Status": "Stable",
       "Platform": "Genesis",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1992,
+      "IsMultiplayer": true
     },
     {
       "Game": "TOEM: A Photo Adventure",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Total War: Warhammer III",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": true
     },
     {
       "Game": "Total War: Warhammer III Alternative",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": true
     },
     {
       "Game": "Totally Accurate Battle Simulator (TABS)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Touhou Eiyashou ~ Imperishable Night",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "Touhou Koumakyou: The Embodiment of Scarlet Devil",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": false
     },
     {
       "Game": "Trackmania",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Racing", "Arcade"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": true
     },
     {
       "Game": "TUNIC",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Turnip Boy Commits Tax Evasion",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Adventure", "Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Twisty Cube",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Arcade", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Ty The Tasmanian Tiger 2",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ty the Tasmanian Tiger 3",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": true
     },
     {
       "Game": "Ty The Tasmanian Tiger HD Remaster (PC)",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": false
     },
     {
       "Game": "Tyrian / Tyrian 2000",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Shooter", "Action"],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "UFO 50",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Strategy", "Indie"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "ULTRAKILL",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "UNBEATABLE",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Undertale",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "RPG"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Unfair Flips",
       "Status": "Stable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Indie"],
+      "ReleaseYear": 2025,
+      "IsMultiplayer": false
     },
     {
       "Game": "Untitled Goose Game",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Family", "Action", "Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Vacation Simulator",
       "Status": "Unstable",
       "Platform": "PC (VR)",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG", "Simulation"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "Valheim",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Action"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Vampire Survivors",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Action", "RPG"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Vespadian",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "RPG"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Vintage Story",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Action", "Simulation"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": false
     },
     {
       "Game": "Void Sols",
       "Status": "Index Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2022,
+      "IsMultiplayer": false
     },
     {
       "Game": "Void Stranger",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Voltorb Flip (from Pokémon HG & SS)",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": false
     },
     {
       "Game": "VVVVVV",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "Puzzle", "Casual", "Arcade", "Indie", "Platformer"],
+      "ReleaseYear": 2010,
+      "IsMultiplayer": true
     },
     {
       "Game": "Wargroove",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "Indie"],
+      "ReleaseYear": 2019,
+      "IsMultiplayer": true
     },
     {
       "Game": "Wargroove 2",
       "Status": "In Review",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy", "RPG"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": true
     },
     {
-      "Game": "Wario Land 1",
+      "Game": "Wario Land: Super Mario Land 3",
       "Status": "Stable",
       "Platform": "GB",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": false
     },
     {
       "Game": "Wario Land 4",
       "Status": "In Review",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "Watery Words",
       "Status": "Stable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Strategy", "Arcade", "Action"],
+      "ReleaseYear": 1994,
+      "IsMultiplayer": true
     },
     {
       "Game": "WEBFISHING",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Casual", "Indie", "Massively Multiplayer"],
+      "ReleaseYear": 2024,
+      "IsMultiplayer": true
     },
     {
       "Game": "West of Loathing",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "RPG"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Witness",
       "Status": "Official",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure", "Puzzle"],
+      "ReleaseYear": 2016,
+      "IsMultiplayer": true
     },
     {
       "Game": "Word Search",
       "Status": "Unstable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Educational", "Adventure", "Puzzle"],
+      "ReleaseYear": 2020,
+      "IsMultiplayer": false
     },
     {
       "Game": "Wordipelago",
       "Status": "Stable",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": [],
+      "ReleaseYear": null,
+      "IsMultiplayer": false
     },
     {
       "Game": "XCOM 2: War of the Chosen",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Strategy"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Xenoblade Chronicles X",
       "Status": "Unstable",
       "Platform": "Wii U",
-      "Emulator": "Cemu"
+      "Emulator": "Cemu",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2015,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yacht Dice",
       "Status": "Official",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual", "Strategy", "Indie", "Simulation"],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": true
     },
     {
       "Game": "Yacht Dice Bliss",
       "Status": "Index Only",
       "Platform": "Built-in",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "true",
+      "Genres": ["Casual"],
+      "ReleaseYear": null,
+      "IsMultiplayer": true
     },
     {
       "Game": "Yet Another Rhythm Game (YARG)",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Puzzle"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yoku's Island Express",
       "Status": "Unstable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Adventure"],
+      "ReleaseYear": 2018,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yooka-Laylee",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Indie", "Platformer", "Adventure", "Action"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Yoshi's Island",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Platformer", "Adventure"],
+      "ReleaseYear": 2023,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yu-Gi-Oh! 2006",
       "Status": "Official",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card", "Strategy", "RPG"],
+      "ReleaseYear": 2017,
+      "IsMultiplayer": true
     },
     {
       "Game": "Yu-Gi-Oh! Dungeon Dice Monsters",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card", "Strategy"],
+      "ReleaseYear": 2003,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yu-Gi-Oh! Forbidden Memories",
       "Status": "Stable",
       "Platform": "PS1",
-      "Emulator": "DuckStation"
+      "Emulator": "DuckStation",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 1999,
+      "IsMultiplayer": false
     },
     {
       "Game": "Yu-Gi-Oh! GX - Duel Academy (GBA)",
       "Status": "Unstable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Card"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "Zelda 2: The Adventure of Link",
       "Status": "Stable",
       "Platform": "NES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["RPG"],
+      "ReleaseYear": 1987,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: A Link Between Worlds",
       "Status": "Stable",
       "Platform": "3DS",
-      "Emulator": "Citra"
+      "Emulator": "Citra",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2013,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: A Link to the Past",
       "Status": "Official",
       "Platform": "SNES",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1991,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Link's Awakening DX",
       "Status": "Official",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1993,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Link's Awakening DX Beta",
       "Status": "Index Only",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1993,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Majora's Mask",
       "Status": "Stable",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2000,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: The Minish Cap",
       "Status": "Stable",
       "Platform": "GBA",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 2004,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Ocarina of Time",
       "Status": "Official",
       "Platform": "N64",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Ocarina of Time - Ship of Harkinian",
       "Status": "Stable",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "RPG"],
+      "ReleaseYear": 1998,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Oracle of Ages",
       "Status": "Unstable",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Oracle of Seasons",
       "Status": "Stable",
       "Platform": "GBC",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2001,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Phantom Hourglass",
       "Status": "Stable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action", "Puzzle"],
+      "ReleaseYear": 2007,
+      "IsMultiplayer": true
     },
     {
       "Game": "The Legend of Zelda: Skyward Sword",
       "Status": "Stable",
       "Platform": "Wii",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure"],
+      "ReleaseYear": 2011,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Spirit Tracks",
       "Status": "Unstable",
       "Platform": "DS",
-      "Emulator": "melonDS"
+      "Emulator": "melonDS",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 2009,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: Twilight Princess",
       "Status": "Stable",
       "Platform": "Wii",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action", "RPG"],
+      "ReleaseYear": 2006,
+      "IsMultiplayer": false
     },
     {
       "Game": "The Legend of Zelda: The Wind Waker",
       "Status": "Official",
       "Platform": "GameCube",
-      "Emulator": "Dolphin"
+      "Emulator": "Dolphin",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Action"],
+      "ReleaseYear": 2002,
+      "IsMultiplayer": true
     },
     {
       "Game": "Zillion",
       "Status": "Official",
       "Platform": "Master System",
-      "Emulator": "BizHawk"
+      "Emulator": "BizHawk",
+      "IsArchipelagoTool": "false",
+      "Genres": [],
+      "ReleaseYear": 2021,
+      "IsMultiplayer": false
     },
     {
       "Game": "Zork: Grand Inquisitor",
       "Status": "APWorld Only",
       "Platform": "PC",
-      "Emulator": ""
+      "Emulator": "",
+      "IsArchipelagoTool": "false",
+      "Genres": ["Adventure", "Action"],
+      "ReleaseYear": 1997,
+      "IsMultiplayer": false
     }
   ],
   "metadata": {
     "count": 503,
-    "generatedAt": "2026-02-15T18:49:50.515Z",
+    "generatedAt": "2026-02-15T21:05:31.594Z",
     "version": "1.0.0"
   }
 }
