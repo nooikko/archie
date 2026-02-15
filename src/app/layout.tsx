@@ -24,17 +24,7 @@ export const metadata: Metadata = {
   },
   description:
     'Search and discover 500+ games and tools in the Archipelago multi-world randomizer ecosystem. Browse by status, platform, and emulator with instant search and filtering.',
-  keywords: [
-    'Archipelago',
-    'randomizer',
-    'multi-world',
-    'multi-game',
-    'game randomizer',
-    'retro games',
-    'speedrun',
-    'ROM hack',
-    'game mods',
-  ],
+  keywords: ['Archipelago', 'randomizer', 'multi-world', 'multi-game', 'game randomizer', 'retro games', 'speedrun', 'ROM hack', 'game mods'],
   authors: [{ name: 'ARCHIE' }],
   creator: 'ARCHIE',
   publisher: 'ARCHIE',
