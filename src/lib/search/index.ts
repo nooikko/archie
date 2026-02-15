@@ -5,7 +5,7 @@
 import gamesDataJson from './data/games-data.json';
 
 /**
- * Main game interface representing a row in the CSV
+ * Main game interface representing a row in the CSV + enriched data from RAWG API
  */
 export interface Game {
   /** Name of the game (primary identifier) */
@@ -16,6 +16,14 @@ export interface Game {
   readonly Platform: string;
   /** Emulator required: DuckStation, BizHawk, PCSX2, etc. Empty for native PC games */
   readonly Emulator: string;
+  /** Whether this is an Archipelago-specific tool (not a standalone video game) */
+  readonly IsArchipelagoTool: string;
+  /** Genres from RAWG API (enriched data, may be empty array if not found) */
+  readonly Genres?: readonly string[];
+  /** Release year from RAWG API (enriched data, null if not found) */
+  readonly ReleaseYear?: number | null;
+  /** Multiplayer support from RAWG API (enriched data, false if not found) */
+  readonly IsMultiplayer?: boolean;
 }
 
 /**

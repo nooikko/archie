@@ -3,6 +3,9 @@ import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
 
 const HomePage = () => {
+  const gameCount = allGames.filter((game) => game.IsArchipelagoTool !== 'true').length;
+  const toolCount = allGames.filter((game) => game.IsArchipelagoTool === 'true').length;
+
   return (
     <main className='relative min-h-screen'>
       {/* Scroll to top button */}
@@ -24,8 +27,11 @@ const HomePage = () => {
           {/* Stats bar */}
           <div className='flex flex-wrap items-center gap-4 text-sm'>
             <div className='inline-flex items-center gap-2.5 px-4 py-2 bg-foreground text-background border border-foreground'>
-              <span className='font-mono font-bold text-[13px]'>{allGames.length}</span>
-              <span className='font-mono text-[11px] uppercase tracking-wider'>Games Available</span>
+              <span className='font-mono font-bold text-[13px]'>{gameCount}</span>
+              <span className='font-mono text-[11px] uppercase tracking-wider'>Games</span>
+              <span className='font-mono text-[11px] opacity-50'>•</span>
+              <span className='font-mono font-bold text-[13px]'>{toolCount}</span>
+              <span className='font-mono text-[11px] uppercase tracking-wider'>Tools</span>
             </div>
             <div className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background'>
               <span className='font-mono text-[11px] text-muted-foreground uppercase tracking-wider'>Browse • Search • Filter</span>

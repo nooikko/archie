@@ -18,12 +18,14 @@ const mockGames: readonly Game[] = [
     Status: 'Stable',
     Platform: 'PC',
     Emulator: '',
+    IsArchipelagoTool: 'false',
   },
   {
     Game: 'Test Game 2',
     Status: 'Official',
     Platform: 'SNES',
     Emulator: 'BizHawk',
+    IsArchipelagoTool: 'false',
   },
 ] as const;
 
@@ -132,6 +134,7 @@ describe('GameGrid', () => {
         Status: 'Stable',
         Platform: 'PC',
         Emulator: '',
+        IsArchipelagoTool: 'false',
       }));
 
       render(<GameGrid games={largeGameList} />);

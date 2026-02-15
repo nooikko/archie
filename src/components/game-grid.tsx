@@ -1,6 +1,7 @@
 import type { Game } from '@/lib/search';
 import { GameCard } from './game-card';
 import { StatusLegend } from './status-legend';
+import { TypeLegend } from './type-legend';
 
 interface GameGridProps {
   games: readonly Game[];
@@ -25,10 +26,14 @@ export const GameGrid = ({ games }: GameGridProps) => {
     <div className='space-y-0'>
       {/* Header */}
       <div className='sticky top-0 z-10 bg-background/95 backdrop-blur-sm border-b-2 border-border'>
-        <div className='grid grid-cols-[1fr_auto] sm:grid-cols-[1fr_120px_100px] lg:grid-cols-[1fr_140px_100px_120px] gap-2 sm:gap-4 lg:gap-6 px-2 sm:px-6 py-3'>
+        <div className='grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_60px_120px_100px] lg:grid-cols-[1fr_60px_140px_100px_120px] gap-2 sm:gap-4 lg:gap-6 px-2 sm:px-6 py-3'>
           <div className='flex items-center gap-3'>
             <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Game Title</span>
             <span className='font-mono text-[11px] font-medium text-muted-foreground/50'>({games.length})</span>
+          </div>
+          <div className='flex items-center gap-1.5 justify-end sm:justify-center'>
+            <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Type</span>
+            <TypeLegend />
           </div>
           <div className='flex items-center gap-1.5 justify-end sm:justify-start'>
             <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Status</span>

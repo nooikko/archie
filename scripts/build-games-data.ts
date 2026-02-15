@@ -2,24 +2,31 @@
 /**
  * Build-time script to parse CSV and generate games data
  * Runs during Next.js prebuild phase
+ * Enriches game data with genres from RAWG API (with caching)
  */
 
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { parse } from 'papaparse';
 import type { Game } from '../src/lib/search';
+import { getCachePath, loadCache, saveCache } from './lib/enrichment-cache';
+import { enrichGame } from './lib/rawg-client';
 import type { ParseError, ParseResult } from './types';
 
-// Absolute paths for file operations
+// Project paths
 const PROJECT_ROOT = path.resolve(__dirname, '..');
-const CSV_PATH = path.join(PROJECT_ROOT, 'Archipelago_Master_Game_List.csv');
+const CSV_PATH = path.join(PROJECT_ROOT, 'data', 'Archipelago_Master_Game_List.csv');
 const OUTPUT_DIR = path.join(PROJECT_ROOT, 'src', 'lib', 'search', 'data');
 const GAMES_OUTPUT = path.join(OUTPUT_DIR, 'games-data.json');
+
+// Progress reporting intervals
+const CACHE_PROGRESS_INTERVAL = 50;
+const API_PROGRESS_INTERVAL = 10;
 
 /**
  * Parse CSV file with strict error handling
  */
-function parseCSV(csvPath: string): ParseResult {
+const parseCSV = (csvPath: string): ParseResult => {
   console.log(`[Build] Reading CSV from: ${csvPath}`);
 
   if (!fs.existsSync(csvPath)) {
@@ -37,6 +44,7 @@ function parseCSV(csvPath: string): ParseResult {
     transform: (value: string) => value.trim(),
   });
 
+  // Collect parsing errors
   if (parseResult.errors.length > 0) {
     for (const error of parseResult.errors) {
       errors.push({
@@ -51,17 +59,15 @@ function parseCSV(csvPath: string): ParseResult {
   for (let i = 0; i < parseResult.data.length; i++) {
     const row = parseResult.data[i];
 
-    // Check if row has the required Game field
     if (!row || typeof row !== 'object') {
       errors.push({
-        row: i + 2, // +2 because of header row and 0-indexing
+        row: i + 2, // +2 for header row and 0-indexing
         message: 'Invalid row structure',
         data: row,
       });
       continue;
     }
 
-    // Ensure Game field exists and is non-empty
     if (!row.Game || row.Game.trim() === '') {
       errors.push({
         row: i + 2,
@@ -72,15 +78,13 @@ function parseCSV(csvPath: string): ParseResult {
       continue;
     }
 
-    // Create game object with all fields (use empty string for missing values)
-    const game: Game = {
+    games.push({
       Game: row.Game ?? '',
       Status: row.Status ?? '',
       Platform: row.Platform ?? '',
       Emulator: row.Emulator ?? '',
-    };
-
-    games.push(game);
+      IsArchipelagoTool: row.IsArchipelagoTool ?? 'false',
+    });
   }
 
   console.log(`[Build] Parsed ${games.length} games with ${errors.length} errors`);
@@ -93,12 +97,92 @@ function parseCSV(csvPath: string): ParseResult {
   }
 
   return { games, errors };
-}
+};
+
+/**
+ * Enrich games with genre data from RAWG API
+ */
+const enrichGames = async (games: readonly Game[]): Promise<Game[]> => {
+  const cachePath = getCachePath(PROJECT_ROOT);
+  const cache = loadCache(cachePath);
+
+  console.log(`[Enrich] Starting enrichment for ${games.length} games...`);
+
+  const enrichedGames: Game[] = [];
+  let cacheHits = 0;
+  let apiCalls = 0;
+  let notFound = 0;
+
+  for (let i = 0; i < games.length; i++) {
+    const game = games[i];
+    const progress = `(${i + 1}/${games.length})`;
+
+    // Check cache first
+    if (cache.has(game.Game)) {
+      const cachedData = cache.get(game.Game);
+      if (cachedData) {
+        enrichedGames.push({
+          ...game,
+          Genres: cachedData.genres,
+          ReleaseYear: cachedData.releaseYear,
+          IsMultiplayer: cachedData.isMultiplayer,
+        });
+      }
+      cacheHits++;
+
+      if ((i + 1) % CACHE_PROGRESS_INTERVAL === 0) {
+        console.log(`[Enrich] ${progress} Processed (${cacheHits} from cache, ${apiCalls} API calls)`);
+      }
+      continue;
+    }
+
+    // Fetch from API
+    try {
+      const enrichmentData = await enrichGame(game.Game);
+      enrichedGames.push({
+        ...game,
+        Genres: enrichmentData.genres,
+        ReleaseYear: enrichmentData.releaseYear,
+        IsMultiplayer: enrichmentData.isMultiplayer,
+      });
+      cache.set(game.Game, enrichmentData);
+
+      apiCalls++;
+      if (enrichmentData.genres.length === 0) {
+        notFound++;
+      }
+
+      if (apiCalls % API_PROGRESS_INTERVAL === 0) {
+        console.log(`[Enrich] ${progress} Fetched from API (${apiCalls} calls, ${notFound} not found)`);
+      }
+    } catch (error) {
+      console.warn(`[Enrich] Failed to enrich "${game.Game}":`, error instanceof Error ? error.message : String(error));
+      const emptyData = { genres: [], releaseYear: null, isMultiplayer: false };
+      enrichedGames.push({
+        ...game,
+        Genres: [],
+        ReleaseYear: null,
+        IsMultiplayer: false,
+      });
+      cache.set(game.Game, emptyData);
+    }
+  }
+
+  saveCache(cachePath, cache);
+
+  console.log('[Enrich] Enrichment complete:');
+  console.log(`[Enrich]   - Cache hits: ${cacheHits}`);
+  console.log(`[Enrich]   - API calls: ${apiCalls}`);
+  console.log(`[Enrich]   - Not found: ${notFound}`);
+  console.log(`[Enrich]   - Total with genres: ${enrichedGames.filter((g) => g.Genres && g.Genres.length > 0).length}`);
+
+  return enrichedGames;
+};
 
 /**
  * Save games data to disk
  */
-function saveGamesData(games: ReadonlyArray<Game>, gamesPath: string): void {
+const saveGamesData = (games: ReadonlyArray<Game>, gamesPath: string): void => {
   console.log(`[Build] Saving games data to: ${gamesPath}`);
 
   try {
@@ -116,47 +200,47 @@ function saveGamesData(games: ReadonlyArray<Game>, gamesPath: string): void {
   } catch (error) {
     throw new Error(`Failed to save games data: ${error instanceof Error ? error.message : String(error)}`);
   }
-}
+};
 
 /**
  * Ensure output directory exists
  */
-function ensureOutputDirectory(dir: string): void {
+const ensureOutputDirectory = (dir: string): void => {
   if (!fs.existsSync(dir)) {
     console.log(`[Build] Creating output directory: ${dir}`);
     fs.mkdirSync(dir, { recursive: true });
   }
-}
+};
 
 /**
  * Main build function
  */
-async function main(): Promise<void> {
+const main = async (): Promise<void> => {
   console.log('[Build] Starting games data build...');
   console.log(`[Build] Project root: ${PROJECT_ROOT}`);
 
   try {
-    // Ensure output directory exists
     ensureOutputDirectory(OUTPUT_DIR);
 
-    // Parse CSV
     const { games, errors } = parseCSV(CSV_PATH);
 
     if (games.length === 0) {
       throw new Error('No games parsed from CSV. Check CSV format and content.');
     }
 
-    // Save games data
-    saveGamesData(games, GAMES_OUTPUT);
+    console.log('\n[Build] Starting RAWG enrichment...');
+    const enrichedGames = await enrichGames(games);
 
-    // Print summary
+    saveGamesData(enrichedGames, GAMES_OUTPUT);
+
+    const gamesWithGenres = enrichedGames.filter((g) => g.Genres && g.Genres.length > 0).length;
+    const gamesSize = fs.statSync(GAMES_OUTPUT).size;
+
     console.log('\n[Build] ✓ Build complete!');
-    console.log(`[Build]   - Games parsed: ${games.length}`);
+    console.log(`[Build]   - Games parsed: ${enrichedGames.length}`);
+    console.log(`[Build]   - Games with genres: ${gamesWithGenres}`);
     console.log(`[Build]   - Parse errors: ${errors.length}`);
     console.log(`[Build]   - Games output: ${GAMES_OUTPUT}`);
-
-    // Check file size
-    const gamesSize = fs.statSync(GAMES_OUTPUT).size;
     console.log(`[Build]   - Games size: ${(gamesSize / 1024).toFixed(2)} KB`);
 
     process.exit(0);
@@ -170,7 +254,7 @@ async function main(): Promise<void> {
 
     process.exit(1);
   }
-}
+};
 
 // Run the build
 main().catch((error) => {
