@@ -1,0 +1,3027 @@
+{
+  "games": [
+    {
+      "Game": "A Bug's Life",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "A Dance Of Fire And Ice",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "A Difficult Game About Climbing",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "A Hat in Time",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "A Robot Named Fight!",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "A Short Hike",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "ActRaiser",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Adventure",
+      "Status": "Official",
+      "Platform": "Atari 2600",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Against the Storm",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Age of Empires II: Definite Edition",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Air Delivery",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "An Untitled Story",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "ANIMAL WELL",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Anodyne",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Another Crab's Treasure",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ape Escape",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Ape Escape 3",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "APQuest",
+      "Status": "Official",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Aquaria",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Archipelacode",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Archipeladoku (Sudoku)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Archipela-Go!",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Armored Core (PSX)",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Astalon: Tears of the Earth",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Autopelago",
+      "Status": "In Review",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Axiom Verge",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Balatro",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Baldur's Gate 3",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Banjo-Tooie",
+      "Status": "In Review",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Beat Saber",
+      "Status": "Unstable",
+      "Platform": "PC (VR)",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Binding of Isaac: Repentance",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Binding of Isaac: Repentance (Progression Lock)",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Bits & Bops",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Black Market of Bulletphilia ~ 100th Black Market (Touhou 18.5)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Blasphemous",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Blasphemous 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Blockupelago",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Bloons Tower Defense 6",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Bomb Rush Cyberfunk",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Bomberman 64",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Bomberman 64: The Second Attack",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Bomberman Hero",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Bomberman Quest",
+      "Status": "Unstable",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Borderlands 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Brave Fencer Musashi",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Brotato",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Buckshot Roulette",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Bumper Stickers",
+      "Status": "Official",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Candy Box 2",
+      "Status": "In Review",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cassette Beasts",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Castlevania 64",
+      "Status": "Official",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Castlevania - Circle of the Moon",
+      "Status": "Official",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Castlevania: Dawn of Sorrow",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Castlevania: Harmony of Dissonance",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Castlevania: Legacy of Darkness",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Castlevania: Symphony of the Night",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Casualties: Unknown (Scav Prototype Demo)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cat Quest",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cave Story",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cavern of Dreams",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Caves of Qud",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Celeste",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Celeste 64",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Celeste (Open World)",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Chained Echoes",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "ChecksFinder",
+      "Status": "Official",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "ChecksMate (Chess)",
+      "Status": "In Review",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Choo Choo Charles",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Christmas Delivery",
+      "Status": "Broken on Main",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Chrono Trigger: Jets of Time",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Citadel (Luanti)",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Civilization V",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Civilization VI",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Clair Obscur Expedition 33",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Clique",
+      "Status": "APWorld Only",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "ClusterTruck",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cobalt Core",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Codeforces",
+      "Status": "Unstable",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Conbunn Cardboard",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Cookie Clicker",
+      "Status": "Unstable",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "CornKidz64",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "corru.observer",
+      "Status": "Unstable",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "CrossCode",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "CrosswordAP",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Crypt of the NecroDancer",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Crystal Project",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Crystalis",
+      "Status": "Stable",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Cuphead",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Custom Robo",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Dark Cloud 1",
+      "Status": "Unstable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Dark Cloud 2",
+      "Status": "Unstable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Dark Souls II",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dark Souls III",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dark Souls Remastered",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Death's Door",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Deep Rock Galactic",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Delivering Hope",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "DELTARUNE",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Devil May Cry 3 (Special Edition)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dicey Dungeons",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Diddy Kong Racing",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Digimon World 1",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "DLCQuest",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dome Keeper",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Donkey Kong 64",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Donkey Kong Country",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Donkey Kong Country 3",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Donkey Kong Country (Mirrored)",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Don't Starve Together",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "DOOM 1993",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Doom 404",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "DOOM II",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "DORONKO WANKO",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dracomino",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dragon Warrior",
+      "Status": "APWorld Only",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Dream Dazia",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dredge",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Duke Nukem 3D",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dungeon Clawler",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Dyson Sphere Program",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Earthbound",
+      "Status": "Merged",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Easy Delivery Co.",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Elder Scrolls IV: Oblivion Remastered",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Elementipelago",
+      "Status": "Stable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ender Lilies: Quietus of the Knights",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Enter the Gungeon",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Everhood 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Factorio",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Factorio - Space Age Without Space",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Factorio w/ Bob's Mods",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Faxanadu",
+      "Status": "Official",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Fez",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Final Fantasy",
+      "Status": "Official",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy 1: Pixel Remaster",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Final Fantasy 6 Worlds Collide",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy IV: Free Enterprise",
+      "Status": "In Review",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy Mystic Quest",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy Tactics A2: Grimoire of the Rift",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Final Fantasy Tactics Advance",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy Tactics: Ivalice Island",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Final Fantasy XII: Open World",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Final Fantasy XII: Trial Mode",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Final Fantasy XIII - Lightning Returns",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Fire Emblem: The Sacred Stones",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Flipwitch",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "FNAF World",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Forged Curse",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Freddy Fazbear's Pizzeria Simulator",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Freedom Planet 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Friday Night Funkin'",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Frogmonster",
+      "Status": "Stable",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Garfield Kart: Furious Racing",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Gato Roboto",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Gato Roboto B-Side",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Gauntlet Legends",
+      "Status": "In Review",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Getting Over It with Bennett Foddy",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Glover",
+      "Status": "In Review",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "GLYPHS",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Golden Sun: The Lost Age",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Grim Dawn",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Grinch",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "The Guardian Legend",
+      "Status": "APWorld Only",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Guild Wars 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "GZDoom",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hacknet",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hades",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hammerwatch",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Haste",
+      "Status": "Index Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "HASTE: Broken Worlds",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hatsune Miku: Project Diva Megamix+",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Here Comes Niko!",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Heretic",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hero Core",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hexcells Infinite",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hi-Fi Rush",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "HITMAN: World of Assassination",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hollow Knight",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hollow Knight - Beta APWorld",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "holo8",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hololive Treasure Mountain",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Huniecam Studio",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Huniepop",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Huniepop 2: Double Date",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Hylics 2",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "HyperRogue",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "I Was A Teenage Exocolonist",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "ICEwall",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Iji",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Inscryption",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Into the Breach",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Isles of Sea and Sky",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ittle Dew 2+",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Jak and Daxter: The Precursor Legacy",
+      "Status": "Official",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Jet Island",
+      "Status": "Unstable",
+      "Platform": "PC (VR)",
+      "Emulator": ""
+    },
+    {
+      "Game": "Jigsaw Puzzle for Archipelago",
+      "Status": "Stable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Junko",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kabuto Park (Demo)",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Keep Talking and Nobody Explodes",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "KeyWe",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kindergarten 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kingdom Hearts",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kingdom Hearts 2",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kingdom Hearts 358/2 Days",
+      "Status": "Unstable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Kingdom Hearts Dream Drop Distance",
+      "Status": "Unstable",
+      "Platform": "3DS",
+      "Emulator": "Citra"
+    },
+    {
+      "Game": "Kingdom Hearts: Birth by Sleep Final Mix",
+      "Status": "Stable",
+      "Platform": "PSP",
+      "Emulator": "PPSSPP"
+    },
+    {
+      "Game": "Kingdom Hearts: Chain of Memories (GBA)",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Kingdom Hearts: RE Chain of Memories",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Kingdom Two Crowns",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Kirby 64 - The Crystal Shards",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Kirby Air Ride",
+      "Status": "Unstable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Kirby Super Star",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Kirby's Dream Land 3",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "K-On! After School Live!!",
+      "Status": "Stable",
+      "Platform": "PSP",
+      "Emulator": "PPSSPP"
+    },
+    {
+      "Game": "Landstalker - The Treasures of King Nole",
+      "Status": "Official",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "League of Legends",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Left 4 Dead 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Legend of Dragoon",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "The Legend of Heroes: Trails in the Sky the 3rd",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Legend of Zelda",
+      "Status": "Official",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Lego Batman: The Video Game",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lego Star Wars: The Complete Saga",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lethal Company",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Library of Ruina",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lies of P",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lil Gator Game",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lingo",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lingo 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Little Witch Nobeta",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lobotomy Corporation",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Loonyland: Halloween Hill",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Lufia II Ancient Cave",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Luigi's Mansion",
+      "Status": "Stable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Lunacid",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Mario is Missing (SNES)",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mario Kart 64",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mario Kart: Double Dash",
+      "Status": "Unstable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Mario & Luigi Superstar Saga",
+      "Status": "Official",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mario Party Advance",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mario Super Sluggers",
+      "Status": "Unstable",
+      "Platform": "Wii",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "MediEvil (1998)",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "MediEvil 2",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Mega Man 1",
+      "Status": "Unstable",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man 2",
+      "Status": "Official",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man 3",
+      "Status": "In Review",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man Battle Network 6",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man X",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man X Command Mission",
+      "Status": "Unstable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Mega Man X2",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man X3",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mega Man X4",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Mega Man Zero 3",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "MegaMan Battle Network 3",
+      "Status": "Official",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mercenaries: Playground of Destruction",
+      "Status": "Unstable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Meritous",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Messenger",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "MetroCUBEvania",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Metroid Fusion",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Metroid Prime",
+      "Status": "In Review",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Metroid: Zero Mission",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Mindustry",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Minecraft",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Minecraft Dig",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Minecraft Fabric",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Minishoot Adventures",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Minit",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Momodora 4 - Reverie Under the Moonlight",
+      "Status": "Broken on Main",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Momodora: Moonlit Farewell",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Monster Hunter World",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Monster Sanctuary",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Muse Dash",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Musipelago",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Nine Sols",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Nodebuster",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Noita",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Noita - Enemysanity",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Nonograhmm",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Nonopelagram",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ocarina of Time but it's just Master Quest Water Temple",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Old School Runescape",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "OpenRCT2",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ori and the Blind Forest",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ori and the Will of the Wisps",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "osu!",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Our Ascent",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Outer Wilds",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Overcooked! 2",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Oxygen Not Included",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Paint",
+      "Status": "Official",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Paper Mario 64",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Paper Mario: The Thousand Year Door",
+      "Status": "Stable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Paquerette Down the Bunburrows",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Parkitect",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Password Game",
+      "Status": "Broken on Main",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Path of Exile",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "PEAK",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Peaks of Yore",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Peggle Nights",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Persona 5 Royal",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Phantasy Star II",
+      "Status": "Unstable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Phoenotopia: Awakening",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Pikmin 1",
+      "Status": "Unstable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Pikmin 2",
+      "Status": "Unstable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Pinball FX3",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Piranesi Restoration Project (Luanti)",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Pizza Tower",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Placid Plastic Duck Simulator",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Planet Crafter",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Plants vs. Zombies: GOTY",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Plants vs. Zombies: Replanted",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Plateup!",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Plok",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Black and White",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Pokémon Crystal",
+      "Status": "APWorld Only",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Emerald",
+      "Status": "Official",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Fire Red and Leaf Green",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Pokémon Pinball",
+      "Status": "Unstable",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Platinum",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "Pokémon Red and Blue",
+      "Status": "Official",
+      "Platform": "GB",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Stadium",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Pokémon Trading Card Game (GameBoy)",
+      "Status": "Unstable",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "PokéPark Wii: Pikachu's Adventure",
+      "Status": "Unstable",
+      "Platform": "Wii",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Portal 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "PowerWash Simulator",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Prodigal",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Pseudoregalia",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Psychonauts",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Quake",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rabbit and Steel",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rabi-Ribi",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Raft",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rain World",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ratchet & Clank",
+      "Status": "Unstable",
+      "Platform": "PS3",
+      "Emulator": "RPCS3"
+    },
+    {
+      "Game": "Ratchet & Clank 2: Going Commando",
+      "Status": "Stable",
+      "Platform": "PS3",
+      "Emulator": "RPCS3"
+    },
+    {
+      "Game": "Ratchet & Clank 3: Up Your Arsenal",
+      "Status": "Stable",
+      "Platform": "PS3",
+      "Emulator": "RPCS3"
+    },
+    {
+      "Game": "Rayman 2: The Great Escape",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Refunct",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "R.E.P.O",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Resident Evil 2 Remake",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Resident Evil 3 Remake",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Resident Evil 7",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Return of the Obra Dinn",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Reventure",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rift of the Necrodancer",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rift Wizard",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rimworld",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Risk of Rain",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Risk of Rain 2",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Risk of Rain Returns",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rogue Legacy",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Rusted Moss",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Santa Needs YOU!",
+      "Status": "Broken on Main",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Satisfactory",
+      "Status": "Merged",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Saving Princess",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Schedule I",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Scooby-Doo! Night of 100 Frights",
+      "Status": "In Review",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Sea of Thieves",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Secret of Evermore",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Secret of Mana",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Seedling",
+      "Status": "Broken on Main",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sentinels of the Multiverse",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Settlers: Heritage of Kings",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Severed Soul",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Shadow the Hedgehog",
+      "Status": "Stable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Shadowgate 64: Trials of the Four Towers",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "shapez",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "shapez 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Shining in the Darkness",
+      "Status": "Unstable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Shivers",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Shovel Knight Pocket Dungeon",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Signalis",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Silver Daze",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Simon Tatham's Portable Puzzle Collection",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Simpsons: Hit & Run",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Sims 4",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Slay the Spire",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Slime Rancher",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sly 2: Band of Thieves",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Sly Cooper and the Thievius Raccoonus",
+      "Status": "Stable",
+      "Platform": "PS2",
+      "Emulator": "PCSX2"
+    },
+    {
+      "Game": "Smushi Come Home",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "SMZ3",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Sonic Advance 2",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Sonic Adventure 2 Battle",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic Adventure DX",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic Battle",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Sonic Frontiers",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic the Hedgehog",
+      "Status": "Stable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Sonic Heroes",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic Riders",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic Robo Blast 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Sonic Rush",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "SoulBlazer",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Space Engineers",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Spelunker",
+      "Status": "Stable",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Spelunky 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Spinball",
+      "Status": "Stable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Spirit Valley",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Spongebob Squarepants: Battle for Bikini Bottom",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Spyro 2: Ripto's Rage",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Spyro 3: Year of the Dragon",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Spyro the Dragon",
+      "Status": "Unstable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Stacklands",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Star Fox 64",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Star Wars: Episode 1 Racer",
+      "Status": "Unstable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Starcraft 2",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Stardew Valley",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Stick Ranger",
+      "Status": "In Review",
+      "Platform": "Browser",
+      "Emulator": ""
+    },
+    {
+      "Game": "Streets of Rage",
+      "Status": "Unstable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Subnautica",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Super Adventure Island II",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Cat Planet",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Super Chipflake Ü: Quest for the Uncooked Schnitzel",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Super Junkoid",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Mario 64",
+      "Status": "Official",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Mario Land 2: The Golden Coins",
+      "Status": "Official",
+      "Platform": "GB",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Mario RPG",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Mario Sunshine",
+      "Status": "Unstable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Super Mario Sunshine Arcade 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Super Mario World",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Mario World: Spicy Mycena Waffles",
+      "Status": "APWorld Only",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Metroid",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Metroid Map Rando",
+      "Status": "Unstable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Super Smash Bros. Melee",
+      "Status": "Stable",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Supraland",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "System Shock 2",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "TCG Card Shop Simulator",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Terraria",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Tetris Attack",
+      "Status": "Stable",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Tevi",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Timespinner",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Toejam & Earl",
+      "Status": "Stable",
+      "Platform": "Genesis",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "TOEM: A Photo Adventure",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Total War: Warhammer III",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Total War: Warhammer III Alternative",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Totally Accurate Battle Simulator (TABS)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Touhou Eiyashou ~ Imperishable Night",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Touhou Koumakyou: The Embodiment of Scarlet Devil",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Trackmania",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "TUNIC",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Turnip Boy Commits Tax Evasion",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Twisty Cube",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ty The Tasmanian Tiger 2",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ty the Tasmanian Tiger 3",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Ty The Tasmanian Tiger HD Remaster (PC)",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Tyrian / Tyrian 2000",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "UFO 50",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "ULTRAKILL",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "UNBEATABLE",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Undertale",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Unfair Flips",
+      "Status": "Stable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Untitled Goose Game",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Vacation Simulator",
+      "Status": "Unstable",
+      "Platform": "PC (VR)",
+      "Emulator": ""
+    },
+    {
+      "Game": "Valheim",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Vampire Survivors",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Vespadian",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Vintage Story",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Void Sols",
+      "Status": "Index Only",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Void Stranger",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Voltorb Flip (from Pokémon HG & SS)",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "VVVVVV",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Wargroove",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Wargroove 2",
+      "Status": "In Review",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Wario Land 1",
+      "Status": "Stable",
+      "Platform": "GB",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Wario Land 4",
+      "Status": "In Review",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Watery Words",
+      "Status": "Stable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "WEBFISHING",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "West of Loathing",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Witness",
+      "Status": "Official",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Word Search",
+      "Status": "Unstable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Wordipelago",
+      "Status": "Stable",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "XCOM 2: War of the Chosen",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Xenoblade Chronicles X",
+      "Status": "Unstable",
+      "Platform": "Wii U",
+      "Emulator": "Cemu"
+    },
+    {
+      "Game": "Yacht Dice",
+      "Status": "Official",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Yacht Dice Bliss",
+      "Status": "Index Only",
+      "Platform": "Built-in",
+      "Emulator": ""
+    },
+    {
+      "Game": "Yet Another Rhythm Game (YARG)",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Yoku's Island Express",
+      "Status": "Unstable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Yooka-Laylee",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "Yoshi's Island",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Yu-Gi-Oh! 2006",
+      "Status": "Official",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Yu-Gi-Oh! Forbidden Memories",
+      "Status": "Stable",
+      "Platform": "PS1",
+      "Emulator": "DuckStation"
+    },
+    {
+      "Game": "Yu-Gi-Oh! GX - Duel Academy (GBA)",
+      "Status": "Unstable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Zelda 2: The Adventure of Link",
+      "Status": "Stable",
+      "Platform": "NES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: A Link Between Worlds",
+      "Status": "Stable",
+      "Platform": "3DS",
+      "Emulator": "Citra"
+    },
+    {
+      "Game": "The Legend of Zelda: A Link to the Past",
+      "Status": "Official",
+      "Platform": "SNES",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Link's Awakening DX",
+      "Status": "Official",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Link's Awakening DX Beta",
+      "Status": "Index Only",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Majora's Mask",
+      "Status": "Stable",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: The Minish Cap",
+      "Status": "Stable",
+      "Platform": "GBA",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Ocarina of Time",
+      "Status": "Official",
+      "Platform": "N64",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Ocarina of Time - Ship of Harkinian",
+      "Status": "Stable",
+      "Platform": "PC",
+      "Emulator": ""
+    },
+    {
+      "Game": "The Legend of Zelda: Oracle of Ages",
+      "Status": "Unstable",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Oracle of Seasons",
+      "Status": "Stable",
+      "Platform": "GBC",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "The Legend of Zelda: Phantom Hourglass",
+      "Status": "Stable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "The Legend of Zelda: Skyward Sword",
+      "Status": "Stable",
+      "Platform": "Wii",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "The Legend of Zelda: Spirit Tracks",
+      "Status": "Unstable",
+      "Platform": "DS",
+      "Emulator": "melonDS"
+    },
+    {
+      "Game": "The Legend of Zelda: Twilight Princess",
+      "Status": "Stable",
+      "Platform": "Wii",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "The Legend of Zelda: The Wind Waker",
+      "Status": "Official",
+      "Platform": "GameCube",
+      "Emulator": "Dolphin"
+    },
+    {
+      "Game": "Zillion",
+      "Status": "Official",
+      "Platform": "Master System",
+      "Emulator": "BizHawk"
+    },
+    {
+      "Game": "Zork: Grand Inquisitor",
+      "Status": "APWorld Only",
+      "Platform": "PC",
+      "Emulator": ""
+    }
+  ],
+  "metadata": {
+    "count": 503,
+    "generatedAt": "2026-02-15T17:14:44.735Z",
+    "version": "1.0.0"
+  }
+}
