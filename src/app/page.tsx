@@ -43,7 +43,7 @@ const HomePage = () => {
         <GameBrowser allGames={allGames} />
 
         {/* Footer */}
-        <footer className='mt-16 pt-8 border-t border-border'>
+        <footer className='mt-16 pt-8 border-t border-border space-y-6'>
           <div className='flex flex-col md:flex-row items-center justify-between gap-6 text-sm'>
             <p className='font-mono text-[12px] text-muted-foreground uppercase tracking-wide'>
               Archipelago is a multi-game randomizer platform for experiencing games in new ways.
@@ -56,6 +56,24 @@ const HomePage = () => {
             >
               Visit Archipelago.gg →
             </a>
+          </div>
+
+          {/* Data attribution */}
+          <div className='flex flex-col items-center gap-2 pt-4 border-t border-border/50'>
+            <p className='font-mono text-[11px] text-muted-foreground/70 tracking-wide text-center'>
+              Game data sourced from the{' '}
+              <a
+                href='https://xetaas.github.io/apworlds.html'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='text-foreground/80 hover:text-foreground underline decoration-dotted underline-offset-2 transition-colors'
+              >
+                Xetaas APWorlds List
+              </a>
+            </p>
+            <p className='font-mono text-[10px] text-muted-foreground/50 tracking-wider'>
+              Enriched with genre and release data from RAWG
+            </p>
           </div>
         </footer>
       </div>
