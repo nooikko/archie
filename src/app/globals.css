@@ -141,7 +141,7 @@
   --status-official-bg: oklch(0.25 0.08 250);
   --status-in-review: #a78bfa;
   --status-in-review-bg: oklch(0.25 0.08 280);
-  --status-broken: #dc2626;
+  --status-broken: #b91c1c;
   --status-broken-bg: oklch(0.25 0.08 25);
   --status-merged: #2dd4bf;
   --status-merged-bg: oklch(0.25 0.08 180);
