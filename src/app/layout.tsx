@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { JetBrains_Mono, Outfit } from 'next/font/google';
 import './globals.css';
+import { ThemeProvider } from '@/components/theme-provider';
 
 const jetbrainsMono = JetBrains_Mono({
   variable: '--font-jetbrains-mono',
@@ -76,9 +77,11 @@ const RootLayout = ({
   children: React.ReactNode;
 }>) => {
   return (
-    <html lang='en'>
+    <html lang='en' suppressHydrationWarning>
       <body className={`${outfit.variable} ${jetbrainsMono.variable} antialiased`} style={{ fontFamily: 'var(--font-outfit)' }}>
-        {children}
+        <ThemeProvider attribute='class' defaultTheme='system' enableSystem disableTransitionOnChange>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );

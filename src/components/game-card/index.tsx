@@ -65,7 +65,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
 
   return (
     <li
-      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_60px_120px_100px] lg:grid-cols-[1fr_60px_140px_100px_120px] gap-2 sm:gap-4 lg:gap-6 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/30 transition-all duration-200 hover:shadow-sm'
+      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_60px_120px_100px] lg:grid-cols-[1fr_60px_140px_100px_120px] gap-2 sm:gap-4 lg:gap-6 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/50 transition-all duration-200 hover:shadow-sm'
       style={{
         animation: `fadeIn 0.3s ease-out ${index * 0.005}s forwards`,
         opacity: 0,
@@ -73,7 +73,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
     >
       {/* Game name + metadata - flexible width */}
       <div className='flex flex-col gap-1.5 min-w-0'>
-        <h3 className='font-medium text-[15px] text-foreground truncate group-hover:text-accent transition-colors'>{game.Game}</h3>
+        <h3 className='font-medium text-[15px] text-foreground truncate group-hover:text-primary transition-colors'>{game.Game}</h3>
 
         {/* Metadata row: Year + Genres */}
         <div className='flex items-center gap-2 flex-wrap'>
