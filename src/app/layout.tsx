@@ -17,7 +17,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://archie.gg'),
+  metadataBase: new URL('https://archie-search.vercel.app'),
   title: {
     default: 'ARCHIE - Archipelago Multi-Game Randomizer Directory',
     template: '%s | ARCHIE',
@@ -33,31 +33,19 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  icons: {
-    icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
-  },
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://archie.gg',
+    url: 'https://archie-search.vercel.app',
     siteName: 'ARCHIE',
     title: 'ARCHIE - Archipelago Game Directory',
     description: 'Search 500+ games in the Archipelago multi-world randomizer ecosystem. Instant filtering by status, platform, and emulator.',
-    images: [
-      {
-        url: '/og-image.png',
-        width: 1200,
-        height: 630,
-        alt: 'ARCHIE - Archipelago Game Directory',
-      },
-    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'ARCHIE - Archipelago Game Directory',
     description: 'Search 500+ games in the Archipelago multi-world randomizer ecosystem.',
-    images: ['/og-image.png'],
   },
   robots: {
     index: true,
