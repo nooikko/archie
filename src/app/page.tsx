@@ -1,4 +1,5 @@
 import { GameBrowser } from '@/components/game-browser';
+import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
 
@@ -16,12 +17,15 @@ const HomePage = () => {
         {/* Header */}
         <header className='mb-10 space-y-6'>
           {/* Title - Clean and bold */}
-          <div>
-            <h1 className='text-6xl md:text-7xl font-extrabold tracking-tight text-foreground'>ARCHIE</h1>
-            <div className='flex items-center gap-4 mt-3'>
-              <div className='h-px w-12 bg-foreground' />
-              <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Multi-Game Randomizer Directory</p>
+          <div className='flex items-start justify-between gap-4'>
+            <div>
+              <h1 className='text-6xl md:text-7xl font-extrabold tracking-tight text-foreground'>ARCHIE</h1>
+              <div className='flex items-center gap-4 mt-3'>
+                <div className='h-px w-12 bg-foreground' />
+                <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Multi-Game Randomizer Directory</p>
+              </div>
             </div>
+            <ModeToggle />
           </div>
 
           {/* Stats bar */}

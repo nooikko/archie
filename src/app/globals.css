@@ -131,6 +131,30 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+
+  /* Status colors - Dark mode variants with better contrast */
+  --status-stable: #22c55e;
+  --status-stable-bg: oklch(0.25 0.08 145);
+  --status-unstable: #fbbf24;
+  --status-unstable-bg: oklch(0.25 0.06 85);
+  --status-official: #60a5fa;
+  --status-official-bg: oklch(0.25 0.08 250);
+  --status-in-review: #a78bfa;
+  --status-in-review-bg: oklch(0.25 0.08 280);
+  --status-broken: #f87171;
+  --status-broken-bg: oklch(0.25 0.08 25);
+  --status-merged: #2dd4bf;
+  --status-merged-bg: oklch(0.25 0.08 180);
+  --status-index-only: #facc15;
+  --status-index-only-bg: oklch(0.25 0.06 90);
+  --status-apworld-only: #f472b6;
+  --status-apworld-only-bg: oklch(0.25 0.08 340);
+
+  /* Type badge colors - Dark mode variants */
+  --type-game: #60a5fa;
+  --type-game-bg: oklch(0.25 0.08 250);
+  --type-tool: #fb923c;
+  --type-tool-bg: oklch(0.25 0.08 45);
 }
 
 @layer base {
