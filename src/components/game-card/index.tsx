@@ -30,6 +30,7 @@ const getStatusColors = (status: string) => {
         text: 'var(--status-in-review)',
       };
     case 'Broken':
+    case 'Broken on Main':
       return {
         bg: 'var(--status-broken-bg)',
         text: 'var(--status-broken)',
@@ -51,8 +52,8 @@ const getStatusColors = (status: string) => {
       };
     default:
       return {
-        bg: '#f5f5f5',
-        text: '#737373',
+        bg: 'var(--muted)',
+        text: 'var(--muted-foreground)',
       };
   }
 };
