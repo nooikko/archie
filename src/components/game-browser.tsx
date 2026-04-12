@@ -38,7 +38,7 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
     genre: parseUrlArray(searchParams.get('genre')),
     type: parseUrlArray(searchParams.get('type')),
   }));
-  const [isPending, startTransition] = useTransition();
+  const [, startTransition] = useTransition();
 
   // Filter games based on search query and filters
   const filteredGames = useMemo(() => {
@@ -114,7 +114,7 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
     }
 
     const newUrl = params.toString() ? `/?${params.toString()}` : '/';
-    router.push(newUrl, { scroll: false });
+    router.replace(newUrl, { scroll: false });
   };
 
   const handleSearch = (query: string) => {
@@ -134,7 +134,7 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
 
   return (
     <div className='space-y-6'>
-      <SearchBar onSearch={handleSearch} isPending={isPending} defaultValue={searchQuery} />
+      <SearchBar onSearch={handleSearch} defaultValue={searchQuery} />
       <GameFilters allGames={allGames} filters={filters} onFilterChange={handleFilterChange} />
       <GameGrid games={filteredGames} />
     </div>

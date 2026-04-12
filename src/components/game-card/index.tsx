@@ -68,7 +68,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
 
   return (
     <li
-      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_60px_120px_100px] lg:grid-cols-[1fr_60px_140px_100px_120px] gap-2 sm:gap-4 lg:gap-6 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/50 transition-all duration-200 hover:shadow-sm'
+      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_80px_160px_100px] gap-2 sm:gap-4 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/50 transition-all duration-200 hover:shadow-sm items-center'
       style={{
         animation: `fadeIn 0.3s ease-out ${index * 0.005}s forwards`,
         opacity: 0,
@@ -142,15 +142,6 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
       {/* Platform - hidden on mobile, visible on sm+ */}
       <div className='hidden sm:flex items-center'>
         <span className='font-mono text-[13px] font-medium text-muted-foreground uppercase tracking-wide'>{game.Platform}</span>
-      </div>
-
-      {/* Emulator - hidden on mobile and tablet, visible on lg+ */}
-      <div className='hidden lg:flex items-center'>
-        {game.Emulator ? (
-          <span className='font-mono text-[12px] font-medium text-muted-foreground uppercase tracking-wide'>{game.Emulator}</span>
-        ) : (
-          <span className='font-mono text-[12px] text-muted-foreground/30'>—</span>
-        )}
       </div>
     </li>
   );

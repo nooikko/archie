@@ -157,6 +157,119 @@
   --type-tool-bg: oklch(0.25 0.08 45);
 }
 
+@layer components {
+  .prose-changelog {
+    font-family: var(--font-jetbrains-mono);
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--foreground);
+  }
+
+  .prose-changelog h1 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--foreground);
+  }
+
+  .prose-changelog h2 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    color: var(--foreground);
+  }
+
+  .prose-changelog h2:first-child {
+    margin-top: 0;
+  }
+
+  .prose-changelog h3 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--muted-foreground);
+  }
+
+  .prose-changelog ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0.75rem;
+  }
+
+  .prose-changelog li {
+    position: relative;
+    padding-left: 1.25rem;
+    margin-bottom: 0.25rem;
+    color: color-mix(in srgb, var(--foreground) 80%, transparent);
+  }
+
+  .prose-changelog li::before {
+    content: "–";
+    position: absolute;
+    left: 0;
+    color: var(--muted-foreground);
+  }
+
+  .prose-changelog p {
+    margin-bottom: 0.75rem;
+    color: color-mix(in srgb, var(--foreground) 80%, transparent);
+  }
+
+  .prose-changelog a {
+    color: var(--foreground);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 2px;
+    transition: opacity 0.15s;
+  }
+
+  .prose-changelog a:hover {
+    opacity: 0.7;
+  }
+
+  .prose-changelog code {
+    font-family: var(--font-jetbrains-mono);
+    font-size: 0.75rem;
+    padding: 0.1em 0.35em;
+    background: var(--muted);
+    color: var(--foreground);
+    border-radius: 3px;
+  }
+
+  .prose-changelog pre {
+    background: var(--muted);
+    padding: 1rem;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+  }
+
+  .prose-changelog pre code {
+    background: transparent;
+    padding: 0;
+  }
+
+  .prose-changelog strong {
+    font-weight: 600;
+    color: var(--foreground);
+  }
+
+  .prose-changelog hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 1.5rem 0;
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

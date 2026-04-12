@@ -84,12 +84,6 @@ describe('SearchBar', () => {
     expect(mockOnSearch).not.toHaveBeenCalled();
   });
 
-  it('disables input when isPending is true', () => {
-    render(<SearchBar onSearch={mockOnSearch} isPending={true} />);
-    const input = screen.getByPlaceholderText(/search games/i);
-    expect(input).toBeDisabled();
-  });
-
   it('has proper accessibility attributes', () => {
     render(<SearchBar onSearch={mockOnSearch} />);
     const input = screen.getByPlaceholderText(/search games/i);

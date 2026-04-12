@@ -25,6 +25,43 @@ const GAMES_OUTPUT = path.join(OUTPUT_DIR, 'games-data.json');
 const CACHE_PROGRESS_INTERVAL = 50;
 const API_PROGRESS_INTERVAL = 10;
 
+// ─── Env / skip guard ────────────────────────────────────────────────────────
+
+// Load .env if present (local dev; no-op in CI/Vercel where it doesn't exist)
+const envPath = path.join(PROJECT_ROOT, '.env');
+if (fs.existsSync(envPath)) {
+  for (const line of fs.readFileSync(envPath, 'utf-8').split('\n')) {
+    const match = line.match(/^([^#=\s][^=]*)=(.*)/);
+    if (match) {
+      let value = match[2].trim();
+      const quoteMatch = value.match(/^(['"])(.*)\1$/);
+      if (quoteMatch) {
+        value = quoteMatch[2].replace(/\\(['"])/g, '$1');
+      } else {
+        value = value.replace(/\s*#.*$/, '').trimEnd();
+      }
+      process.env[match[1].trim()] = value;
+    }
+  }
+}
+
+if (!process.env.RAWG_API_KEY) {
+  if (fs.existsSync(GAMES_OUTPUT)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(GAMES_OUTPUT, 'utf8'));
+      if (Array.isArray(data.games) && data.games.length > 0) {
+        console.log('build-games-data: no RAWG_API_KEY and games-data.json exists — skipping rebuild.');
+        process.exit(0);
+      }
+      console.error('build-games-data: games-data.json exists but failed validation — rebuilding requires RAWG_API_KEY.');
+    } catch {
+      console.error('build-games-data: games-data.json exists but is corrupt — rebuilding requires RAWG_API_KEY.');
+    }
+  }
+  console.error('build-games-data: RAWG_API_KEY is not set and games-data.json is missing or invalid. Run the data pipeline locally first.');
+  process.exit(1);
+}
+
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
 const calculateFileHash = (filePath: string): string => crypto.createHash('md5').update(fs.readFileSync(filePath, 'utf-8')).digest('hex');
