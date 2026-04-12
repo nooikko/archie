@@ -68,7 +68,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
 
   return (
     <li
-      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_60px_160px_100px] gap-2 sm:gap-4 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/50 transition-all duration-200 hover:shadow-sm items-center'
+      className='group relative grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_80px_160px_100px] gap-2 sm:gap-4 px-2 sm:px-6 py-3.5 border-b border-border hover:bg-muted/50 transition-all duration-200 hover:shadow-sm items-center'
       style={{
         animation: `fadeIn 0.3s ease-out ${index * 0.005}s forwards`,
         opacity: 0,
