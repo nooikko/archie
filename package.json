@@ -2,6 +2,12 @@
   "name": "archie",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/nooikko/archie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nooikko/archie.git"
+  },
   "scripts": {
     "dev": "next dev",
     "prebuild": "tsx scripts/build-games-data.ts",

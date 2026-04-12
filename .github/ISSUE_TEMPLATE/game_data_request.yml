@@ -1,0 +1,32 @@
+name: Game Data Request
+description: Request a game be added or updated in the directory
+labels: ["data"]
+body:
+  - type: input
+    id: game-name
+    attributes:
+      label: Game name
+      placeholder: e.g. Hollow Knight
+    validations:
+      required: true
+  - type: input
+    id: apworld-link
+    attributes:
+      label: Archipelago support page or apworld link
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Request type
+      options:
+        - Add new game
+        - Update existing entry
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything else we should know (e.g. what's wrong with the current entry)
