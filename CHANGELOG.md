@@ -18,9 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Roughly 50 fewer duplicate entries in the game list, where the same APWorld was appearing under two slightly different names
 
 ### Fixed
-- Vercel deployments no longer fail when `.env` is absent — the prebuild data enrichment step now skips gracefully when `RAWG_API_KEY` is not set and `games-data.json` already exists
-- Typing in the search box no longer loses focus mid-search — the input stays active while results update
-- Column headers (Type, Status, Platform) now align properly with the rows below them
+- Deployments no longer fail when environment variables are absent
+- Environment variable parsing now handles quoted values and inline comments correctly
+- Build cache is validated before being used to skip regeneration
+- Typing in the search box no longer loses focus mid-search
+- Column headers now align properly with the rows below them
 
 ## [0.1.0] - 2025-04-12
 
