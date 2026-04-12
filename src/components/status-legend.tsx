@@ -68,7 +68,7 @@ export const StatusLegend = () => {
         <Button
           variant='ghost'
           size='sm'
-          className='h-7 w-7 p-0 text-muted-foreground hover:text-foreground hover:bg-muted/50 transition-all group'
+          className='h-9 w-9 sm:h-7 sm:w-7 p-0 text-muted-foreground hover:text-foreground hover:bg-muted/50 transition-all group'
           aria-label='Show status legend'
         >
           <Info className='h-3.5 w-3.5 group-hover:scale-110 transition-transform' />
@@ -111,7 +111,7 @@ export const StatusLegend = () => {
         </div>
 
         <div className='mt-6 pt-4 border-t border-border/50'>
-          <p className='text-xs text-muted-foreground/80 font-mono'>Hover over any status badge in the table to see its definition quickly.</p>
+          <p className='text-xs text-muted-foreground/80 font-mono'>Tap or hover any status badge in the table to see its definition quickly.</p>
         </div>
       </DialogContent>
     </Dialog>

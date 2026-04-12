@@ -73,7 +73,7 @@ export const StatusBadgeTooltip = ({ status, color, bg }: StatusBadgeTooltipProp
       <PopoverTrigger asChild>
         <button
           type='button'
-          className='inline-flex items-center px-2.5 py-1 rounded text-[11px] font-mono font-semibold uppercase tracking-wider border cursor-help transition-all hover:scale-105 hover:shadow-sm'
+          className='inline-flex items-center px-2 py-0.5 sm:px-2.5 sm:py-1 rounded text-[11px] font-mono font-semibold uppercase tracking-wider border cursor-pointer transition-all hover:scale-105 hover:shadow-sm'
           style={{
             backgroundColor: bg,
             color: color,

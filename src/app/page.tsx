@@ -27,7 +27,7 @@ const HomePage = () => {
                 <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Multi-Game Randomizer Directory</p>
               </div>
             </div>
-            <div className='mr-16'>
+            <div className='mr-10 sm:mr-16'>
               <ModeToggle />
             </div>
           </div>

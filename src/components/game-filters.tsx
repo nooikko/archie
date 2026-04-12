@@ -111,7 +111,7 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
     const triggerButton = (
       <Button
         variant='outline'
-        className='h-auto min-h-[40px] justify-between gap-2 sm:gap-3 border-border bg-background px-2.5 sm:px-3 py-2 font-mono text-[11px] font-bold uppercase tracking-widest transition-colors hover:border-foreground/30 hover:bg-muted/50 data-[state=open]:border-foreground/50 data-[state=open]:bg-muted/30'
+        className='h-auto min-h-11 sm:min-h-10 justify-between gap-2 sm:gap-3 border-border bg-background px-2.5 sm:px-3 py-2 font-mono text-[11px] font-bold uppercase tracking-widest transition-colors hover:border-foreground/30 hover:bg-muted/50 data-[state=open]:border-foreground/50 data-[state=open]:bg-muted/30'
       >
         <div className='flex items-center gap-1.5 sm:gap-2'>
           <span className='text-muted-foreground'>
@@ -130,7 +130,7 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
     const filterContent = (
       <Command className='rounded-lg border-border'>
         <CommandInput placeholder={`Search ${label.toLowerCase()}...`} className='h-10 font-mono text-xs' />
-        <CommandList className='max-h-[50vh] sm:max-h-[300px]'>
+        <CommandList className='max-h-[50vh] sm:max-h-75'>
           <CommandEmpty className='py-6 text-center font-mono text-xs text-muted-foreground'>No results found.</CommandEmpty>
           <CommandGroup>
             {options.map((option) => {
@@ -143,7 +143,7 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
                   className='cursor-pointer font-mono text-xs aria-selected:bg-accent aria-selected:text-accent-foreground'
                 >
                   <div className='flex items-center gap-3'>
-                    <Checkbox checked={isSelected} className='h-4 w-4 shrink-0' />
+                    <Checkbox checked={isSelected} className='h-4.5 w-4.5 sm:h-4 sm:w-4 shrink-0' />
                     <span className={isSelected ? 'font-semibold' : ''}>{option}</span>
                   </div>
                 </CommandItem>
@@ -173,7 +173,7 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
     return (
       <Popover open={isOpen} onOpenChange={(open) => setOpenPopover(open ? filterType : null)}>
         <PopoverTrigger asChild>{triggerButton}</PopoverTrigger>
-        <PopoverContent className='w-[280px] p-0' align='start' sideOffset={8}>
+        <PopoverContent className='w-70 p-0' align='start' sideOffset={8}>
           {filterContent}
         </PopoverContent>
       </Popover>
@@ -218,10 +218,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('status', value)}
-                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                className='ml-0.5 p-0.5 sm:p-0 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >
-                <X className='h-3 w-3' />
+                <X className='h-3.5 w-3.5 sm:h-3 sm:w-3' />
               </button>
             </Badge>
           ))}
@@ -236,10 +236,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('platform', value)}
-                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                className='ml-0.5 p-0.5 sm:p-0 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >
-                <X className='h-3 w-3' />
+                <X className='h-3.5 w-3.5 sm:h-3 sm:w-3' />
               </button>
             </Badge>
           ))}
@@ -254,10 +254,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('emulator', value)}
-                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                className='ml-0.5 p-0.5 sm:p-0 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >
-                <X className='h-3 w-3' />
+                <X className='h-3.5 w-3.5 sm:h-3 sm:w-3' />
               </button>
             </Badge>
           ))}
@@ -272,10 +272,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('genre', value)}
-                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                className='ml-0.5 p-0.5 sm:p-0 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >
-                <X className='h-3 w-3' />
+                <X className='h-3.5 w-3.5 sm:h-3 sm:w-3' />
               </button>
             </Badge>
           ))}
@@ -290,10 +290,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('type', value)}
-                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                className='ml-0.5 p-0.5 sm:p-0 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >
-                <X className='h-3 w-3' />
+                <X className='h-3.5 w-3.5 sm:h-3 sm:w-3' />
               </button>
             </Badge>
           ))}

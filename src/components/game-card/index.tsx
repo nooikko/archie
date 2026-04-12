@@ -76,7 +76,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
     >
       {/* Game name + metadata - flexible width */}
       <div className='flex flex-col gap-1.5 min-w-0'>
-        <div className='flex items-center gap-1.5 min-w-0'>
+        <div className='flex items-center min-w-0'>
           <h3 className='font-medium text-[15px] text-foreground truncate group-hover:text-primary transition-colors min-w-0 flex-1'>
             {game.DownloadUrl ? (
               <a
@@ -89,10 +89,9 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
                 {game.Game}
               </a>
             ) : (
-              game.Game
+              <NoLinkTooltip type={game.Type}>{game.Game}</NoLinkTooltip>
             )}
           </h3>
-          {!game.DownloadUrl && <NoLinkTooltip />}
         </div>
 
         {/* Metadata row: Year + Genres */}
@@ -122,7 +121,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
       {/* Type badge - own column */}
       <div className='flex items-center justify-center'>
         <span
-          className='inline-flex items-center px-2.5 py-1 rounded text-[11px] font-mono font-semibold uppercase tracking-wider border shrink-0'
+          className='inline-flex items-center px-2 py-0.5 sm:px-2.5 sm:py-1 rounded text-[11px] font-mono font-semibold uppercase tracking-wider border shrink-0'
           style={{
             backgroundColor: isTool ? 'var(--type-tool-bg)' : 'var(--type-game-bg)',
             color: isTool ? 'var(--type-tool)' : 'var(--type-game)',

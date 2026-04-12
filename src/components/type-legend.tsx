@@ -27,7 +27,7 @@ export const TypeLegend = () => {
         <Button
           variant='ghost'
           size='sm'
-          className='h-7 w-7 p-0 text-muted-foreground hover:text-foreground hover:bg-muted/50 transition-all group'
+          className='h-9 w-9 sm:h-7 sm:w-7 p-0 text-muted-foreground hover:text-foreground hover:bg-muted/50 transition-all group'
           aria-label='Show type legend'
         >
           <Info className='h-3.5 w-3.5 group-hover:scale-110 transition-transform' />

@@ -1,10 +1,14 @@
 'use client';
 
-import { HelpCircle } from 'lucide-react';
 import { useEffect, useRef, useState } from 'react';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 
-export const NoLinkTooltip = () => {
+interface NoLinkTooltipProps {
+  children: React.ReactNode;
+  type: string;
+}
+
+export const NoLinkTooltip = ({ children, type }: NoLinkTooltipProps) => {
   const [open, setOpen] = useState(false);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const hoverTimeoutRef = useRef<NodeJS.Timeout | null>(null);
@@ -45,13 +49,13 @@ export const NoLinkTooltip = () => {
       <PopoverTrigger asChild>
         <button
           type='button'
-          className='shrink-0 cursor-help text-muted-foreground/40 hover:text-muted-foreground/70 transition-colors bg-transparent border-0 p-0 outline-none focus-visible:outline-none'
+          className='cursor-pointer text-left min-w-0 flex-1 truncate bg-transparent border-0 p-0 outline-none focus-visible:outline-none text-foreground hover:text-primary transition-colors'
           onMouseEnter={handleMouseEnter}
           onMouseLeave={handleMouseLeave}
           onClick={handleClick}
           aria-label='No download link available'
         >
-          <HelpCircle className='h-3.5 w-3.5' />
+          {children}
         </button>
       </PopoverTrigger>
       <PopoverContent
@@ -61,7 +65,7 @@ export const NoLinkTooltip = () => {
         onMouseEnter={() => !isTouchDevice && setOpen(true)}
         onMouseLeave={() => !isTouchDevice && setOpen(false)}
       >
-        <p className='text-xs text-muted-foreground leading-relaxed'>No download link available for this game.</p>
+        <p className='text-xs text-muted-foreground leading-relaxed'>No download link available for this {type.toLowerCase()}.</p>
       </PopoverContent>
     </Popover>
   );
