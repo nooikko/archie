@@ -3,6 +3,7 @@ import { GitHubCorner } from '@/components/github-corner';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
+import { version } from '../../package.json';
 
 const HomePage = () => {
   const gameCount = allGames.filter((game) => game.Type === 'Game').length;
@@ -44,6 +45,12 @@ const HomePage = () => {
             <div className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background'>
               <span className='font-mono text-[11px] text-muted-foreground uppercase tracking-wider'>Browse • Search • Filter</span>
             </div>
+            <a
+              href='/changelog'
+              className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
+            >
+              <span className='font-mono text-[11px] uppercase tracking-wider'>Changelog</span>
+            </a>
           </div>
         </header>
 
@@ -80,6 +87,7 @@ const HomePage = () => {
               </a>
             </p>
             <p className='font-mono text-[10px] text-muted-foreground/50 tracking-wider'>Enriched with genre and release data from RAWG</p>
+            <p className='font-mono text-[10px] text-muted-foreground/40 tracking-wider'>v{version}</p>
           </div>
         </footer>
       </div>
