@@ -73,8 +73,8 @@ const HomePage = () => {
                 className='text-foreground/80 hover:text-foreground underline decoration-dotted underline-offset-2 transition-colors'
               >
                 Xetaas APWorlds List
-              </a>
-              {' '}and the{' '}
+              </a>{' '}
+              and the{' '}
               <a
                 href='https://docs.google.com/spreadsheets/d/1iuzDTOAvdoNe8Ne8i461qGNucg5OuEoF-Ikqs8aUQZw'
                 target='_blank'

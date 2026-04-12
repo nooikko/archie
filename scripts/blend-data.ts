@@ -81,10 +81,43 @@ interface BlendOutput {
  * e.g. "Super Mario 64 (N64/PC)" → strip "(N64/PC)" → "Super Mario 64"
  */
 const KNOWN_PLATFORM_TOKENS = new Set([
-  'PC', 'N64', 'SNES', 'GBA', 'GB', 'GBC', 'PSX', 'PS1', 'PS2', 'PS3', 'NES',
-  'GC', 'WII', 'WII U', 'DS', 'NDS', '3DS', 'PSP', 'SMS', 'GEN', 'VR', 'WEB',
-  'MOBILE', 'ANDROID', 'PICO-8', '2600', 'PHYSICAL', 'GAMECUBE', 'ATARI', 'SENS',
-  'HGSS', 'PC/MOBILE', 'N64/PC', 'SNES/PC', 'PC / PHYSICAL', 'PC/WEB', 'WEB/PC',
+  'PC',
+  'N64',
+  'SNES',
+  'GBA',
+  'GB',
+  'GBC',
+  'PSX',
+  'PS1',
+  'PS2',
+  'PS3',
+  'NES',
+  'GC',
+  'WII',
+  'WII U',
+  'DS',
+  'NDS',
+  '3DS',
+  'PSP',
+  'SMS',
+  'GEN',
+  'VR',
+  'WEB',
+  'MOBILE',
+  'ANDROID',
+  'PICO-8',
+  '2600',
+  'PHYSICAL',
+  'GAMECUBE',
+  'ATARI',
+  'SENS',
+  'HGSS',
+  'PC/MOBILE',
+  'N64/PC',
+  'SNES/PC',
+  'PC / PHYSICAL',
+  'PC/WEB',
+  'WEB/PC',
 ]);
 
 /** Returns true when all slash-delimited parts of `inner` are known platform tokens. */
@@ -113,8 +146,8 @@ const extractPlatform = (raw: string): { baseName: string; platform: string } =>
 const normalise = (name: string): string =>
   name
     .toLowerCase()
-    .replace(/-/g, ' ')           // hyphens → space (Choo-Choo → Choo Choo)
-    .replace(/[''`:!?.,]/g, '')   // strip other punctuation
+    .replace(/-/g, ' ') // hyphens → space (Choo-Choo → Choo Choo)
+    .replace(/[''`:!?.,]/g, '') // strip other punctuation
     .replace(/\s+/g, ' ')
     .trim();
 
@@ -137,12 +170,7 @@ interface DiscordEntry {
  * find the `: ` that precedes a known URL prefix or status string, not just the first one.
  */
 const splitDiscordLine = (line: string): { namePart: string; urlPart: string } | null => {
-  const KNOWN_PREFIXES = [
-    'https://', 'http://',
-    'Bundled with Archipelago',
-    'Discord Thread Only',
-    'Discord Channel Only',
-  ];
+  const KNOWN_PREFIXES = ['https://', 'http://', 'Bundled with Archipelago', 'Discord Thread Only', 'Discord Channel Only'];
 
   for (const prefix of KNOWN_PREFIXES) {
     const needle = `: ${prefix}`;
@@ -275,8 +303,7 @@ const parseDrive = (filePath: string): DriveData => {
     .filter((row) => row[0] && String(row[0]).trim())
     .map((row, i) => {
       const rawType = String(row[1] ?? '').trim();
-      const type: GameType =
-        rawType === 'Meta Game' ? 'Meta Game' : rawType === 'Hint Game' ? 'Hint Game' : 'Tool';
+      const type: GameType = rawType === 'Meta Game' ? 'Meta Game' : rawType === 'Hint Game' ? 'Hint Game' : 'Tool';
       return {
         name: String(row[0]).trim(),
         type,

@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/next';
 import type { Metadata, Viewport } from 'next';
 import { JetBrains_Mono, Outfit } from 'next/font/google';
 import './globals.css';
@@ -81,6 +82,7 @@ const RootLayout = ({
       <body className={`${outfit.variable} ${jetbrainsMono.variable} antialiased`} style={{ fontFamily: 'var(--font-outfit)' }}>
         <ThemeProvider attribute='class' defaultTheme='system' enableSystem disableTransitionOnChange>
           {children}
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>

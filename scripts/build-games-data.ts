@@ -10,10 +10,10 @@
 import * as crypto from 'node:crypto';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
+import type { Game } from '../src/lib/search';
 import type { BlendedGame } from './blend-data';
 import { getCachePath, loadCache, saveCache } from './lib/enrichment-cache';
 import { enrichGame } from './lib/rawg-client';
-import type { Game } from '../src/lib/search';
 
 // ─── Paths ───────────────────────────────────────────────────────────────────
 
@@ -27,8 +27,7 @@ const API_PROGRESS_INTERVAL = 10;
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
-const calculateFileHash = (filePath: string): string =>
-  crypto.createHash('md5').update(fs.readFileSync(filePath, 'utf-8')).digest('hex');
+const calculateFileHash = (filePath: string): string => crypto.createHash('md5').update(fs.readFileSync(filePath, 'utf-8')).digest('hex');
 
 const loadOutputMetadata = (outputPath: string): { sourceHash?: string } | null => {
   if (!fs.existsSync(outputPath)) {
@@ -56,7 +55,9 @@ const ensureDir = (dir: string): void => {
  *  - Everything else → the Drive stability value (Stable / Unstable / Broken on Main)
  */
 const deriveStatus = (g: BlendedGame): string => {
-  if (g.isCoreVerified || (g.isBundled && !g.stability)) return 'Official';
+  if (g.isCoreVerified || (g.isBundled && !g.stability)) {
+    return 'Official';
+  }
   return g.stability || '';
 };
 
