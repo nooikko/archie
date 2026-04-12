@@ -16,8 +16,6 @@ const STATS = {
   },
 } satisfies Record<string, () => { label: string; message: string; color: string }>;
 
-export const revalidate = 3600;
-
 export function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const stat = searchParams.get('stat') as keyof typeof STATS | null;
