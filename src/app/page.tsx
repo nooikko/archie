@@ -1,4 +1,5 @@
 import { GameBrowser } from '@/components/game-browser';
+import { GitHubCorner } from '@/components/github-corner';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
@@ -9,11 +10,12 @@ const HomePage = () => {
 
   return (
     <main className='relative min-h-screen'>
+      <GitHubCorner href='https://github.com/nooikko/archie' />
       {/* Scroll to top button */}
       <ScrollToTop />
 
       {/* Main content */}
-      <div className='relative z-10 mx-auto px-2 sm:px-6 lg:px-8 py-8 max-w-[1920px]'>
+      <div className='relative z-10 mx-auto px-2 sm:px-6 lg:px-8 py-8 max-w-480'>
         {/* Header */}
         <header className='mb-10 space-y-6'>
           {/* Title - Clean and bold */}
@@ -25,7 +27,9 @@ const HomePage = () => {
                 <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Multi-Game Randomizer Directory</p>
               </div>
             </div>
-            <ModeToggle />
+            <div className='mr-16'>
+              <ModeToggle />
+            </div>
           </div>
 
           {/* Stats bar */}
