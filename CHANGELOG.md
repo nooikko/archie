@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Removed the Emulator column from the game list (no data available yet)
 - Status column is wider, so longer labels like "Broken on Main" display cleanly
+- Platform labels are now consistent — GameCube entries previously split between "GC" and "GameCube" now all show "GameCube"; "NDS" now shows as "DS"
+- Bundled games with no separate download link now link to their official Archipelago game page
+- Roughly 50 fewer duplicate entries in the game list, where the same APWorld was appearing under two slightly different names
 
 ### Fixed
 - Typing in the search box no longer loses focus mid-search — the input stays active while results update

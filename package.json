@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/build-games-data.ts",
+    "prebuild": "tsx --env-file=.env scripts/build-games-data.ts",
     "build": "next build",
     "start": "next start",
     "lint": "biome check --write .",

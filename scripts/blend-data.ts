@@ -2,8 +2,8 @@
 /**
  * Blend three data sources into a unified, deduplicated games dataset:
  *   1. data/Archipelago_Master_Game_List.csv       — platform, emulator, historical status
- *   2. data/discord/links.md                       — download URLs, bundled/discord-only flags
- *   3. data/drive/Archipelago Games Sheet.xlsx     — stability, PR status, type, notes
+ *   2. data/discord.md                             — download URLs, bundled/discord-only flags
+ *   3. data/drive.xlsx                             — stability, PR status, type, notes
  *
  * Output: data/blended-games.json
  */
@@ -19,8 +19,8 @@ import * as XLSX from 'xlsx';
 
 const PROJECT_ROOT = path.resolve(__dirname, '..');
 const CSV_PATH = path.join(PROJECT_ROOT, 'data', 'Archipelago_Master_Game_List.csv');
-const DISCORD_PATH = path.join(PROJECT_ROOT, 'data', 'discord', 'links.md');
-const DRIVE_PATH = path.join(PROJECT_ROOT, 'data', 'drive', 'Archipelago Games Sheet.xlsx');
+const DISCORD_PATH = path.join(PROJECT_ROOT, 'data', 'discord.md');
+const DRIVE_PATH = path.join(PROJECT_ROOT, 'data', 'drive.xlsx');
 const OUTPUT_PATH = path.join(PROJECT_ROOT, 'data', 'blended-games.json');
 
 // ─────────────────────────────────────────────────────────────
@@ -134,12 +134,53 @@ const looksLikePlatform = (inner: string): boolean => {
  * "Celeste (Open World) (PC)"        → { baseName: "Celeste (Open World)", platform: "PC" }
  * "APWebChat-Vue"                    → { baseName: "APWebChat-Vue", platform: "" }
  */
+const PLATFORM_ALIASES: Record<string, string> = {
+  GC: 'GameCube',
+  GAMECUBE: 'GameCube',
+  NDS: 'DS',
+  WEB: 'Web',
+  MOBILE: 'Mobile',
+  ANDROID: 'Android',
+  PHYSICAL: 'Physical',
+};
+
+/**
+ * Manual platform overrides for specific games where the Discord tag is wrong or ambiguous.
+ * Key = exact game name (post-blend), value = correct platform string.
+ */
+const GAME_PLATFORM_CORRECTIONS = new Map<string, string>([['Loonyland: Halloween Hill', 'PC']]);
+
+const normalisePlatform = (token: string): string => {
+  const parts = token.split(/\s*\/\s*/);
+  if (parts.length > 1) {
+    return parts.map((p) => PLATFORM_ALIASES[p.toUpperCase()] ?? p).join('/');
+  }
+  return PLATFORM_ALIASES[token.toUpperCase()] ?? token;
+};
+
 const extractPlatform = (raw: string): { baseName: string; platform: string } => {
   const match = raw.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
   if (match && looksLikePlatform(match[2])) {
-    return { baseName: match[1].trim(), platform: match[2].trim() };
+    return { baseName: match[1].trim(), platform: normalisePlatform(match[2].trim()) };
   }
   return { baseName: raw.trim(), platform: '' };
+};
+
+/**
+ * Given two URLs pointing to the same game, return the more informative one.
+ *  - Prefers URLs with ?q= params (they target a specific release in a multi-game repo)
+ *  - Otherwise prefers the longer URL (more specific tag or path)
+ */
+const richerUrl = (a: string, b: string): string => {
+  const aHasQ = a.includes('?q=');
+  const bHasQ = b.includes('?q=');
+  if (aHasQ && !bHasQ) {
+    return a;
+  }
+  if (bHasQ && !aHasQ) {
+    return b;
+  }
+  return a.length >= b.length ? a : b;
 };
 
 /** Normalise a name for use as a merge key. */
@@ -150,6 +191,31 @@ const normalise = (name: string): string =>
     .replace(/[''`:!?.,]/g, '') // strip other punctuation
     .replace(/\s+/g, ' ')
     .trim();
+
+/**
+ * Normalise a URL for use as a secondary merge key.
+ *
+ * Rules:
+ *  - Lowercase the entire URL (GitHub owner/repo are case-insensitive)
+ *  - Strip /latest from release URLs (/releases/latest → /releases)
+ *  - Preserve ?q= param — it distinguishes different games hosted in the same repo
+ *    e.g. ?q=Tetris vs ?q=Water are different APWorlds in the same fork
+ *  - Strip all other query params and fragments
+ */
+const normaliseUrl = (url: string): string | null => {
+  try {
+    const u = new URL(url);
+    const path = u.pathname
+      .toLowerCase()
+      .replace(/\/releases\/latest$/, '/releases')
+      .replace(/\/$/, '');
+    const base = u.host.toLowerCase() + path;
+    const q = u.searchParams.get('q');
+    return q ? `${base}?q=${q.toLowerCase()}` : base;
+  } catch {
+    return null;
+  }
+};
 
 // ─────────────────────────────────────────────────────────────
 // 1. Parse Discord links.md
@@ -250,10 +316,15 @@ interface DriveTool {
   downloadUrl: string;
 }
 
+interface CoreVerifiedGame {
+  name: string;
+  gamePageUrl: string;
+}
+
 interface DriveData {
   playable: DrivePlayableGame[];
-  coreVerifiedNames: string[];
-  coreVerified: Set<string>;
+  coreVerified: CoreVerifiedGame[];
+  coreVerifiedSet: Set<string>;
   tools: DriveTool[];
 }
 
@@ -287,12 +358,14 @@ const parseDrive = (filePath: string): DriveData => {
     }));
 
   // Core-Verified Worlds: description at 0 → col header at 1 → data from 2
+  // Col B (index 1) = Game Page link — used as fallback URL for bundled games with no download URL
+  const coreWs = wb.Sheets['Core-Verified Worlds'];
   const coreRows = getRows('Core-Verified Worlds');
-  const coreVerifiedNames: string[] = coreRows
+  const coreVerified: CoreVerifiedGame[] = coreRows
     .slice(2)
-    .map((row) => String(row[0] ?? '').trim())
-    .filter(Boolean);
-  const coreVerified = new Set<string>(coreVerifiedNames.map(normalise));
+    .map((row, i) => ({ name: String(row[0] ?? '').trim(), gamePageUrl: getCellLink(coreWs, `B${i + 3}`) }))
+    .filter((g) => g.name);
+  const coreVerifiedSet = new Set<string>(coreVerified.map((g) => normalise(g.name)));
 
   // Tools, Meta Games, & Hint Games: 2 description rows → col header at 2 → data from 3
   // Col C (index 2) = Links & Downloads
@@ -312,8 +385,8 @@ const parseDrive = (filePath: string): DriveData => {
       };
     });
 
-  console.log(`[Drive] Parsed ${playable.length} playable, ${coreVerified.size} core-verified, ${tools.length} tools`);
-  return { playable, coreVerifiedNames, coreVerified, tools };
+  console.log(`[Drive] Parsed ${playable.length} playable, ${coreVerifiedSet.size} core-verified, ${tools.length} tools`);
+  return { playable, coreVerified, coreVerifiedSet, tools };
 };
 
 // ─────────────────────────────────────────────────────────────
@@ -329,6 +402,10 @@ interface CsvGame {
 }
 
 const parseCsv = (filePath: string): CsvGame[] => {
+  if (!fs.existsSync(filePath)) {
+    console.log('[CSV] File not found, skipping CSV source');
+    return [];
+  }
   const content = fs.readFileSync(filePath, 'utf-8');
   const result = parse<Record<string, string>>(content, {
     header: true,
@@ -412,17 +489,20 @@ const mergeAll = (driveData: DriveData, discordEntries: DiscordEntry[], csvGames
     if (g.downloadUrl) {
       rec.downloadUrl = g.downloadUrl;
     }
-    rec.isCoreVerified = driveData.coreVerified.has(normalise(g.name));
+    rec.isCoreVerified = driveData.coreVerifiedSet.has(normalise(g.name));
     rec.sources.add('drive');
   }
 
   // ── Seed from Drive Core-Verified (bundled games not in Playable Worlds) ──
-  for (const name of driveData.coreVerifiedNames) {
-    const rec = getOrCreate(name, 'Game');
+  for (const cv of driveData.coreVerified) {
+    const rec = getOrCreate(cv.name, 'Game');
     rec.isCoreVerified = true;
     rec.isBundled = true;
     if (!rec.stability) {
       rec.stability = 'Stable';
+    }
+    if (!rec.downloadUrl && cv.gamePageUrl) {
+      rec.downloadUrl = cv.gamePageUrl;
     }
     rec.sources.add('drive');
   }
@@ -436,14 +516,37 @@ const mergeAll = (driveData: DriveData, discordEntries: DiscordEntry[], csvGames
     rec.sources.add('drive');
   }
 
+  // ── Build URL → map-key index from Drive entries (for URL-based fallback matching) ──
+  const urlKeyIndex = new Map<string, string>(); // normalised URL → map key
+  for (const [key, game] of map.entries()) {
+    if (game.downloadUrl) {
+      const urlKey = normaliseUrl(game.downloadUrl);
+      if (urlKey) {
+        urlKeyIndex.set(urlKey, key);
+      }
+    }
+  }
+
   // ── Enrich from Discord ──
   for (const entry of discordEntries) {
     const key = normalise(entry.name);
-    const rec = map.get(key);
+    let rec = map.get(key);
+
+    // Fallback: match by normalised URL when name normalisation didn't find a match
+    if (!rec && entry.url) {
+      const urlKey = normaliseUrl(entry.url);
+      const existingKey = urlKey ? urlKeyIndex.get(urlKey) : undefined;
+      if (existingKey) {
+        rec = map.get(existingKey);
+        if (rec) {
+          console.log(`[Blend] URL-matched "${entry.name}" → "${rec.name}"`);
+        }
+      }
+    }
 
     if (rec) {
-      if (!rec.downloadUrl && entry.url) {
-        rec.downloadUrl = entry.url;
+      if (entry.url) {
+        rec.downloadUrl = rec.downloadUrl ? richerUrl(rec.downloadUrl, entry.url) : entry.url;
       }
       if (!rec.platform && entry.platform) {
         rec.platform = entry.platform;
@@ -515,7 +618,7 @@ const mergeAll = (driveData: DriveData, discordEntries: DiscordEntry[], csvGames
     .map((g) => ({
       name: g.name,
       type: g.type,
-      platform: g.platform,
+      platform: GAME_PLATFORM_CORRECTIONS.get(g.name) ?? g.platform,
       emulator: g.emulator,
       stability: g.stability,
       prStatus: g.prStatus,
