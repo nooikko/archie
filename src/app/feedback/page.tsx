@@ -1,19 +1,17 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { FeedbackForm } from '@/components/feedback/feedback-form';
 import { GitHubCorner } from '@/components/github-corner';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
-import { parseMarkdown, readChangelog } from '@/lib/changelog/parse';
+import { allGames } from '@/lib/search';
 
 export const metadata: Metadata = {
-  title: 'Changelog',
-  description: 'Release history for ARCHIE — the Archipelago Multi-Game Randomizer Directory.',
+  title: 'Submit Feedback',
+  description: 'Suggest data corrections, new games, or missing info for the ARCHIE directory.',
 };
 
-const ChangelogPage = () => {
-  const raw = readChangelog();
-  const html = parseMarkdown(raw);
-
+const FeedbackPage = () => {
   return (
     <main className='relative min-h-screen'>
       <GitHubCorner href='https://github.com/nooikko/archie' />
@@ -27,15 +25,15 @@ const ChangelogPage = () => {
               <h1 className='text-6xl md:text-7xl font-extrabold tracking-tight text-foreground'>ARCHIE</h1>
               <div className='flex items-center gap-4 mt-3'>
                 <div className='h-px w-12 bg-foreground' />
-                <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Changelog</p>
+                <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Submit Feedback</p>
               </div>
             </div>
             <div className='mr-10 sm:mr-16 flex items-center gap-2'>
               <Link
-                href='/feedback'
+                href='/changelog'
                 className='inline-flex items-center px-3 py-1.5 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
               >
-                <span className='font-mono text-[11px] uppercase tracking-wider'>Feedback</span>
+                <span className='font-mono text-[11px] uppercase tracking-wider'>Changelog</span>
               </Link>
               <ModeToggle />
             </div>
@@ -49,23 +47,24 @@ const ChangelogPage = () => {
             >
               <span className='font-mono text-[11px] uppercase tracking-wider'>← Directory</span>
             </Link>
-            <a
-              href='https://github.com/nooikko/archie/releases'
-              target='_blank'
-              rel='noopener noreferrer'
-              className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
-            >
-              <span className='font-mono text-[11px] uppercase tracking-wider'>GitHub Releases →</span>
-            </a>
           </div>
         </header>
 
-        {/* Changelog content */}
-        <div
-          className='prose-changelog'
-          // biome-ignore lint/security/noDangerouslySetInnerHtml: content is from a repo-owner-authored CHANGELOG.md
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
+        {/* Intro */}
+        <div className='mb-8 space-y-2 border-l-2 border-foreground/20 pl-4'>
+          <p className='font-mono text-sm text-muted-foreground'>
+            Found incorrect or missing data? Let us know. Your submission will be reviewed and the data updated manually — it won't be applied
+            automatically.
+          </p>
+          <p className='font-mono text-xs text-muted-foreground/70'>
+            Submissions create a GitHub issue in the ARCHIE repository and are visible to maintainers.
+          </p>
+        </div>
+
+        {/* Form */}
+        <div className='max-w-xl'>
+          <FeedbackForm allGames={allGames} />
+        </div>
 
         {/* Footer */}
         <footer className='mt-16 pt-8 border-t border-border space-y-6'>
@@ -88,4 +87,4 @@ const ChangelogPage = () => {
   );
 };
 
-export default ChangelogPage;
+export default FeedbackPage;

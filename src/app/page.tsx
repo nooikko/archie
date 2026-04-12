@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { GameBrowser } from '@/components/game-browser';
 import { GitHubCorner } from '@/components/github-corner';
 import { ModeToggle } from '@/components/mode-toggle';
@@ -28,7 +29,19 @@ const HomePage = () => {
                 <p className='font-mono text-sm font-medium uppercase tracking-widest text-muted-foreground'>Multi-Game Randomizer Directory</p>
               </div>
             </div>
-            <div className='mr-10 sm:mr-16'>
+            <div className='mr-10 sm:mr-16 flex items-center gap-2'>
+              <Link
+                href='/changelog'
+                className='inline-flex items-center px-3 py-1.5 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
+              >
+                <span className='font-mono text-[11px] uppercase tracking-wider'>Changelog</span>
+              </Link>
+              <Link
+                href='/feedback'
+                className='inline-flex items-center px-3 py-1.5 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
+              >
+                <span className='font-mono text-[11px] uppercase tracking-wider'>Feedback</span>
+              </Link>
               <ModeToggle />
             </div>
           </div>
@@ -45,12 +58,6 @@ const HomePage = () => {
             <div className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background'>
               <span className='font-mono text-[11px] text-muted-foreground uppercase tracking-wider'>Browse • Search • Filter</span>
             </div>
-            <a
-              href='/changelog'
-              className='inline-flex items-center gap-2 px-4 py-2 border border-border bg-background hover:bg-foreground hover:text-background transition-all'
-            >
-              <span className='font-mono text-[11px] uppercase tracking-wider'>Changelog</span>
-            </a>
           </div>
         </header>
 
