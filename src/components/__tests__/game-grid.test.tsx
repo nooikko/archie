@@ -15,17 +15,31 @@ vi.mock('../game-card', () => ({
 const mockGames: readonly Game[] = [
   {
     Game: 'Test Game 1',
+    Type: 'Game',
     Status: 'Stable',
     Platform: 'PC',
     Emulator: '',
-    IsArchipelagoTool: 'false',
+    PrStatus: '',
+    DownloadUrl: '',
+    IsBundled: false,
+    IsDiscordOnly: false,
+    IsCoreVerified: false,
+    IsAdultContent: false,
+    Notes: '',
   },
   {
     Game: 'Test Game 2',
+    Type: 'Game',
     Status: 'Official',
     Platform: 'SNES',
     Emulator: 'BizHawk',
-    IsArchipelagoTool: 'false',
+    PrStatus: 'In Review',
+    DownloadUrl: '',
+    IsBundled: true,
+    IsDiscordOnly: false,
+    IsCoreVerified: true,
+    IsAdultContent: false,
+    Notes: '',
   },
 ] as const;
 
@@ -131,10 +145,17 @@ describe('GameGrid', () => {
     it('handles large number of games', () => {
       const largeGameList = Array.from({ length: 1000 }, (_, i) => ({
         Game: `Game ${i + 1}`,
+        Type: 'Game' as const,
         Status: 'Stable',
         Platform: 'PC',
         Emulator: '',
-        IsArchipelagoTool: 'false',
+        PrStatus: '',
+        DownloadUrl: '',
+        IsBundled: false,
+        IsDiscordOnly: false,
+        IsCoreVerified: false,
+        IsAdultContent: false,
+        Notes: '',
       }));
 
       render(<GameGrid games={largeGameList} />);

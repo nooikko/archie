@@ -4,8 +4,8 @@ import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
 
 const HomePage = () => {
-  const gameCount = allGames.filter((game) => game.IsArchipelagoTool !== 'true').length;
-  const toolCount = allGames.filter((game) => game.IsArchipelagoTool === 'true').length;
+  const gameCount = allGames.filter((game) => game.Type === 'Game').length;
+  const toolCount = allGames.filter((game) => game.Type !== 'Game').length;
 
   return (
     <main className='relative min-h-screen'>
@@ -73,6 +73,15 @@ const HomePage = () => {
                 className='text-foreground/80 hover:text-foreground underline decoration-dotted underline-offset-2 transition-colors'
               >
                 Xetaas APWorlds List
+              </a>
+              {' '}and the{' '}
+              <a
+                href='https://docs.google.com/spreadsheets/d/1iuzDTOAvdoNe8Ne8i461qGNucg5OuEoF-Ikqs8aUQZw'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='text-foreground/80 hover:text-foreground underline decoration-dotted underline-offset-2 transition-colors'
+              >
+                Community Maintained Spreadsheet
               </a>
             </p>
             <p className='font-mono text-[10px] text-muted-foreground/50 tracking-wider'>Enriched with genre and release data from RAWG</p>

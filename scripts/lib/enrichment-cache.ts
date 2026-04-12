@@ -8,7 +8,7 @@ import * as path from 'node:path';
 import type { EnrichmentCache, EnrichmentCacheEntry } from '../types';
 
 // Cache configuration
-const CACHE_VERSION = '1.0.0';
+const CACHE_VERSION = '1.1.0';
 const CACHE_FILENAME = 'enrichment-cache.json';
 
 /**
@@ -25,6 +25,7 @@ export interface CacheValue {
   readonly genres: readonly string[];
   readonly releaseYear: number | null;
   readonly isMultiplayer: boolean;
+  readonly platform: string;
 }
 
 /**
@@ -53,6 +54,7 @@ export const loadCache = (cachePath: string): Map<string, CacheValue> => {
         genres: entry.genres,
         releaseYear: entry.releaseYear,
         isMultiplayer: entry.isMultiplayer,
+        platform: entry.platform ?? '',
       });
     }
 
@@ -76,6 +78,7 @@ export const saveCache = (cachePath: string, cacheMap: Map<string, CacheValue>):
     genres: value.genres,
     releaseYear: value.releaseYear,
     isMultiplayer: value.isMultiplayer,
+    platform: value.platform,
     fetchedAt: today,
   }));
 

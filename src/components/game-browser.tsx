@@ -36,6 +36,7 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
     platform: parseUrlArray(searchParams.get('platform')),
     emulator: parseUrlArray(searchParams.get('emulator')),
     genre: parseUrlArray(searchParams.get('genre')),
+    type: parseUrlArray(searchParams.get('type')),
   }));
   const [isPending, startTransition] = useTransition();
 
@@ -56,9 +57,14 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
       });
     }
 
-    // Apply status filter (match any selected status)
+    // Apply status filter (match any selected status, treating empty as "Unknown")
     if (filters.status.length > 0) {
-      results = results.filter((game) => filters.status.includes(game.Status));
+      results = results.filter((game) => filters.status.includes(game.Status || 'Unknown'));
+    }
+
+    // Apply type filter (match any selected type)
+    if (filters.type.length > 0) {
+      results = results.filter((game) => filters.type.includes(game.Type));
     }
 
     // Apply platform filter (match any selected platform)
@@ -103,6 +109,9 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
     if (newFilters.genre.length > 0) {
       params.set('genre', newFilters.genre.join(','));
     }
+    if (newFilters.type.length > 0) {
+      params.set('type', newFilters.type.join(','));
+    }
 
     const newUrl = params.toString() ? `/?${params.toString()}` : '/';
     router.push(newUrl, { scroll: false });
@@ -115,7 +124,7 @@ export const GameBrowser = ({ allGames }: GameBrowserProps) => {
     });
   };
 
-  const handleFilterChange = (filterType: 'status' | 'platform' | 'emulator' | 'genre', values: string[]) => {
+  const handleFilterChange = (filterType: 'status' | 'platform' | 'emulator' | 'genre' | 'type', values: string[]) => {
     startTransition(() => {
       const newFilters = { ...filters, [filterType]: values };
       setFilters(newFilters);

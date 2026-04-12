@@ -55,6 +55,7 @@ export const searchGame = async (gameName: string): Promise<RAWGGame | null> => 
     key: RAWG_API_KEY,
     search: gameName,
     page_size: '1',
+    fields: 'id,slug,name,released,genres,tags,platforms,parent_platforms',
   });
 
   const url = `${RAWG_API_BASE}/games?${searchParams.toString()}`;
@@ -93,6 +94,7 @@ export interface GameEnrichmentData {
   readonly genres: readonly string[];
   readonly releaseYear: number | null;
   readonly isMultiplayer: boolean;
+  readonly platform: string;
 }
 
 /**
@@ -121,8 +123,72 @@ const extractReleaseYear = (released: string | null): number | null => {
 };
 
 /**
+ * Map RAWG parent platform slugs to our canonical platform names.
+ * RAWG uses parent_platforms for broad groupings (pc, playstation, xbox, etc.)
+ */
+const derivePlatform = (rawgGame: import('../types').RAWGGame): string => {
+  const parents = rawgGame.parent_platforms;
+  if (!parents || parents.length === 0) {
+    return '';
+  }
+
+  const slugs = new Set(parents.map((p) => p.platform.slug));
+
+  // PC-only
+  if (slugs.size === 1 && slugs.has('pc')) {
+    return 'PC';
+  }
+
+  // Console-exclusive: try to derive specific platform
+  if (slugs.has('playstation') && !slugs.has('pc')) {
+    const specific = rawgGame.platforms ?? [];
+    const ps1 = specific.some((p) => p.platform.slug === 'playstation');
+    const ps2 = specific.some((p) => p.platform.slug === 'playstation2');
+    const ps3 = specific.some((p) => p.platform.slug === 'playstation3');
+    if (ps1 && !ps2 && !ps3) {
+      return 'PS1';
+    }
+    if (ps2 && !ps1 && !ps3) {
+      return 'PS2';
+    }
+    if (ps3 && !ps1 && !ps2) {
+      return 'PS3';
+    }
+  }
+
+  if (slugs.has('nintendo') && !slugs.has('pc')) {
+    const specific = rawgGame.platforms ?? [];
+    if (specific.some((p) => p.platform.slug === 'snes')) {
+      return 'SNES';
+    }
+    if (specific.some((p) => p.platform.slug === 'nes')) {
+      return 'NES';
+    }
+    if (specific.some((p) => p.platform.slug === 'nintendo64')) {
+      return 'N64';
+    }
+    if (specific.some((p) => p.platform.slug === 'gameboy-advance')) {
+      return 'GBA';
+    }
+    if (specific.some((p) => p.platform.slug === 'gameboy-color')) {
+      return 'GBC';
+    }
+    if (specific.some((p) => p.platform.slug === 'gameboy')) {
+      return 'GB';
+    }
+  }
+
+  // Multi-platform or PC-included → PC (most AP worlds run on PC)
+  if (slugs.has('pc')) {
+    return 'PC';
+  }
+
+  return '';
+};
+
+/**
  * Enrich a single game with metadata from RAWG
- * Returns enrichment data with genres, release year, and multiplayer info
+ * Returns enrichment data with genres, release year, multiplayer info, and platform
  */
 export const enrichGame = async (gameName: string): Promise<GameEnrichmentData> => {
   const rawgGame = await searchGame(gameName);
@@ -132,6 +198,7 @@ export const enrichGame = async (gameName: string): Promise<GameEnrichmentData> 
       genres: [],
       releaseYear: null,
       isMultiplayer: false,
+      platform: '',
     };
   }
 
@@ -139,5 +206,6 @@ export const enrichGame = async (gameName: string): Promise<GameEnrichmentData> 
     genres: rawgGame.genres ? rawgGame.genres.map((genre) => genre.name) : [],
     releaseYear: extractReleaseYear(rawgGame.released),
     isMultiplayer: hasMultiplayerSupport(rawgGame.tags),
+    platform: derivePlatform(rawgGame),
   };
 };

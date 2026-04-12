@@ -17,8 +17,9 @@ interface GameFiltersProps {
     platform: string[];
     emulator: string[];
     genre: string[];
+    type: string[];
   };
-  onFilterChange: (filterType: 'status' | 'platform' | 'emulator' | 'genre', values: string[]) => void;
+  onFilterChange: (filterType: 'status' | 'platform' | 'emulator' | 'genre' | 'type', values: string[]) => void;
 }
 
 export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersProps) => {
@@ -48,11 +49,10 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
     const platforms = new Set<string>();
     const emulators = new Set<string>();
     const genres = new Set<string>();
+    const types = new Set<string>();
 
     for (const game of allGames) {
-      if (game.Status) {
-        statuses.add(game.Status);
-      }
+      statuses.add(game.Status || 'Unknown');
       if (game.Platform) {
         platforms.add(game.Platform);
       }
@@ -64,6 +64,9 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
           genres.add(genre);
         }
       }
+      if (game.Type) {
+        types.add(game.Type);
+      }
     }
 
     return {
@@ -71,16 +74,17 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
       platforms: Array.from(platforms).sort(),
       emulators: Array.from(emulators).sort(),
       genres: Array.from(genres).sort(),
+      types: Array.from(types).sort(),
     };
   }, [allGames]);
 
-  const toggleFilter = (filterType: 'status' | 'platform' | 'emulator' | 'genre', value: string) => {
+  const toggleFilter = (filterType: 'status' | 'platform' | 'emulator' | 'genre' | 'type', value: string) => {
     const currentValues = filters[filterType];
     const newValues = currentValues.includes(value) ? currentValues.filter((v) => v !== value) : [...currentValues, value];
     onFilterChange(filterType, newValues);
   };
 
-  const removeFilter = (filterType: 'status' | 'platform' | 'emulator' | 'genre', value: string) => {
+  const removeFilter = (filterType: 'status' | 'platform' | 'emulator' | 'genre' | 'type', value: string) => {
     const newValues = filters[filterType].filter((v) => v !== value);
     onFilterChange(filterType, newValues);
   };
@@ -90,12 +94,14 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
     onFilterChange('platform', []);
     onFilterChange('emulator', []);
     onFilterChange('genre', []);
+    onFilterChange('type', []);
   };
 
-  const hasActiveFilters = filters.status.length > 0 || filters.platform.length > 0 || filters.emulator.length > 0 || filters.genre.length > 0;
+  const hasActiveFilters =
+    filters.status.length > 0 || filters.platform.length > 0 || filters.emulator.length > 0 || filters.genre.length > 0 || filters.type.length > 0;
 
   const renderMultiSelectFilter = (
-    filterType: 'status' | 'platform' | 'emulator' | 'genre',
+    filterType: 'status' | 'platform' | 'emulator' | 'genre' | 'type',
     label: string,
     options: string[],
     selectedValues: string[],
@@ -184,6 +190,7 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
         {renderMultiSelectFilter('platform', 'Platform', filterOptions.platforms, filters.platform)}
         {renderMultiSelectFilter('emulator', 'Emulator', filterOptions.emulators, filters.emulator)}
         {renderMultiSelectFilter('genre', 'Genre', filterOptions.genres, filters.genre)}
+        {renderMultiSelectFilter('type', 'Type', filterOptions.types, filters.type)}
 
         {hasActiveFilters && (
           <Button
@@ -265,6 +272,24 @@ export const GameFilters = ({ allGames, filters, onFilterChange }: GameFiltersPr
               <button
                 type='button'
                 onClick={() => removeFilter('genre', value)}
+                className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
+                aria-label={`Remove ${value} filter`}
+              >
+                <X className='h-3 w-3' />
+              </button>
+            </Badge>
+          ))}
+          {filters.type.map((value) => (
+            <Badge
+              key={`type-${value}`}
+              variant='secondary'
+              className='group gap-1.5 pr-1.5 font-mono text-[10px] uppercase tracking-wide transition-all hover:bg-secondary/80'
+            >
+              <span className='text-muted-foreground'>Type:</span>
+              <span className='font-semibold'>{value}</span>
+              <button
+                type='button'
+                onClick={() => removeFilter('type', value)}
                 className='ml-0.5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2'
                 aria-label={`Remove ${value} filter`}
               >

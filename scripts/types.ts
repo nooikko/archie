@@ -55,6 +55,25 @@ export interface RAWGTag {
 }
 
 /**
+ * RAWG API platform parent info
+ */
+export interface RAWGPlatformParent {
+  readonly name: string;
+  readonly slug: string;
+}
+
+/**
+ * RAWG API platform entry
+ */
+export interface RAWGPlatformEntry {
+  readonly platform: {
+    readonly id: number;
+    readonly name: string;
+    readonly slug: string;
+  };
+}
+
+/**
  * RAWG API game response
  */
 export interface RAWGGame {
@@ -64,6 +83,8 @@ export interface RAWGGame {
   readonly released: string | null;
   readonly genres?: readonly RAWGGenre[];
   readonly tags?: readonly RAWGTag[];
+  readonly platforms?: readonly RAWGPlatformEntry[];
+  readonly parent_platforms?: readonly { readonly platform: RAWGPlatformParent }[];
 }
 
 /**
@@ -89,6 +110,7 @@ export interface EnrichmentCacheEntry {
   readonly genres: readonly string[];
   readonly releaseYear: number | null;
   readonly isMultiplayer: boolean;
+  readonly platform: string;
   readonly fetchedAt: string;
 }
 

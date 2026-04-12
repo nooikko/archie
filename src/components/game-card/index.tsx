@@ -1,5 +1,6 @@
 import { memo } from 'react';
 import type { Game } from '@/lib/search';
+import { NoLinkTooltip } from '../no-link-tooltip';
 import { StatusBadgeTooltip } from '../status-badge-tooltip';
 
 interface GameCardProps {
@@ -59,8 +60,9 @@ const getStatusColors = (status: string) => {
 };
 
 const GameCardComponent = ({ game, index }: GameCardProps) => {
-  const statusColors = getStatusColors(game.Status);
-  const isTool = game.IsArchipelagoTool === 'true';
+  const effectiveStatus = game.Status || 'Unknown';
+  const statusColors = getStatusColors(effectiveStatus);
+  const isTool = game.Type !== 'Game';
   const hasGenres = game.Genres && game.Genres.length > 0;
   const hasYear = game.ReleaseYear !== null && game.ReleaseYear !== undefined;
 
@@ -74,7 +76,24 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
     >
       {/* Game name + metadata - flexible width */}
       <div className='flex flex-col gap-1.5 min-w-0'>
-        <h3 className='font-medium text-[15px] text-foreground truncate group-hover:text-primary transition-colors'>{game.Game}</h3>
+        <div className='flex items-center gap-1.5 min-w-0'>
+          <h3 className='font-medium text-[15px] text-foreground truncate group-hover:text-primary transition-colors min-w-0 flex-1'>
+            {game.DownloadUrl ? (
+              <a
+                href={game.DownloadUrl}
+                target='_blank'
+                rel='noopener noreferrer'
+                className='hover:underline underline-offset-2'
+                onClick={(e) => e.stopPropagation()}
+              >
+                {game.Game}
+              </a>
+            ) : (
+              game.Game
+            )}
+          </h3>
+          {!game.DownloadUrl && <NoLinkTooltip />}
+        </div>
 
         {/* Metadata row: Year + Genres */}
         <div className='flex items-center gap-2 flex-wrap'>
@@ -100,7 +119,7 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
         </div>
       </div>
 
-      {/* Type badge (GAME/TOOL) - own column */}
+      {/* Type badge - own column */}
       <div className='flex items-center justify-center'>
         <span
           className='inline-flex items-center px-2.5 py-1 rounded text-[11px] font-mono font-semibold uppercase tracking-wider border shrink-0'
@@ -112,13 +131,13 @@ const GameCardComponent = ({ game, index }: GameCardProps) => {
             borderStyle: 'dashed',
           }}
         >
-          {isTool ? 'TOOL' : 'GAME'}
+          {game.Type}
         </span>
       </div>
 
       {/* Status badge - responsive width */}
       <div className='flex items-center justify-end sm:justify-start'>
-        <StatusBadgeTooltip status={game.Status} color={statusColors.text} bg={statusColors.bg} />
+        <StatusBadgeTooltip status={effectiveStatus} color={statusColors.text} bg={statusColors.bg} />
       </div>
 
       {/* Platform - hidden on mobile, visible on sm+ */}

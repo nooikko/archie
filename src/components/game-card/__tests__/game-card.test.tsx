@@ -5,10 +5,17 @@ import { GameCard } from '../index';
 
 const mockGame: Game = {
   Game: 'Test Game',
+  Type: 'Game',
   Status: 'Stable',
   Platform: 'PC',
   Emulator: '',
-  IsArchipelagoTool: 'false',
+  PrStatus: '',
+  DownloadUrl: '',
+  IsBundled: false,
+  IsDiscordOnly: false,
+  IsCoreVerified: false,
+  IsAdultContent: false,
+  Notes: '',
 };
 
 describe('GameCard', () => {
@@ -37,6 +44,22 @@ describe('GameCard', () => {
     const gameWithoutPlatform = { ...mockGame, Platform: '' };
     render(<GameCard game={gameWithoutPlatform} index={0} />);
     expect(screen.queryByText('Platform:')).not.toBeInTheDocument();
+  });
+
+  it('renders game title as a link when DownloadUrl is set', () => {
+    const gameWithLink = { ...mockGame, DownloadUrl: 'https://example.com/game' };
+    render(<GameCard game={gameWithLink} index={0} />);
+    const link = screen.getByRole('link', { name: 'Test Game' });
+    expect(link).toBeInTheDocument();
+    expect(link).toHaveAttribute('href', 'https://example.com/game');
+    expect(link).toHaveAttribute('target', '_blank');
+    expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+  });
+
+  it('renders NoLinkTooltip when DownloadUrl is absent', () => {
+    render(<GameCard game={mockGame} index={0} />);
+    expect(screen.queryByRole('link', { name: 'Test Game' })).not.toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'No download link available' })).toBeInTheDocument();
   });
 
   it('renders Official status correctly', () => {
