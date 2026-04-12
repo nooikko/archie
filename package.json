@@ -12,7 +12,7 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "prepare": "husky",
-    "blend": "tsx scripts/blend-data.ts"
+    "blend": "tsx --env-file=.env scripts/blend-data.ts"
   },
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.16",

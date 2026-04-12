@@ -7,7 +7,7 @@ import type { RAWGAPIError, RAWGGame, RAWGSearchResponse } from '../types';
 
 // RAWG API configuration
 const RAWG_API_BASE = 'https://api.rawg.io/api';
-const RAWG_API_KEY = 'RAWG_API_KEY_REDACTED';
+const RAWG_API_KEY = process.env.RAWG_API_KEY ?? '';
 
 // Rate limiting configuration (1.1 seconds between requests)
 const REQUEST_DELAY_MS = 1100;

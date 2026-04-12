@@ -32,6 +32,13 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# Private / local-only (not for public repo)
+data/
+AI_RESEARCH/
+.claude/
+CLAUDE.md
 
 # vercel
 .vercel
