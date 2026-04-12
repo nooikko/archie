@@ -58,7 +58,7 @@ describe('Loading Page', () => {
   it('applies proper container styling', () => {
     const { container } = render(<Loading />);
     // Container now uses max-w-[1920px] instead of .container class
-    const mainContainer = container.querySelector('.max-w-\\[1920px\\]');
+    const mainContainer = container.querySelector('.max-w-480');
     expect(mainContainer).toBeInTheDocument();
     expect(mainContainer).toHaveClass('mx-auto');
   });

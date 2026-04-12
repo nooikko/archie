@@ -4,22 +4,22 @@ export default function Loading() {
   return (
     <main className='relative min-h-screen'>
       {/* Main content */}
-      <div className='relative z-10 mx-auto px-2 sm:px-6 lg:px-8 py-8 max-w-[1920px]'>
+      <div className='relative z-10 mx-auto px-2 sm:px-6 lg:px-8 py-8 max-w-480'>
         {/* Header */}
         <header className='mb-10 space-y-6'>
           {/* Title - Clean and bold */}
           <div>
-            <Skeleton className='h-[72px] md:h-[84px] w-[280px] md:w-[380px] rounded-lg' />
+            <Skeleton className='h-18 md:h-21 w-70 md:w-95 rounded-lg' />
             <div className='flex items-center gap-4 mt-3'>
               <Skeleton className='h-px w-12' />
-              <Skeleton className='h-4 w-[280px] rounded' />
+              <Skeleton className='h-4 w-70 rounded' />
             </div>
           </div>
 
           {/* Stats bar */}
           <div className='flex flex-wrap items-center gap-4 text-sm'>
-            <Skeleton className='h-[40px] w-[160px] rounded-none' />
-            <Skeleton className='h-[40px] w-[220px] rounded-none' />
+            <Skeleton className='h-10 w-40 rounded-none' />
+            <Skeleton className='h-10 w-55 rounded-none' />
           </div>
         </header>
 
@@ -32,10 +32,10 @@ export default function Loading() {
           <div className='space-y-4'>
             {/* Filter Controls */}
             <div className='flex flex-wrap items-center gap-2 sm:gap-3'>
-              <Skeleton className='h-4 w-[60px] rounded' />
-              <Skeleton className='h-[40px] w-[100px] rounded' />
-              <Skeleton className='h-[40px] w-[110px] rounded' />
-              <Skeleton className='h-[40px] w-[110px] rounded' />
+              <Skeleton className='h-4 w-15 rounded' />
+              <Skeleton className='h-10 w-25 rounded' />
+              <Skeleton className='h-10 w-27.5 rounded' />
+              <Skeleton className='h-10 w-27.5 rounded' />
             </div>
           </div>
 
@@ -85,8 +85,8 @@ export default function Loading() {
         {/* Footer skeleton */}
         <div className='mt-16 pt-8 border-t border-border'>
           <div className='flex flex-col md:flex-row items-center justify-between gap-6'>
-            <Skeleton className='h-4 w-full md:w-[400px] rounded' />
-            <Skeleton className='h-[42px] w-[220px] rounded-none' />
+            <Skeleton className='h-4 w-full md:w-100 rounded' />
+            <Skeleton className='h-10.5 w-55 rounded-none' />
           </div>
         </div>
       </div>
