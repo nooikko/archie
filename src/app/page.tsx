@@ -65,16 +65,7 @@ const HomePage = () => {
           {/* Data attribution */}
           <div className='flex flex-col items-center gap-2 pt-4 border-t border-border/50'>
             <p className='font-mono text-[11px] text-muted-foreground/70 tracking-wide text-center'>
-              {'Game data sourced from the '}
-              <a
-                href='https://xetaas.github.io/apworlds.html'
-                target='_blank'
-                rel='noopener noreferrer'
-                className='text-foreground/80 hover:text-foreground underline decoration-dotted underline-offset-2 transition-colors'
-              >
-                Xetaas APWorlds List
-              </a>
-              {' and the '}
+              Game data sourced from the{' '}
               <a
                 href='https://docs.google.com/spreadsheets/d/1iuzDTOAvdoNe8Ne8i461qGNucg5OuEoF-Ikqs8aUQZw'
                 target='_blank'
