@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-04-12
+
 ### Added
 - Changelog page at `/changelog`
 
@@ -34,5 +36,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dark and light mode
 - Mobile-friendly layout
 
-[Unreleased]: https://github.com/nooikko/archie/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/nooikko/archie/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/nooikko/archie/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/nooikko/archie/releases/tag/v0.1.0
