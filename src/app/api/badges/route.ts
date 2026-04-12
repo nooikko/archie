@@ -7,7 +7,7 @@ const STATS = {
     return { label: 'games supported', message: count.toLocaleString(), color: 'blueviolet' };
   },
   apworlds: () => {
-    const count = allGames.filter((g) => g.DownloadUrl).length;
+    const count = allGames.filter((g) => g.Type === 'Game' && g.DownloadUrl).length;
     return { label: 'APWorlds available', message: count.toLocaleString(), color: '5865F2' };
   },
   platforms: () => {
