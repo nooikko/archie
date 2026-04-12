@@ -169,6 +169,10 @@ const main = async (): Promise<void> => {
     ensureDir(OUTPUT_DIR);
 
     if (!fs.existsSync(BLENDED_PATH)) {
+      if (fs.existsSync(GAMES_OUTPUT)) {
+        console.log('[Build] ✓ data/blended-games.json not found, using existing games-data.json');
+        process.exit(0);
+      }
       throw new Error(`blended-games.json not found at ${BLENDED_PATH}. Run "pnpm blend" first.`);
     }
 
