@@ -35,7 +35,7 @@ yarn-error.log*
 !.env.example
 
 # Private / local-only (not for public repo)
-data/
+/data/
 AI_RESEARCH/
 .claude/
 CLAUDE.md
