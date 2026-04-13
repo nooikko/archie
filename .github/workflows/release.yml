@@ -23,17 +23,19 @@ jobs:
       - name: Update CHANGELOG.md
         env:
           VERSION: ${{ github.event.inputs.version }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TODAY=$(date +%Y-%m-%d)
-          PREV_VERSION=$(grep -m1 '^\[.*\]:' CHANGELOG.md | sed 's/^\[\(.*\)\]:.*/\1/')
-          REPO=$(gh repo view --json nameWithOwner -q .nameWithOwner)
 
-          # Build new changelog:
-          # 1. Header (lines before ## [Unreleased])
-          # 2. Empty ## [Unreleased] section
-          # 3. New versioned section with current Unreleased content
-          # 4. Previous versioned sections
-          # 5. Updated comparison links
+          # Fail if this version already exists in the changelog
+          if grep -q "^## \[${VERSION}\]" CHANGELOG.md; then
+            echo "Error: ## [${VERSION}] already exists in CHANGELOG.md" >&2
+            exit 1
+          fi
+
+          # Get previous version from first numeric link label (skips [Unreleased])
+          PREV_VERSION=$(grep -m1 '^\[[0-9]' CHANGELOG.md | sed 's/^\[\(.*\)\]:.*/\1/')
+          REPO=$(gh repo view --json nameWithOwner -q .nameWithOwner)
 
           # Extract header (everything before ## [Unreleased])
           HEADER=$(awk '/^## \[Unreleased\]/{exit} {print}' CHANGELOG.md)
@@ -64,9 +66,6 @@ jobs:
             echo "$LINKS"
           } > CHANGELOG.md
 
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit changelog
         env:
           VERSION: ${{ github.event.inputs.version }}
@@ -83,9 +82,9 @@ jobs:
           VERSION: ${{ github.event.inputs.version }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          existing=$(gh pr list --base main --head develop --state open --json number --jq '.[0].number')
+          existing=$(gh pr list --base main --head develop --state open --json number --jq '.[0].number // empty')
           if [ -n "$existing" ]; then
-            echo "Release PR #$existing already exists — updating is not needed, it will pick up the new commit."
+            echo "Release PR #$existing already exists — it will pick up the new commit."
           else
             gh pr create \
               --base main \

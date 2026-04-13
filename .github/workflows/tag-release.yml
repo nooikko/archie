@@ -18,7 +18,12 @@ jobs:
       - name: Detect version from CHANGELOG.md
         id: version
         run: |
-          VERSION=$(grep -m1 '^\#\# \[[0-9]' CHANGELOG.md | sed 's/^## \[\(.*\)\].*/\1/')
+          set -o pipefail
+          VERSION=$(grep -m1 '^## \[[0-9]' CHANGELOG.md | sed 's/^## \[\(.*\)\].*/\1/')
+          if [ -z "$VERSION" ]; then
+            echo "Error: No release version found in CHANGELOG.md. Expected a heading like '## [1.2.3]'." >&2
+            exit 1
+          fi
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
       - name: Check if tag already exists
@@ -35,8 +40,8 @@ jobs:
         id: changelog
         run: |
           VERSION="${{ steps.version.outputs.version }}"
-          # Extract everything between ## [VERSION] and the next ## [
-          NOTES=$(awk "/^## \[${VERSION}\]/{found=1; next} found && /^## \[/{exit} found{print}" CHANGELOG.md)
+          # Use exact string match to avoid regex dot wildcard issues with semver
+          NOTES=$(awk -v header="## [${VERSION}]" '$0 == header {found=1; next} found && /^## \[/{exit} found{print}' CHANGELOG.md)
           # Strip leading/trailing blank lines
           NOTES=$(echo "$NOTES" | sed '/./,$!d' | sed -e :a -e '/^\n*$/{$d;N;ba}')
           echo "notes<<EOF" >> "$GITHUB_OUTPUT"
