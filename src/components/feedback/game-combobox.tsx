@@ -12,9 +12,10 @@ interface GameComboboxProps {
   allGames: readonly Game[];
   value: string;
   onChange: (value: string) => void;
+  id?: string;
 }
 
-export function GameCombobox({ allGames, value, onChange }: GameComboboxProps) {
+export function GameCombobox({ allGames, value, onChange, id }: GameComboboxProps) {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState('');
 
@@ -27,7 +28,7 @@ export function GameCombobox({ allGames, value, onChange }: GameComboboxProps) {
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
-        <Button variant='outline' role='combobox' aria-expanded={open} className='w-full justify-between font-mono text-sm'>
+        <Button id={id} variant='outline' role='combobox' aria-expanded={open} className='w-full justify-between font-mono text-sm'>
           {value || <span className='text-muted-foreground'>Select or type a game...</span>}
           <ChevronsUpDown className='ml-2 h-4 w-4 shrink-0 opacity-50' />
         </Button>

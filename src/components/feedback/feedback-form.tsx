@@ -237,7 +237,7 @@ export function FeedbackForm({ allGames }: FeedbackFormProps) {
               <Label htmlFor='gameName' className='font-mono text-xs uppercase tracking-wider'>
                 Game <span className='text-muted-foreground'>(required)</span>
               </Label>
-              <GameCombobox allGames={allGames} value={gameName} onChange={setGameName} />
+              <GameCombobox id='gameName' allGames={allGames} value={gameName} onChange={setGameName} />
               {fieldErrors.gameName && <p className='font-mono text-xs text-destructive'>{fieldErrors.gameName}</p>}
             </div>
           )}
@@ -248,7 +248,7 @@ export function FeedbackForm({ allGames }: FeedbackFormProps) {
               <Label htmlFor='gameName' className='font-mono text-xs uppercase tracking-wider'>
                 Game <span className='text-muted-foreground'>(optional)</span>
               </Label>
-              <GameCombobox allGames={allGames} value={gameName} onChange={setGameName} />
+              <GameCombobox id='gameName' allGames={allGames} value={gameName} onChange={setGameName} />
             </div>
           )}
 
