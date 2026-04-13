@@ -44,7 +44,7 @@
   "vcs": {
     "enabled": true,
     "clientKind": "git",
-    "defaultBranch": "main",
+    "defaultBranch": "develop",
     "useIgnoreFile": true
   },
   "linter": {
