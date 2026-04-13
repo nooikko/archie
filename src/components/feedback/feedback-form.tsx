@@ -71,6 +71,7 @@ export function FeedbackForm({ allGames }: FeedbackFormProps) {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setStatus('idle');
     const errors = validate();
     if (Object.keys(errors).length > 0) {
       setFieldErrors(errors);
