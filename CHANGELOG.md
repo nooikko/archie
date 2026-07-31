@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Feedback form at `/feedback` — submit data corrections, suggest new games, report missing info, or leave general community feedback
+- Submissions open a GitHub issue for maintainer review; nothing is applied automatically
+- Emulator column restored to the game list
+- Changelog and Feedback links moved into the header alongside the theme toggle, visible from every page
+
 ## [0.2.0] - 2026-04-12
 
 ### Added

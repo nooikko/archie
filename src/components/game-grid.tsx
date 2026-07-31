@@ -26,7 +26,7 @@ export const GameGrid = ({ games }: GameGridProps) => {
     <div className='space-y-0'>
       {/* Header */}
       <div className='sticky top-0 z-10 bg-background/95 backdrop-blur-sm border-b-2 border-border'>
-        <div className='grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_80px_160px_100px] gap-2 sm:gap-4 px-2 sm:px-6 py-3 items-center'>
+        <div className='grid grid-cols-[1fr_auto_auto] sm:grid-cols-[1fr_80px_160px_100px_110px] gap-2 sm:gap-4 px-2 sm:px-6 py-3 items-center'>
           <div className='flex items-center gap-3'>
             <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Game Title</span>
             <span className='font-mono text-[11px] font-medium text-muted-foreground/50'>({games.length})</span>
@@ -41,6 +41,9 @@ export const GameGrid = ({ games }: GameGridProps) => {
           </div>
           <div className='hidden sm:flex items-center'>
             <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Platform</span>
+          </div>
+          <div className='hidden sm:flex items-center'>
+            <span className='font-mono text-[11px] font-bold uppercase tracking-widest text-muted-foreground'>Emulator</span>
           </div>
         </div>
       </div>
