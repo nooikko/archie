@@ -4,3 +4,9 @@ ignoredBuiltDependencies:
 
 onlyBuiltDependencies:
   - msw
+
+# Transitive security patches. next pins these below their patched versions;
+# both are drop-in compatible, so we lift them rather than wait on next.
+overrides:
+  postcss: ^8.5.25
+  sharp: ^0.35.3

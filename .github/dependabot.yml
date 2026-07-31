@@ -4,5 +4,39 @@ updates:
     directory: /
     schedule:
       interval: weekly
-    open-pull-requests-limit: 5
-    target-branch: develop
+      day: monday
+    # No target-branch: updates go to the default branch (main).
+    # The repo is in maintenance mode, so routine bumps are batched into as few
+    # PRs as possible to keep the queue short. Dependabot *security* PRs are
+    # exempt from this cap and always open on their own.
+    open-pull-requests-limit: 10
+    labels: ["dependencies"]
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+    groups:
+      # React and its types move in lockstep; split across PRs they cannot typecheck.
+      react:
+        patterns: ["react", "react-dom", "@types/react", "@types/react-dom"]
+      radix:
+        patterns: ["@radix-ui/*", "radix-ui"]
+      test:
+        patterns: ["vitest", "@vitest/*", "@testing-library/*", "jsdom", "vite", "@vitejs/*"]
+      tooling:
+        patterns: ["@biomejs/*", "typescript", "tsx", "husky", "@types/node"]
+      tailwind:
+        patterns: ["tailwindcss", "@tailwindcss/*", "tw-animate-css"]
+      minor-and-patch:
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
+
+  - package-ecosystem: "github-actions"
+    directory: /
+    schedule:
+      interval: weekly
+    labels: ["dependencies", "ci"]
+    commit-message:
+      prefix: "ci"
+    groups:
+      actions:
+        patterns: ["*"]

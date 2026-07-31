@@ -1,1 +1,10 @@
-* @nooikko
+# Last matching pattern wins (the opposite of .gitignore).
+
+*                        @nooikko
+
+# Called out explicitly so a change to the build, the update policy, or this
+# file itself always requires owner review, even if the blanket rule above
+# is ever narrowed.
+/.github/CODEOWNERS      @nooikko
+/.github/workflows/      @nooikko
+/.github/dependabot.yml  @nooikko

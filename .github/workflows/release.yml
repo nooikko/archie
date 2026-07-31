@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: develop
+          ref: main
           fetch-depth: 0
 
       - name: Update CHANGELOG.md
@@ -66,29 +66,31 @@ jobs:
             echo "$LINKS"
           } > CHANGELOG.md
 
-      - name: Commit changelog
+      # main is protected, so the changelog commit goes to a short-lived release
+      # branch and reaches main through a PR like any other change.
+      - name: Commit changelog to release branch
         env:
           VERSION: ${{ github.event.inputs.version }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "release/v${VERSION}"
           git add CHANGELOG.md
           git commit -m "chore: release v${VERSION}"
-          git push origin develop
+          git push origin "release/v${VERSION}" --force-with-lease
 
       - name: Create release PR
         env:
           VERSION: ${{ github.event.inputs.version }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          existing=$(gh pr list --base main --head develop --state open --json number --jq '.[0].number // empty')
+          existing=$(gh pr list --base main --head "release/v${VERSION}" --state open --json number --jq '.[0].number // empty')
           if [ -n "$existing" ]; then
             echo "Release PR #$existing already exists — it will pick up the new commit."
           else
             gh pr create \
               --base main \
-              --head develop \
+              --head "release/v${VERSION}" \
               --title "Release v${VERSION}" \
               --body "Production release of v${VERSION}. Merging this PR will deploy to Vercel and create a GitHub Release."
           fi

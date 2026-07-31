@@ -13,6 +13,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Emulator column restored to the game list
 - Changelog and Feedback links moved into the header alongside the theme toggle, visible from every page
 
+### Changed
+- ARCHIE is now in maintenance mode; see `SECURITY.md` for what that means for support and reporting
+
+### Security
+- Updated Next.js to 16.2.12, resolving 22 advisories including server-side request forgery, middleware bypass, and cross-site scripting
+- Updated the Markdown renderer to patch a denial-of-service issue
+- Patched transitive `postcss` and `sharp` vulnerabilities
+- The production dependency tree now has no known vulnerabilities
+
 ## [0.2.0] - 2026-04-12
 
 ### Added
