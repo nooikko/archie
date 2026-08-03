@@ -11,6 +11,14 @@ updates:
     # exempt from this cap and always open on their own.
     open-pull-requests-limit: 10
     labels: ["dependencies"]
+    ignore:
+      # TypeScript 7 (the native port) does not expose the compiler API that
+      # Next.js 16 builds against: `next build` fails with "TypeScript 7.x does
+      # not provide the compiler API required by Next.js". Revisit once Next
+      # supports it — or once we're willing to set experimental.useTypeScriptCli.
+      # Minor/patch bumps within TypeScript 6 still come through normally.
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     commit-message:
       prefix: "chore(deps)"
       include: "scope"
