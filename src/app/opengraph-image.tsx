@@ -118,7 +118,7 @@ export default async function Image() {
             fontFamily: 'monospace',
           }}
         >
-          archie.findquin.com
+          archie.findquinn.com
         </div>
       </div>
     </div>,
