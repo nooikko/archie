@@ -2,11 +2,11 @@
 
 **Browse and discover every game supported by the [Archipelago](https://archipelago.gg) multi-game randomizer.**
 
-**[archie.findquin.com](https://archie.findquin.com/)**
+**[archie.findquinn.com](https://archie.findquinn.com/)**
 
-[![Games supported](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquin.com%2Fapi%2Fbadges%3Fstat%3Dgames)](https://archie.findquin.com/)
-[![APWorlds available](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquin.com%2Fapi%2Fbadges%3Fstat%3Dapworlds)](https://archie.findquin.com/)
-[![Platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquin.com%2Fapi%2Fbadges%3Fstat%3Dplatforms)](https://archie.findquin.com/)
+[![Games supported](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquinn.com%2Fapi%2Fbadges%3Fstat%3Dgames)](https://archie.findquinn.com/)
+[![APWorlds available](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquinn.com%2Fapi%2Fbadges%3Fstat%3Dapworlds)](https://archie.findquinn.com/)
+[![Platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Farchie.findquinn.com%2Fapi%2Fbadges%3Fstat%3Dplatforms)](https://archie.findquinn.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---
