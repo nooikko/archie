@@ -11,7 +11,7 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { parse } from 'papaparse';
-import * as XLSX from 'xlsx';
+import { readXlsx, type Worksheet } from './lib/xlsx-reader';
 
 // ─────────────────────────────────────────────────────────────
 // Paths
@@ -329,20 +329,24 @@ interface DriveData {
 }
 
 /** Extract the hyperlink URL from a worksheet cell address, if present. */
-const getCellLink = (ws: XLSX.WorkSheet, addr: string): string => {
-  const cell = ws[addr];
-  return cell?.l?.Target ?? '';
-};
+const getCellLink = (ws: Worksheet, addr: string): string => ws.links.get(addr) ?? '';
 
 const parseDrive = (filePath: string): DriveData => {
-  const wb = XLSX.readFile(filePath);
+  const wb = readXlsx(filePath);
 
-  const getRows = (sheetName: string): string[][] =>
-    XLSX.utils.sheet_to_json<string[]>(wb.Sheets[sheetName], { header: 1, defval: '' }) as string[][];
+  const getSheet = (sheetName: string): Worksheet => {
+    const ws = wb.sheets.get(sheetName);
+    if (!ws) {
+      throw new Error(`${filePath}: expected sheet "${sheetName}" is missing`);
+    }
+    return ws;
+  };
+
+  const getRows = (sheetName: string): string[][] => getSheet(sheetName).rows as unknown as string[][];
 
   // Playable Worlds: 5 description rows → col header row at index 5 → data from index 6
   // Col D (index 3) = Links & Downloads — hyperlink target is the download URL
-  const playableWs = wb.Sheets['Playable Worlds'];
+  const playableWs = getSheet('Playable Worlds');
   const playableRows = getRows('Playable Worlds');
   const playable: DrivePlayableGame[] = playableRows
     .slice(6)
@@ -359,7 +363,7 @@ const parseDrive = (filePath: string): DriveData => {
 
   // Core-Verified Worlds: description at 0 → col header at 1 → data from 2
   // Col B (index 1) = Game Page link — used as fallback URL for bundled games with no download URL
-  const coreWs = wb.Sheets['Core-Verified Worlds'];
+  const coreWs = getSheet('Core-Verified Worlds');
   const coreRows = getRows('Core-Verified Worlds');
   const coreVerified: CoreVerifiedGame[] = coreRows
     .slice(2)
@@ -369,7 +373,7 @@ const parseDrive = (filePath: string): DriveData => {
 
   // Tools, Meta Games, & Hint Games: 2 description rows → col header at 2 → data from 3
   // Col C (index 2) = Links & Downloads
-  const toolsWs = wb.Sheets['Tools, Meta Games, & Hint Games'];
+  const toolsWs = getSheet('Tools, Meta Games, & Hint Games');
   const toolRows = getRows('Tools, Meta Games, & Hint Games');
   const tools: DriveTool[] = toolRows
     .slice(3)
