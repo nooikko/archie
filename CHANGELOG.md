@@ -17,7 +17,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refreshed game data — 83 corrected download links and 65 platform corrections across the directory
 - ARCHIE is now in maintenance mode; see `SECURITY.md` for what that means for support and reporting
 
+### Fixed
+- 43 download links carried a stray `amp;` in their web address, which sent some of them to the wrong page — all now resolve correctly
+
 ### Security
+- Removed the unmaintained `xlsx` spreadsheet dependency, clearing a high-severity advisory that had no fix available
 - Updated Next.js to 16.2.12, resolving 22 advisories including server-side request forgery, middleware bypass, and cross-site scripting
 - Updated the Markdown renderer to patch a denial-of-service issue
 - Patched transitive `postcss` and `sharp` vulnerabilities
