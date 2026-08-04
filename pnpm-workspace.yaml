@@ -1,3 +1,16 @@
+# Supply-chain hardening: refuse any package version published less than 7 days
+# ago (value is in MINUTES; 7 * 24 * 60 = 10080). Applies to transitive deps too.
+# Malicious publishes are usually detected and pulled from the registry within
+# hours, so this cooldown closes the window in which they can reach us.
+# Docs: https://pnpm.io/settings/dependency-resolution#minimumreleaseage
+# Requires pnpm >= 10.16.0.
+minimumReleaseAge: 10080
+
+# Exempt from the cooldown. Use only for a vetted critical hotfix, and remove
+# the entry once the cooldown has elapsed. Bare names work on any supported
+# version; globs need pnpm >= 10.17, and name@version needs pnpm >= 10.19.
+minimumReleaseAgeExclude: []
+
 ignoredBuiltDependencies:
   - sharp
   - unrs-resolver

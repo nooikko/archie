@@ -118,7 +118,7 @@ export default async function Image() {
             fontFamily: 'monospace',
           }}
         >
-          archie-search.vercel.app
+          archie.findquin.com
         </div>
       </div>
     </div>,
