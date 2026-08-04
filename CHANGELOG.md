@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated the Markdown renderer to patch a denial-of-service issue
 - Patched transitive `postcss` and `sharp` vulnerabilities
 - The production dependency tree now has no known vulnerabilities
+- Dependency installs now refuse any package version published less than 7 days ago, so a compromised release has time to be caught and pulled before it can reach a build
 
 ## [0.2.0] - 2026-04-12
 
