@@ -19,7 +19,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://archie-search.vercel.app'),
+  metadataBase: new URL('https://archie.findquin.com'),
   title: {
     default: 'ARCHIE - Archipelago Multi-Game Randomizer Directory',
     template: '%s | ARCHIE',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://archie-search.vercel.app',
+    url: 'https://archie.findquin.com',
     siteName: 'ARCHIE',
     title: 'ARCHIE - Archipelago Game Directory',
     description: 'Search 500+ games in the Archipelago multi-world randomizer ecosystem. Instant filtering by status, platform, and emulator.',

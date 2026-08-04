@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changelog and Feedback links moved into the header alongside the theme toggle, visible from every page
 
 ### Changed
+- ARCHIE has moved to [archie.findquin.com](https://archie.findquin.com) — social share cards, the preview image, and README links now point to the new address
 - Refreshed game data — 83 corrected download links and 65 platform corrections across the directory
 - ARCHIE is now in maintenance mode; see `SECURITY.md` for what that means for support and reporting
 
