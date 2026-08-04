@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - 43 download links carried a stray `amp;` in their web address, which sent some of them to the wrong page — all now resolve correctly
+- The 18+ / unrated marker from the game sheet is now recorded correctly — 25 affected games were being stored as unflagged. The marker is not shown anywhere in the app yet
 
 ### Security
 - Removed the unmaintained `xlsx` spreadsheet dependency, clearing a high-severity advisory that had no fix available

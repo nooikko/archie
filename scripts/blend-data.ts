@@ -331,6 +331,22 @@ interface DriveData {
 /** Extract the hyperlink URL from a worksheet cell address, if present. */
 const getCellLink = (ws: Worksheet, addr: string): string => ws.links.get(addr) ?? '';
 
+/**
+ * Read a checkbox-style column from the Drive sheet.
+ *
+ * The sheet uses real checkboxes, which arrive as booleans — but these columns
+ * have been plain text in the past and may be again, so accept both rather
+ * than depending on how the sheet happens to be authored today.
+ */
+const isFlagSet = (value: unknown): boolean =>
+  typeof value === 'boolean'
+    ? value
+    : ['1', 'true', 'yes'].includes(
+        String(value ?? '')
+          .trim()
+          .toLowerCase(),
+      );
+
 const parseDrive = (filePath: string): DriveData => {
   const wb = readXlsx(filePath);
 
@@ -355,7 +371,7 @@ const parseDrive = (filePath: string): DriveData => {
       name: String(row[0]).trim(),
       stability: String(row[1] ?? '').trim(),
       prStatus: String(row[2] ?? '').trim(),
-      isAdultContent: String(row[4] ?? '').trim() === '1',
+      isAdultContent: isFlagSet(row[4]),
       notes: String(row[5] ?? '').trim(),
       // Row offset: 6 header rows + 1-based Excel rows
       downloadUrl: getCellLink(playableWs, `D${i + 7}`),
