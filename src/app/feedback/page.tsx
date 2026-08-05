@@ -2,18 +2,28 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { FeedbackForm } from '@/components/feedback/feedback-form';
 import { GitHubCorner } from '@/components/github-corner';
+import { JsonLd } from '@/components/json-ld';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
+import { breadcrumbStructuredData } from '@/lib/structured-data';
 
 export const metadata: Metadata = {
   title: 'Submit Feedback',
   description: 'Suggest data corrections, new games, or missing info for the ARCHIE directory.',
+  alternates: {
+    canonical: '/feedback',
+  },
 };
 
 const FeedbackPage = () => {
+  // Only the names reach the client: passing every Game object would inline the
+  // whole ~240 KB catalog into this page's RSC payload.
+  const gameNames = Array.from(new Set(allGames.map((game) => game.Game))).sort();
+
   return (
     <main className='relative min-h-screen'>
+      <JsonLd data={breadcrumbStructuredData('Submit Feedback', '/feedback')} />
       <GitHubCorner href='https://github.com/nooikko/archie' />
       <ScrollToTop />
 
@@ -63,7 +73,7 @@ const FeedbackPage = () => {
 
         {/* Form */}
         <div className='max-w-xl'>
-          <FeedbackForm allGames={allGames} />
+          <FeedbackForm gameNames={gameNames} />
         </div>
 
         {/* Footer */}

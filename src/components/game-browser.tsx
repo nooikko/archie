@@ -2,22 +2,22 @@
 
 import { useRouter, useSearchParams } from 'next/navigation';
 import { useMemo, useState, useTransition } from 'react';
-import type { Game } from '@/lib/search';
+import { allGames } from '@/lib/search';
 import { GameFilters } from './game-filters';
 import { GameGrid } from './game-grid';
 import { SearchBar } from './search-bar';
-
-interface GameBrowserProps {
-  allGames: readonly Game[];
-}
 
 /**
  * Client-side game browser with instant search, multi-select filters, and URL sync
  * Filters games locally for fast, responsive searching
  * Syncs search query and filters to URL for shareable links
  * Supports multiple selections per filter (e.g., ?status=Official,Stable)
+ *
+ * The catalog is imported directly rather than passed down from the server page:
+ * as a prop it would be serialized into the RSC payload inlined in every HTML
+ * response (~300 KB). Imported here it lands in a cacheable client chunk instead.
  */
-export const GameBrowser = ({ allGames }: GameBrowserProps) => {
+export const GameBrowser = () => {
   const router = useRouter();
   const searchParams = useSearchParams();
 

@@ -8,11 +8,11 @@ import { Label } from '@/components/ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Textarea } from '@/components/ui/textarea';
 import { CATEGORY_GAME_OPTIONAL, CATEGORY_REQUIRES_GAME, FEEDBACK_CATEGORIES, type FeedbackCategory } from '@/lib/feedback/schema';
-import type { Game } from '@/lib/search';
 import { GameCombobox } from './game-combobox';
 
 interface FeedbackFormProps {
-  allGames: readonly Game[];
+  /** Pre-deduplicated, sorted game names for the game picker. */
+  gameNames: readonly string[];
 }
 
 type FormStatus = 'idle' | 'submitting' | 'success' | 'error';
@@ -25,7 +25,7 @@ const DESCRIPTION_PLACEHOLDER: Record<FeedbackCategory, string> = {
   other: 'Describe your feedback...',
 };
 
-export function FeedbackForm({ allGames }: FeedbackFormProps) {
+export function FeedbackForm({ gameNames }: FeedbackFormProps) {
   const [category, setCategory] = useState<FeedbackCategory | ''>('');
   const [gameName, setGameName] = useState('');
   const [newGameName, setNewGameName] = useState('');
@@ -238,7 +238,7 @@ export function FeedbackForm({ allGames }: FeedbackFormProps) {
               <Label htmlFor='gameName' className='font-mono text-xs uppercase tracking-wider'>
                 Game <span className='text-muted-foreground'>(required)</span>
               </Label>
-              <GameCombobox id='gameName' allGames={allGames} value={gameName} onChange={setGameName} />
+              <GameCombobox id='gameName' gameNames={gameNames} value={gameName} onChange={setGameName} />
               {fieldErrors.gameName && <p className='font-mono text-xs text-destructive'>{fieldErrors.gameName}</p>}
             </div>
           )}
@@ -249,7 +249,7 @@ export function FeedbackForm({ allGames }: FeedbackFormProps) {
               <Label htmlFor='gameName' className='font-mono text-xs uppercase tracking-wider'>
                 Game <span className='text-muted-foreground'>(optional)</span>
               </Label>
-              <GameCombobox id='gameName' allGames={allGames} value={gameName} onChange={setGameName} />
+              <GameCombobox id='gameName' gameNames={gameNames} value={gameName} onChange={setGameName} />
             </div>
           )}
 

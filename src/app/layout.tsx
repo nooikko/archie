@@ -24,8 +24,9 @@ export const metadata: Metadata = {
     default: 'ARCHIE - Archipelago Multi-Game Randomizer Directory',
     template: '%s | ARCHIE',
   },
+  // Keep under 160 chars so Google does not truncate it in search results.
   description:
-    'Search and discover 500+ games and tools in the Archipelago multi-world randomizer ecosystem. Browse by status, platform, and emulator with instant search and filtering.',
+    'Search and discover 500+ games and tools in the Archipelago multi-world randomizer ecosystem. Filter instantly by status, platform, and emulator.',
   keywords: ['Archipelago', 'randomizer', 'multi-world', 'multi-game', 'game randomizer', 'retro games', 'speedrun', 'ROM hack', 'game mods'],
   authors: [{ name: 'ARCHIE' }],
   creator: 'ARCHIE',
@@ -36,6 +37,10 @@ export const metadata: Metadata = {
     telephone: false,
   },
   manifest: '/site.webmanifest',
+  // Default canonical for the home page; every other route overrides this in its own metadata.
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -46,6 +51,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
+    site: '@nooikko',
+    creator: '@nooikko',
     title: 'ARCHIE - Archipelago Game Directory',
     description: 'Search 500+ games in the Archipelago multi-world randomizer ecosystem.',
   },
