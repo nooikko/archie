@@ -5,21 +5,20 @@ import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
-import type { Game } from '@/lib/search';
 import { cn } from '@/lib/utils';
 
 interface GameComboboxProps {
-  allGames: readonly Game[];
+  /** Pre-deduplicated, sorted game names. Only the names are needed here, so the
+   *  page sends just those rather than the full catalog. */
+  gameNames: readonly string[];
   value: string;
   onChange: (value: string) => void;
   id?: string;
 }
 
-export function GameCombobox({ allGames, value, onChange, id }: GameComboboxProps) {
+export function GameCombobox({ gameNames, value, onChange, id }: GameComboboxProps) {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState('');
-
-  const gameNames = Array.from(new Set(allGames.map((g) => g.Game))).sort();
 
   const filtered = search ? gameNames.filter((name) => name.toLowerCase().includes(search.toLowerCase())) : gameNames;
 

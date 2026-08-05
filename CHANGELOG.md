@@ -12,8 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Submissions open a GitHub issue for maintainer review; nothing is applied automatically
 - Emulator column restored to the game list
 - Changelog and Feedback links moved into the header alongside the theme toggle, visible from every page
+- Apple touch icon, so adding ARCHIE to an iOS home screen shows the ARCHIE mark instead of a screenshot
+- SVG favicon, which stays sharp at any tab or bookmark size
+- Canonical URLs on every page, and structured data describing the directory so search engines can offer a search box for it
 
 ### Changed
+- Pages are dramatically lighter: the home page dropped from 323 KB to 55 KB and the feedback page from 323 KB to 69 KB, so both load faster on slow connections
+- Shortened the search-result description so Google no longer cuts it off mid-sentence
 - ARCHIE has moved to [archie.findquinn.com](https://archie.findquinn.com) — social share cards, the preview image, and README links now point to the new address
 - Refreshed game data — 83 corrected download links and 65 platform corrections across the directory
 - ARCHIE is now in maintenance mode; see `SECURITY.md` for what that means for support and reporting

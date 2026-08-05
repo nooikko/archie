@@ -1,9 +1,11 @@
 import Link from 'next/link';
 import { GameBrowser } from '@/components/game-browser';
 import { GitHubCorner } from '@/components/github-corner';
+import { JsonLd } from '@/components/json-ld';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { allGames } from '@/lib/search';
+import { homeStructuredData } from '@/lib/structured-data';
 import { version } from '../../package.json';
 
 const HomePage = () => {
@@ -12,6 +14,7 @@ const HomePage = () => {
 
   return (
     <main className='relative min-h-screen'>
+      <JsonLd data={homeStructuredData({ gameCount, toolCount })} />
       <GitHubCorner href='https://github.com/nooikko/archie' />
       {/* Scroll to top button */}
       <ScrollToTop />
@@ -62,7 +65,7 @@ const HomePage = () => {
         </header>
 
         {/* Game Browser with Search */}
-        <GameBrowser allGames={allGames} />
+        <GameBrowser />
 
         {/* Footer */}
         <footer className='mt-16 pt-8 border-t border-border space-y-6'>

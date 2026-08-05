@@ -1,13 +1,18 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { GitHubCorner } from '@/components/github-corner';
+import { JsonLd } from '@/components/json-ld';
 import { ModeToggle } from '@/components/mode-toggle';
 import { ScrollToTop } from '@/components/scroll-to-top';
 import { parseMarkdown, readChangelog } from '@/lib/changelog/parse';
+import { breadcrumbStructuredData } from '@/lib/structured-data';
 
 export const metadata: Metadata = {
   title: 'Changelog',
   description: 'Release history for ARCHIE — the Archipelago Multi-Game Randomizer Directory.',
+  alternates: {
+    canonical: '/changelog',
+  },
 };
 
 const ChangelogPage = () => {
@@ -16,6 +21,7 @@ const ChangelogPage = () => {
 
   return (
     <main className='relative min-h-screen'>
+      <JsonLd data={breadcrumbStructuredData('Changelog', '/changelog')} />
       <GitHubCorner href='https://github.com/nooikko/archie' />
       <ScrollToTop />
 
