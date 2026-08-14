@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Apple touch icon, so adding ARCHIE to an iOS home screen shows the ARCHIE mark instead of a screenshot
 - SVG favicon, which stays sharp at any tab or bookmark size
 - Canonical URLs on every page, and structured data describing the directory so search engines can offer a search box for it
+- A sitemap and a `robots.txt`, so search engines are told directly which pages exist and where to find the sitemap
 
 ### Changed
 - Pages are dramatically lighter: the home page dropped from 323 KB to 55 KB and the feedback page from 323 KB to 69 KB, so both load faster on slow connections
