@@ -20,7 +20,9 @@ export function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const stat = searchParams.get('stat') as keyof typeof STATS | null;
 
-  if (!stat || !(stat in STATS)) {
+  // hasOwn, not `in`: `in` walks the prototype chain, so inherited keys like
+  // `toString` and `__proto__` passed the guard and reached the lookup below.
+  if (!stat || !Object.hasOwn(STATS, stat)) {
     return NextResponse.json({ error: `Unknown stat. Valid: ${Object.keys(STATS).join(', ')}` }, { status: 400 });
   }
 

@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Apple touch icon, so adding ARCHIE to an iOS home screen shows the ARCHIE mark instead of a screenshot
 - SVG favicon, which stays sharp at any tab or bookmark size
 - Canonical URLs on every page, and structured data describing the directory so search engines can offer a search box for it
+- A sitemap and a `robots.txt`, so search engines are told directly which pages exist and where to find the sitemap
 
 ### Changed
 - Pages are dramatically lighter: the home page dropped from 323 KB to 55 KB and the feedback page from 323 KB to 69 KB, so both load faster on slow connections
@@ -26,8 +27,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - 43 download links carried a stray `amp;` in their web address, which sent some of them to the wrong page — all now resolve correctly
 - The 18+ / unrated marker from the game sheet is now recorded correctly — 25 affected games were being stored as unflagged. The marker is not shown anywhere in the app yet
+- The badge endpoint returned a server error instead of a clear "unknown stat" message for certain reserved words
 
 ### Security
+- Feedback submissions can no longer be used to send GitHub notifications to unrelated people: `@mentions` and issue references in submitted text are now inert
+- Feedback submissions are rate limited at the network edge, so a flood is turned away before it can reach the form handler or open issues
+- The rate limit now counts submissions per visitor using an address the platform sets, rather than one a sender could put in the request themselves
+- A stalled call to GitHub now times out after 10 seconds instead of holding the request open
 - Removed the unmaintained `xlsx` spreadsheet dependency, clearing a high-severity advisory that had no fix available
 - Updated Next.js to 16.2.12, resolving 22 advisories including server-side request forgery, middleware bypass, and cross-site scripting
 - Updated the Markdown renderer to patch a denial-of-service issue
