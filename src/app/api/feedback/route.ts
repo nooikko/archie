@@ -1,12 +1,14 @@
 import { NextResponse } from 'next/server';
+import { clientIp } from '@/lib/feedback/client-ip';
 import { createGitHubIssue } from '@/lib/feedback/github';
 import { checkRateLimit } from '@/lib/feedback/rate-limit';
 import { validateFeedback } from '@/lib/feedback/schema';
 
 export async function POST(request: Request) {
-  const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ?? 'unknown';
-
-  const { allowed, retryAfter } = checkRateLimit(ip);
+  // In-process only, so it resets on cold start and is per-instance. The real
+  // flood protection is the Vercel WAF rate-limit rule at the edge; this is a
+  // cheap backstop for repeat submissions hitting a warm instance.
+  const { allowed, retryAfter } = checkRateLimit(clientIp(request));
   if (!allowed) {
     return NextResponse.json(
       { error: 'Too many requests. Please wait before submitting again.' },
